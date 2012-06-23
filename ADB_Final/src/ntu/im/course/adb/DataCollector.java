@@ -235,15 +235,30 @@ public class DataCollector {
         bufWriter.close();
 	}
     
-	public Set<String> findLocationSet(String woe_id) throws IOException, SAXException, FlickrException{
+	public Set<String> findLocationSet(String woe_id){
 		SearchParameters search_parameters = new SearchParameters();
 		search_parameters.setWoeId(woe_id);
 		Set<String> set = new HashSet<String>();
 		
 		for(int i=1; i<=243116; i=i+10){
-			PhotoList photo_list = photo_interface
-					.search(search_parameters, 250, i);
+			PhotoList photo_list = null;
+			
+			try {
+				photo_list = photo_interface
+						.search(search_parameters, 250, i);
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			} catch (SAXException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			} catch (FlickrException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			
 			for(int j=0;j<250;j++){
+			  try{
 				Photo photo = (Photo) photo_list.get(j);
 				System.out.println("page_index:"+i+" photo:" + j);
 				String photo_id = photo.getId();
@@ -253,12 +268,21 @@ public class DataCollector {
 				Element photoElement = apiPhotosGetInfo(photo_id);
 				String location = parseLocation(photoElement);
 				System.out.println("location:" + location);
-				
 				String str = owner_id+","+location;
 				set.add(str);
 				System.out.println("collected count:"+set.size());
 				System.out.println("");
 				if(set.size()>=10000) return set;
+			  }catch(FlickrException e){
+				// TODO Auto-generated catch block
+				e.printStackTrace();	
+			  } catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			  } catch (SAXException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			  }
 			}
 		}
 		
