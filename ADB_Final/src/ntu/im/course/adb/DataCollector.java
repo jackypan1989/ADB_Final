@@ -163,15 +163,16 @@ public class DataCollector {
 		if (regionNode != null)
 			region = regionNode.getTextContent();
 
-		String country = countryNode.getTextContent();
+		//String country = countryNode.getTextContent();
 
 		String location_name = "";
 
-		if (country != null)
-			location_name = country;
+		//if (country != null)
+			//location_name = country;
 
 		if (region != null)
-			location_name = region + "," + location_name;
+			location_name = region ;
+			//location_name = region + "," + location_name;
 
 		if (county != null)
 			location_name = county + "," + location_name;
@@ -223,7 +224,7 @@ public class DataCollector {
 		Set<String> set = findLocationSet(woe_id);
 		
 		BufferedWriter bufWriter = 
-                new BufferedWriter(new FileWriter("location.txt"));		
+                new BufferedWriter(new FileWriter("location_10000.txt"));		
 		
 		Iterator<String> iterator = set.iterator();
         while(iterator.hasNext()) {
@@ -256,7 +257,7 @@ public class DataCollector {
 				set.add(owner_id+"/"+location);
 				System.out.print("collected count:"+set.size());
 				System.out.println("\n");
-				if(set.size()>=5) return set;
+				if(set.size()>=10000) return set;
 			}
 		}
 		
