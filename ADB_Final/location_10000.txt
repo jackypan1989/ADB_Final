@@ -1,0 +1,10 @@
+40879067@N02,Rock,Wisconsin
+45676477@N07,Suffolk,Massachusetts
+42759153@N05,San Francisco,California
+59067992@N05,Ocean,New Jersey
+81063491@N00,Plymouth,Massachusetts
+7682650@N02,Beltrami,Minnesota
+31744139@N00,Ouachita Parish,Louisiana
+17583492@N00,Manhattan,New York
+62968578@N07,Brooklyn,New York
+93786711@N00,Queens,New York

@@ -240,7 +240,7 @@ public class DataCollector {
 		search_parameters.setWoeId(woe_id);
 		Set<String> set = new HashSet<String>();
 		
-		for(int i=1; i<=243116; i++){
+		for(int i=1; i<=243116; i=i+10){
 			PhotoList photo_list = photo_interface
 					.search(search_parameters, 250, i);
 			for(int j=0;j<250;j++){
@@ -254,14 +254,15 @@ public class DataCollector {
 				String location = parseLocation(photoElement);
 				System.out.println("location:" + location);
 				
-				set.add(owner_id+"/"+location);
-				System.out.print("collected count:"+set.size());
-				System.out.println("\n");
+				String str = owner_id+","+location;
+				set.add(str);
+				System.out.println("collected count:"+set.size());
+				System.out.println("");
 				if(set.size()>=10000) return set;
 			}
 		}
 		
-		return null;
+		return set;
 	}
 	
 	
