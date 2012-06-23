@@ -1,0 +1,20 @@
+11855598@N00/Manhattan,New York,United States
+77232988@N02/Johnston,North Carolina,United States
+42521137@N00/Bronx,New York,United States
+29463046@N07/Norfolk City,Virginia,United States
+28936728@N04/Albany,New York,United States
+67664335@N00/Los Angeles,California,United States
+72182050@N00/Lincoln,Oregon,United States
+62968578@N07/Brooklyn,New York,United States
+37971606@N08/Cook,Illinois,United States
+63666148@N00/Davidson,Tennessee,United States
+88013032@N00/Georgetown,South Carolina,United States
+7780226@N02/King,Washington,United States
+67008334@N07/Blount,Tennessee,United States
+35034361421@N01/Newport,Rhode Island,United States
+39683033@N08/Greene,Pennsylvania,United States
+33988281@N00/St. Louis City,Missouri,United States
+99219204@N00/Middlesex,Massachusetts,United States
+41086578@N00/New York,United States
+74073406@N00/Manhattan,New York,United States
+26277044@N06/Forsyth,North Carolina,United States
