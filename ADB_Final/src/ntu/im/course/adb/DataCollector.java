@@ -240,7 +240,7 @@ public class DataCollector {
 		search_parameters.setWoeId(woe_id);
 		Set<String> set = new HashSet<String>();
 		
-		for(int i=1; i<=243116; i=i+10){
+		for(int i=1; i<=243116; i=i+50){
 			PhotoList photo_list = null;
 			
 			try {
@@ -282,6 +282,8 @@ public class DataCollector {
 			  } catch (SAXException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
+			  } catch (IndexOutOfBoundsException e){
+				e.printStackTrace();  
 			  }
 			}
 		}
