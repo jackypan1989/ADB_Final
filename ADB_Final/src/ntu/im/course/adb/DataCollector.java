@@ -355,7 +355,7 @@ public class DataCollector {
 					Element photosElement = XMLUtilities.getChild(userElement, "photos");
 					int count = Integer.parseInt(XMLUtilities.getChildValue(photosElement, "count"));
 					
-					if (count <= 250)
+					if (count <= 500)
 						user_set.add(owner_id);
 					    System.out.println("added_user:" + user_set.size());
 					if (user_set.size() >= 500)
