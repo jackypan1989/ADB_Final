@@ -24,6 +24,7 @@ import com.aetrion.flickr.REST;
 import com.aetrion.flickr.Response;
 import com.aetrion.flickr.Transport;
 import com.aetrion.flickr.auth.AuthUtilities;
+import com.aetrion.flickr.people.PeopleInterface;
 import com.aetrion.flickr.people.User;
 import com.aetrion.flickr.photos.GeoData;
 import com.aetrion.flickr.photos.Photo;
@@ -44,6 +45,7 @@ public class DataCollector {
 	private PlacesInterface places_interface;
 	private GeoInterface geo_interface;
 	private PhotosInterface photo_interface;
+	private PeopleInterface people_interface;
 
 	public static final String apiKey = "39e0025b08410f5c4108ec8057879d60";
 	public static final String sharedSecret = "f917f19d60b8316b";
@@ -85,6 +87,22 @@ public class DataCollector {
 		parameters.add(new Parameter("method", "flickr.photos.getInfo"));
 		parameters.add(new Parameter("api_key", apiKey));
 		parameters.add(new Parameter("photo_id", photo_id));
+
+		Response response = transport.get(transport.getPath(), parameters);
+		if (response.isError()) {
+			throw new FlickrException(response.getErrorCode(),
+					response.getErrorMessage());
+		}
+		Element placeElement = (Element) response.getPayload();
+		return placeElement;
+	}
+
+	public Element apiPeopleGetInfo(String user_id) throws IOException,
+			SAXException, FlickrException {
+		List<Parameter> parameters = new ArrayList<Parameter>();
+		parameters.add(new Parameter("method", "flickr.people.getInfo"));
+		parameters.add(new Parameter("api_key", apiKey));
+		parameters.add(new Parameter("user_id", user_id));
 
 		Response response = transport.get(transport.getPath(), parameters);
 		if (response.isError()) {
@@ -163,19 +181,26 @@ public class DataCollector {
 		if (regionNode != null)
 			region = regionNode.getTextContent();
 
-		//String country = countryNode.getTextContent();
+		String locality = null;
+		if (localityNode != null)
+			locality = localityNode.getTextContent();
+
+		// String country = countryNode.getTextContent();
 
 		String location_name = "";
 
-		//if (country != null)
-			//location_name = country;
+		// if (country != null)
+		// location_name = country;
 
 		if (region != null)
-			location_name = region ;
-			//location_name = region + "," + location_name;
+			location_name = region;
+		// location_name = region + "," + location_name;
 
 		if (county != null)
 			location_name = county + "," + location_name;
+
+		if (locality != null)
+			location_name = locality + "," + location_name;
 
 		return location_name;
 
@@ -213,39 +238,41 @@ public class DataCollector {
 
 		SearchParameters search_parameters = new SearchParameters();
 		search_parameters.setWoeId(woe_id);
-		PhotoList list = photo_interface
-				.search(search_parameters, 250, 1);
+		search_parameters.setText("travel");
+
+		PhotoList list = photo_interface.search(search_parameters, 250, 1);
 		System.out.println("total photos in America:" + list.getTotal());
 		System.out.println("page_index:" + list.getPage());
 		System.out.println("page_size:" + list.getPages());
 		System.out.println("photo_per_page:" + list.getPerPage());
 		System.out.println("");
 
-		Set<String> set = findLocationSet(woe_id);
-		
-		BufferedWriter bufWriter = 
-                new BufferedWriter(new FileWriter("location_10000.txt"));		
-		
+		Set<String> set = findSet(woe_id);
+
+		BufferedWriter bufWriter = new BufferedWriter(new FileWriter(
+				"location_travel_100.txt"));
+
 		Iterator<String> iterator = set.iterator();
-        while(iterator.hasNext()) {
-        	bufWriter.write(iterator.next());
-        	bufWriter.newLine();
-        }
-        
-        bufWriter.close();
+		while (iterator.hasNext()) {
+			bufWriter.write(iterator.next());
+			bufWriter.newLine();
+		}
+
+		bufWriter.close();
 	}
-    
-	public Set<String> findLocationSet(String woe_id){
+
+	public Set<String> findLocationSet(String woe_id) {
 		SearchParameters search_parameters = new SearchParameters();
 		search_parameters.setWoeId(woe_id);
+		search_parameters.setText("travel");
+
 		Set<String> set = new HashSet<String>();
-		
-		for(int i=1; i<=243116; i=i+50){
+
+		for (int i = 1; i <= 2700; i++) {
 			PhotoList photo_list = null;
-			
+
 			try {
-				photo_list = photo_interface
-						.search(search_parameters, 250, i);
+				photo_list = photo_interface.search(search_parameters, 250, i);
 			} catch (IOException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
@@ -256,42 +283,159 @@ public class DataCollector {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
-			
-			for(int j=0;j<250;j++){
-			  try{
-				Photo photo = (Photo) photo_list.get(j);
-				System.out.println("page_index:"+i+" photo:" + j);
-				String photo_id = photo.getId();
-				System.out.println("photo_id:" + photo_id);
-				String owner_id = (photo.getOwner()).getId();
-				System.out.println("owner_id:" + owner_id);
-				Element photoElement = apiPhotosGetInfo(photo_id);
-				String location = parseLocation(photoElement);
-				System.out.println("location:" + location);
-				String str = owner_id+","+location;
-				set.add(str);
-				System.out.println("collected count:"+set.size());
-				System.out.println("");
-				if(set.size()>=10000) return set;
-			  }catch(FlickrException e){
-				// TODO Auto-generated catch block
-				e.printStackTrace();	
-			  } catch (IOException e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
-			  } catch (SAXException e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
-			  } catch (IndexOutOfBoundsException e){
-				e.printStackTrace();  
-			  }
+
+			for (int j = 0; j <= 250; j++) {
+				try {
+					Photo photo = (Photo) photo_list.get(j);
+					System.out.println("page_index:" + i + " photo:" + j);
+					String photo_id = photo.getId();
+					System.out.println("photo_id:" + photo_id);
+					String owner_id = (photo.getOwner()).getId();
+					System.out.println("owner_id:" + owner_id);
+					Element photoElement = apiPhotosGetInfo(photo_id);
+					String location = parseLocation(photoElement);
+					System.out.println("location:" + location);
+					String str = owner_id + "," + location;
+					set.add(str);
+					System.out.println("collected count:" + set.size());
+					System.out.println("");
+					if (set.size() >= 500)
+						return set;
+				} catch (FlickrException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				} catch (IOException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				} catch (SAXException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				} catch (IndexOutOfBoundsException e) {
+					e.printStackTrace();
+				}
 			}
 		}
-		
+
 		return set;
 	}
-	
-	
+
+	public Set<String> findUserSet(String woe_id) {
+		SearchParameters search_parameters = new SearchParameters();
+		search_parameters.setWoeId(woe_id);
+		search_parameters.setText("travel");
+
+		Set<String> user_set = new HashSet<String>();
+
+		// 2706 pages about "travel page"
+		for (int i = 1; i <= 2700; i++) {
+			PhotoList photo_list = null;
+			try {
+				photo_list = photo_interface.search(search_parameters, 250, i);
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			} catch (SAXException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			} catch (FlickrException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+
+			for (int j = 0; j < 250; j++) {
+				try {
+					Photo photo = (Photo) photo_list.get(j);
+					//System.out.println("page_index:" + i + " photo:" + j);
+					String photo_id = photo.getId();
+					//System.out.println("photo_id:" + photo_id);
+					String owner_id = (photo.getOwner()).getId();
+					//System.out.println("owner_id:" + owner_id);
+					
+					Element userElement = apiPeopleGetInfo(owner_id);
+					Element photosElement = XMLUtilities.getChild(userElement, "photos");
+					int count = Integer.parseInt(XMLUtilities.getChildValue(photosElement, "count"));
+					
+					if (count <= 250)
+						user_set.add(owner_id);
+					    System.out.println("added_user:" + user_set.size());
+					if (user_set.size() >= 500)
+						return user_set;
+				} catch (NullPointerException e) {
+					e.printStackTrace();
+				} catch (IndexOutOfBoundsException e) {
+					e.printStackTrace();
+				} catch (IOException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				} catch (SAXException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				} catch (FlickrException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+			}
+		}
+
+		return user_set;
+	}
+
+	public Set<String> findSet(String woe_id) {
+		SearchParameters search_parameters = new SearchParameters();
+		search_parameters.setWoeId(woe_id);
+
+		Set<String> user_set = findUserSet(woe_id);
+		Set<String> result = new HashSet<String>();
+		PhotoList photo_list = null;
+
+		System.out.println("total user:" + user_set.size());
+		int user_count = 0;
+		String str = "";
+		int same_str = 0;
+
+		for (String owner_id : user_set) {
+			search_parameters.setUserId(owner_id);
+
+			try {
+				photo_list = photo_interface.search(search_parameters, 250, 1);
+				int pages = photo_list.getPages();
+				for (int i = 1; i <= pages; i++) {
+					photo_list = photo_interface.search(search_parameters, 250,
+							i);
+					for (Object o : photo_list) {
+						Photo photo = (Photo) o;
+						String photo_id = photo.getId();
+						Element photoElement = apiPhotosGetInfo(photo_id);
+						String location = parseLocation(photoElement);
+						System.out.println("location:" + location);
+						if (str.equals(owner_id + "," + location))
+							same_str++;
+						if (same_str >= 30) {
+							same_str = 0;
+							continue;
+						}
+						str = owner_id + "," + location;
+						result.add(str);
+						System.out.println("collected count:" + result.size());
+					}
+				}
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			} catch (SAXException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			} catch (FlickrException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			user_count++;
+			System.out.println("done user:" + user_count);
+		}
+
+		return result;
+	}
+
 	public static void main(String[] args) {
 		try {
 			DataCollector dc = new DataCollector();
