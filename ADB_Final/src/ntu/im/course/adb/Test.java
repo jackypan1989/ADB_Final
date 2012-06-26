@@ -27,7 +27,7 @@ public class Test implements Runnable {
 	@Override
 	public void run(){
 		System.out.println("running thread : Thread"+thread_id); 
-		Set<String> set = dc.findLocationSet("23424977",thread_id);
+		Set<String> set = dc.findLocationSet("23424977",thread_id,100);
 		sets.addAll(set);
     }
 	
@@ -35,7 +35,7 @@ public class Test implements Runnable {
 		
 		ArrayList<Thread> thread_list = new ArrayList<Thread>();
 		
-		for(int i = 0 ; i<10 ; i++){
+		for(int i = 0 ; i<100 ; i++){
 			thread_list.add(new Thread(new Test()));
 		}
 		
@@ -60,7 +60,7 @@ public class Test implements Runnable {
 	    BufferedWriter bufWriter;
 		try {
 			bufWriter = new BufferedWriter(new FileWriter(
-					"location_travel_muti_500.txt"));
+					"location_travel_muti_100_100_39889516@N00.txt"));
 			Iterator<String> iterator = sets.iterator();
 			while (iterator.hasNext()) {
 				bufWriter.write(iterator.next());

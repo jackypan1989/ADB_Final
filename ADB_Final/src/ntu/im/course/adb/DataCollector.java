@@ -57,8 +57,8 @@ public class DataCollector {
 	private AuthInterface auth_interface;
 	private MembersInterface member_interface;
 	
-	public static final String apiKey = "39e0025b08410f5c4108ec8057879d60";
-	public static final String sharedSecret = "f917f19d60b8316b";	
+	public static final String apiKey = "5d9aae492ab57f9e11f92bf165eb02ab";
+	public static final String sharedSecret = "0312771298811d3f";	
 	public static Transport transport;
 	public static final String METHOD_GET_INFO = "flickr.photos.getInfo";
 	
@@ -312,7 +312,7 @@ public class DataCollector {
 		search_parameters.setWoeId(woe_id);
 
 		//search_parameters.setText("travel");
-		search_parameters.setGroupId("74744754@N00");
+		search_parameters.setGroupId("57028440@N00");
 
 		
 		Set<String> set = new HashSet<String>();
@@ -369,17 +369,17 @@ public class DataCollector {
 	}
 
 	
-	public Set<String> findLocationSet(String woe_id,int tid) {
+	public Set<String> findLocationSet(String woe_id,int tid,int t_total) {
 		SearchParameters search_parameters = new SearchParameters();
 		search_parameters.setWoeId(woe_id);
 
 		//search_parameters.setText("travel");
-		search_parameters.setGroupId("74744754@N00");
+		search_parameters.setGroupId("39889516@N00");
 
 		
 		Set<String> set = new HashSet<String>();
 
-		for (int i = tid; i <= 600000; i=i+10) {
+		for (int i = tid; i <= 600000; i=i+t_total) {
 			PhotoList photo_list = null;
 
 			try {
@@ -395,7 +395,7 @@ public class DataCollector {
 				e.printStackTrace();
 			}
 
-			for (int j = 0; j <= 250; j++) {
+			for (int j = 0; j < 250; j++) {
 				try {
 					System.out.println("tid:"+tid);
 					Photo photo = (Photo) photo_list.get(j);
@@ -411,7 +411,7 @@ public class DataCollector {
 					set.add(str);
 					System.out.println("collected count:" + set.size());
 					System.out.println("");
-					if (set.size() >= 50)
+					if (set.size() >= 100)
 						return set;
 				} catch (FlickrException e) {
 					// TODO Auto-generated catch block
@@ -468,11 +468,10 @@ public class DataCollector {
 							"photos");
 					int count = Integer.parseInt(XMLUtilities.getChildValue(
 							photosElement, "count"));
-
-					if (count <= 500)
+					if (count <= 1000)
 						user_set.add(owner_id);
 					System.out.println("added_user:" + user_set.size());
-					if (user_set.size() >= 500)
+					if (user_set.size() >= 200)
 						return user_set;
 				} catch (NullPointerException e) {
 					e.printStackTrace();
