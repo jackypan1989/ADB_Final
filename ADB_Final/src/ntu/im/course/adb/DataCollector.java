@@ -368,6 +368,69 @@ public class DataCollector {
 		return set;
 	}
 
+	
+	public Set<String> findLocationSet(String woe_id,int tid) {
+		SearchParameters search_parameters = new SearchParameters();
+		search_parameters.setWoeId(woe_id);
+
+		//search_parameters.setText("travel");
+		search_parameters.setGroupId("74744754@N00");
+
+		
+		Set<String> set = new HashSet<String>();
+
+		for (int i = tid; i <= 600000; i=i+10) {
+			PhotoList photo_list = null;
+
+			try {
+				photo_list = photo_interface.search(search_parameters, 250, i);
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			} catch (SAXException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			} catch (FlickrException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+
+			for (int j = 0; j <= 250; j++) {
+				try {
+					System.out.println("tid:"+tid);
+					Photo photo = (Photo) photo_list.get(j);
+					System.out.println("page_index:" + i + " photo:" + j);
+					String photo_id = photo.getId();
+					System.out.println("photo_id:" + photo_id);
+					String owner_id = (photo.getOwner()).getId();
+					System.out.println("owner_id:" + owner_id);
+					Element photoElement = apiPhotosGetInfo(photo_id);
+					String location = parseLocation(photoElement);
+					System.out.println("location:" + location);
+					String str = owner_id + "," + location;
+					set.add(str);
+					System.out.println("collected count:" + set.size());
+					System.out.println("");
+					if (set.size() >= 50)
+						return set;
+				} catch (FlickrException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				} catch (IOException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				} catch (SAXException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				} catch (IndexOutOfBoundsException e) {
+					e.printStackTrace();
+				}
+			}
+		}
+
+		return set;
+	}
+	
 	public Set<String> findUserSet(String woe_id) {
 		SearchParameters search_parameters = new SearchParameters();
 		search_parameters.setWoeId(woe_id);
