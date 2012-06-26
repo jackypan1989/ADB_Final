@@ -247,10 +247,10 @@ public class DataCollector {
 		System.out.println("photo_per_page:" + list.getPerPage());
 		System.out.println("");
 
-		Set<String> set = findSet(woe_id);
+		Set<String> set = findLocationSet(woe_id);
 
 		BufferedWriter bufWriter = new BufferedWriter(new FileWriter(
-				"location_travel_100.txt"));
+				"location_travel_group3000.txt"));
 
 		Iterator<String> iterator = set.iterator();
 		while (iterator.hasNext()) {
@@ -264,11 +264,12 @@ public class DataCollector {
 	public Set<String> findLocationSet(String woe_id) {
 		SearchParameters search_parameters = new SearchParameters();
 		search_parameters.setWoeId(woe_id);
-		search_parameters.setText("travel");
-
+		//search_parameters.setText("travel");
+		search_parameters.setGroupId("74744754@N00");
+		
 		Set<String> set = new HashSet<String>();
 
-		for (int i = 1; i <= 2700; i++) {
+		for (int i = 1; i <= 600000; i++) {
 			PhotoList photo_list = null;
 
 			try {
@@ -299,7 +300,7 @@ public class DataCollector {
 					set.add(str);
 					System.out.println("collected count:" + set.size());
 					System.out.println("");
-					if (set.size() >= 500)
+					if (set.size() >= 3000)
 						return set;
 				} catch (FlickrException e) {
 					// TODO Auto-generated catch block
