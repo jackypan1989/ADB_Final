@@ -15,6 +15,7 @@ import javax.xml.parsers.ParserConfigurationException;
 
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
+import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
 
 import com.aetrion.flickr.Flickr;
@@ -23,7 +24,13 @@ import com.aetrion.flickr.Parameter;
 import com.aetrion.flickr.REST;
 import com.aetrion.flickr.Response;
 import com.aetrion.flickr.Transport;
+import com.aetrion.flickr.auth.Auth;
+import com.aetrion.flickr.auth.AuthInterface;
 import com.aetrion.flickr.auth.AuthUtilities;
+import com.aetrion.flickr.groups.GroupsInterface;
+import com.aetrion.flickr.groups.members.Member;
+import com.aetrion.flickr.groups.members.MembersInterface;
+import com.aetrion.flickr.groups.members.MembersList;
 import com.aetrion.flickr.people.PeopleInterface;
 import com.aetrion.flickr.people.User;
 import com.aetrion.flickr.photos.GeoData;
@@ -46,12 +53,17 @@ public class DataCollector {
 	private GeoInterface geo_interface;
 	private PhotosInterface photo_interface;
 	private PeopleInterface people_interface;
-
+	private GroupsInterface group_interface;
+	private AuthInterface auth_interface;
+	private MembersInterface member_interface;
+	
 	public static final String apiKey = "39e0025b08410f5c4108ec8057879d60";
-	public static final String sharedSecret = "f917f19d60b8316b";
+	public static final String sharedSecret = "f917f19d60b8316b";	
 	public static Transport transport;
 	public static final String METHOD_GET_INFO = "flickr.photos.getInfo";
-
+	
+	
+	
 	public DataCollector() {
 		try {
 			transport = new REST();
@@ -59,10 +71,40 @@ public class DataCollector {
 			places_interface = flickr.getPlacesInterface();
 			photo_interface = flickr.getPhotosInterface();
 			geo_interface = flickr.getGeoInterface();
+			people_interface = flickr.getPeopleInterface();
+			group_interface = flickr.getGroupsInterface();
+			auth_interface = flickr.getAuthInterface();
+			member_interface = flickr.getMembersInterface();
+			
 		} catch (ParserConfigurationException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+	}
+
+	public Element apiGroupsMembersGetList(String group_id,String per_page,String page,String token) throws IOException,
+			SAXException, FlickrException {
+		List<Parameter> parameters = new ArrayList<Parameter>();
+		parameters.add(new Parameter("method", "flickr.groups.members.getList"));
+		parameters.add(new Parameter("api_key", apiKey));
+		parameters.add(new Parameter("group_id", group_id));
+		parameters.add(new Parameter("per_page", per_page));
+		parameters.add(new Parameter("page", page));
+		parameters.add(new Parameter("auth_token", token));
+		parameters.add(
+				            new Parameter(
+				                "api_sig",
+				                AuthUtilities.getSignature(sharedSecret, parameters)
+				            )
+				        );
+		
+		Response response = transport.get(transport.getPath(), parameters);
+		if (response.isError()) {
+			throw new FlickrException(response.getErrorCode(),
+					response.getErrorMessage());
+		}
+		Element placeElement = response.getPayload();
+		return placeElement;
 	}
 
 	public Element apiPlacesGetInfo(String woe_id) throws IOException,
@@ -77,7 +119,7 @@ public class DataCollector {
 			throw new FlickrException(response.getErrorCode(),
 					response.getErrorMessage());
 		}
-		Element placeElement = (Element) response.getPayload();
+		Element placeElement = response.getPayload();
 		return placeElement;
 	}
 
@@ -93,7 +135,7 @@ public class DataCollector {
 			throw new FlickrException(response.getErrorCode(),
 					response.getErrorMessage());
 		}
-		Element placeElement = (Element) response.getPayload();
+		Element placeElement = response.getPayload();
 		return placeElement;
 	}
 
@@ -109,7 +151,7 @@ public class DataCollector {
 			throw new FlickrException(response.getErrorCode(),
 					response.getErrorMessage());
 		}
-		Element placeElement = (Element) response.getPayload();
+		Element placeElement = response.getPayload();
 		return placeElement;
 	}
 
@@ -126,7 +168,7 @@ public class DataCollector {
 			throw new FlickrException(response.getErrorCode(),
 					response.getErrorMessage());
 		}
-		Element photosElement = (Element) response.getPayload();
+		Element photosElement = response.getPayload();
 		return photosElement;
 	}
 
@@ -234,12 +276,14 @@ public class DataCollector {
 
 	public void run() throws FlickrException, IOException, SAXException {
 		String woe_id = "23424977"; // usa
+		String group_id = "74744754@N00";
 		// Element placeElement = apiPlacesGetInfo(woe_id);
 
 		SearchParameters search_parameters = new SearchParameters();
 		search_parameters.setWoeId(woe_id);
 		search_parameters.setText("travel");
-
+		search_parameters.setGroupId("74744754@N00");
+		
 		PhotoList list = photo_interface.search(search_parameters, 250, 1);
 		System.out.println("total photos in America:" + list.getTotal());
 		System.out.println("page_index:" + list.getPage());
@@ -247,7 +291,9 @@ public class DataCollector {
 		System.out.println("photo_per_page:" + list.getPerPage());
 		System.out.println("");
 
+
 		Set<String> set = findLocationSet(woe_id);
+
 
 		BufferedWriter bufWriter = new BufferedWriter(new FileWriter(
 				"location_travel_group3000.txt"));
@@ -264,8 +310,10 @@ public class DataCollector {
 	public Set<String> findLocationSet(String woe_id) {
 		SearchParameters search_parameters = new SearchParameters();
 		search_parameters.setWoeId(woe_id);
+
 		//search_parameters.setText("travel");
 		search_parameters.setGroupId("74744754@N00");
+
 		
 		Set<String> set = new HashSet<String>();
 
@@ -346,19 +394,21 @@ public class DataCollector {
 			for (int j = 0; j < 250; j++) {
 				try {
 					Photo photo = (Photo) photo_list.get(j);
-					//System.out.println("page_index:" + i + " photo:" + j);
+					// System.out.println("page_index:" + i + " photo:" + j);
 					String photo_id = photo.getId();
-					//System.out.println("photo_id:" + photo_id);
+					// System.out.println("photo_id:" + photo_id);
 					String owner_id = (photo.getOwner()).getId();
-					//System.out.println("owner_id:" + owner_id);
-					
+					// System.out.println("owner_id:" + owner_id);
+
 					Element userElement = apiPeopleGetInfo(owner_id);
-					Element photosElement = XMLUtilities.getChild(userElement, "photos");
-					int count = Integer.parseInt(XMLUtilities.getChildValue(photosElement, "count"));
-					
+					Element photosElement = XMLUtilities.getChild(userElement,
+							"photos");
+					int count = Integer.parseInt(XMLUtilities.getChildValue(
+							photosElement, "count"));
+
 					if (count <= 500)
 						user_set.add(owner_id);
-					    System.out.println("added_user:" + user_set.size());
+					System.out.println("added_user:" + user_set.size());
 					if (user_set.size() >= 500)
 						return user_set;
 				} catch (NullPointerException e) {
@@ -381,7 +431,7 @@ public class DataCollector {
 		return user_set;
 	}
 
-	public Set<String> findSet(String woe_id) {
+	public Set<String> findSet(String woe_id,String group_id) {
 		SearchParameters search_parameters = new SearchParameters();
 		search_parameters.setWoeId(woe_id);
 
@@ -437,10 +487,49 @@ public class DataCollector {
 		return result;
 	}
 
+	public void searchByGroup(){
+		
+		String group_id = "74744754@N00";
+		List<String> members = new ArrayList<String>();  
+		
+		
+		//62
+		try {
+			for(int i=1;i<=1;i++){
+				MembersList members_list = member_interface.getList(group_id, null , 100,i);
+				for(int j=0; j<members_list.getTotal();j++){
+					Member m = (Member) members_list.get(j);
+					members.add(m.getId());
+				}
+			}
+			
+			
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (SAXException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (FlickrException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		Iterator<String> iterator = members.iterator();
+		while (iterator.hasNext()) {
+			System.out.println(iterator.next());
+		}
+		
+		
+		
+	}
+
 	public static void main(String[] args) {
+		
 		try {
 			DataCollector dc = new DataCollector();
 			dc.run();
+			
 		} catch (FlickrException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -451,5 +540,8 @@ public class DataCollector {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+		
+		
+		
 	}
 }

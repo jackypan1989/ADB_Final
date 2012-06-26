@@ -82,7 +82,7 @@ public class Backup {
 		
 		PhotosetsInterface pi = flickr.getPhotosetsInterface();
 		PhotosInterface photoInt = flickr.getPhotosInterface();
-		Map allPhotos = new HashMap();
+		Map<String, Collection> allPhotos = new HashMap<String, Collection>();
 		
 		Iterator sets = pi.getList(this.nsid).getPhotosets().iterator();
 		
@@ -104,13 +104,13 @@ public class Backup {
 		
 		
 		
-		Iterator allIter = allPhotos.keySet().iterator();
+		Iterator<String> allIter = allPhotos.keySet().iterator();
 
 		while (allIter.hasNext()) {
-			String setTitle = (String) allIter.next();
+			String setTitle = allIter.next();
 			String setDirectoryName = makeSafeFilename(setTitle);
 
-			Collection currentSet = (Collection) allPhotos.get(setTitle);
+			Collection currentSet = allPhotos.get(setTitle);
 			Iterator setIterator = currentSet.iterator();
 			File setDirectory = new File(directory, setDirectoryName);
 			setDirectory.mkdir();
