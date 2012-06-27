@@ -1,0 +1,1280 @@
+34091728@N03,Miami,Miami-Dade,Florida
+59130339@N08,Key West,Monroe,Florida
+71815599@N07,Colorado
+20449709@N00,New York,Manhattan,New York
+54276883@N04,Boston,Suffolk,Massachusetts
+10336659@N04,New York,New York
+40887458@N00,Daytona Beach Shores,Volusia,Florida
+77112637@N00,Niagara Falls,Niagara,New York
+37657436@N04,Honolulu,Honolulu,Hawaii
+32876989@N00,Nevada
+70405019@N00,Plastic,Jefferson,Colorado
+10191087@N07,San Francisco,San Francisco,California
+23312836@N08,Sausalito,Marin,California
+70405019@N00,Laporte,Larimer,Colorado
+35528040@N04,Tierra Amarilla,Rio Arriba,New Mexico
+7771707@N08,Stanford,Santa Clara,California
+20801313@N00,New York,Brooklyn,New York
+55898833@N05,Arlington,Arlington,Virginia
+9414486@N03,Merced,California
+21249084@N04,San Francisco,San Francisco,California
+43470063@N08,Fort Lauderdale,Broward,Florida
+53106632@N02,Philadelphia,Philadelphia,Pennsylvania
+56140610@N06,Moab,Grand,Utah
+43285282@N00,Arizona
+53874388@N00,Berkeley,Alameda,California
+39527581@N07,Los Angeles,Los Angeles,California
+57971774@N00,New York
+22810906@N06,Orlando,Orange,Florida
+34256839@N08,San Francisco,San Francisco,California
+45206671@N00,Boulder,Boulder,Colorado
+54769054@N03,St. Helena,Napa,California
+78292354@N05,New York,Brooklyn,New York
+40165694@N03,Palo Alto,Santa Clara,California
+46144772@N00,Amador City,Amador,California
+38726696@N06,New York,Manhattan,New York
+37856083@N04,Plant City,Hillsborough,Florida
+56863399@N03,San Diego,San Diego,California
+19333590@N00,San Francisco,San Francisco,California
+29120433@N03,Honolulu,Honolulu,Hawaii
+47200218@N02,Portland,Multnomah,Oregon
+66370955@N07,Gorham,Coos,New Hampshire
+28288950@N00,Lee Vining,Mono,California
+8398907@N02,Fremont,Idaho
+64042732@N00,Watkins Glen,Schuyler,New York
+76789035@N00,Foresta,Mariposa,California
+99117185@N00,Skyland,Page,Virginia
+7734464@N06,New York,New York
+8283879@N08,Ohiopyle,Fayette,Pennsylvania
+56140610@N06,Oak Creek Residental Area,Washington,Utah
+46113235@N04,Kailua Kona,Hawaii,Hawaii
+55206343@N06,Oxnard,Ventura,California
+71854985@N00,Truro,Barnstable,Massachusetts
+10104454@N04,Chicago,Cook,Illinois
+41221502@N05,Los Angeles,Los Angeles,California
+52254014@N00,Alexandria,Alexandria City,Virginia
+21625470@N07,Waiaka,Hawaii,Hawaii
+69289466@N07,Pukalani,Maui,Hawaii
+38391318@N00,New Orleans,Orleans Parish,Louisiana
+76556259@N08,Washington,District of Columbia,District of Columbia
+40531740@N08,Atlantic City,Atlantic,New Jersey
+7761923@N05,Mono Lake,Mono,California
+37856083@N04,Orlando,Orange,Florida
+34398744@N06,Los Angeles,Los Angeles,California
+42139271@N00,Wormsloe,Chatham,Georgia
+41749034@N04,New York,New York
+62221044@N00,Texas
+21625470@N07,Puuanahulu,Hawaii,Hawaii
+70405019@N00,Bennett,Adams,Colorado
+40531740@N08,Des Moines,Polk,Iowa
+20801313@N00,New York,Staten Island,New York
+69654034@N07,New York,New York
+58755999@N05,Haleiwa,Honolulu,Hawaii
+21042056@N07,Seattle,King,Washington
+50510770@N05,San Diego,San Diego,California
+8791152@N04,Harbour Town,Beaufort,South Carolina
+36287596@N04,Utah
+64030452@N06,Destin,Okaloosa,Florida
+35528040@N04,Prewitt,Mckinley,New Mexico
+63216345@N00,Nevada
+89349957@N00,North Carolina
+20801313@N00,Englishtown,Monmouth,New Jersey
+78346079@N06,Las Vegas,Clark,Nevada
+65674027@N03,Beatty Junction,Inyo,California
+24893739@N00,Salina,Sevier,Utah
+55898833@N05,Virginia
+39548242@N03,Page,Coconino,Arizona
+52254014@N00,Washington,District of Columbia,District of Columbia
+14436113@N04,Nockenut,Wilson,Texas
+65930803@N02,Arlington Heights,Cook,Illinois
+8254841@N07,Vero Beach,Indian River,Florida
+73923439@N00,New York,Queens,New York
+9963794@N08,Windermere,Orange,Florida
+10191087@N07,Cambria Pines,San Luis Obispo,California
+26302808@N07,Drummond,Granite,Montana
+65614966@N04,New York,New York
+69654034@N07,New York,Manhattan,New York
+54769054@N03,Yountville,Napa,California
+49025062@N04,New York,New York
+9414486@N03,San Luis Obispo,California
+40165694@N03,Honolulu,Honolulu,Hawaii
+10191087@N07,Santa Barbara,Santa Barbara,California
+73753293@N00,Taholah,Grays Harbor,Washington
+37860596@N07,Annapolis,Anne Arundel,Maryland
+84454580@N00,San Diego,San Diego,California
+34091728@N03,Arizona
+30628981@N00,New York,Brooklyn,New York
+65315936@N00,Chicago,Cook,Illinois
+25943342@N00,Uniondale,Nassau,New York
+36585743@N04,Kane,Utah
+27471353@N03,New York,Manhattan,New York
+35590752@N02,Washington
+32876989@N00,Big Eddy,Wasco,Oregon
+87706526@N00,New York,Manhattan,New York
+32352764@N00,Washington,District of Columbia,District of Columbia
+65511698@N05,Denver,Denver,Colorado
+71854985@N00,Annapolis,Anne Arundel,Maryland
+37856083@N04,Haines City,Polk,Florida
+30872501@N08,Nevada
+7838598@N06,Calhoun Falls,Abbeville,South Carolina
+49243293@N00,California
+52254014@N00,Washington,Utah
+10104446@N08,Ross Bridge,Pulaski,Missouri
+21546384@N06,New York,New York
+35528040@N04,Grand Junction,Mesa,Colorado
+29483189@N00,Grant Grove,Tulare,California
+99117185@N00,Panorama,Rappahannock,Virginia
+24419989@N07,Port Canaveral,Brevard,Florida
+61659566@N00,Louisville,Jefferson,Kentucky
+71854985@N00,Provincetown,Barnstable,Massachusetts
+12592344@N04,Everglades,Collier,Florida
+25016906@N04,New York,Manhattan,New York
+28288950@N00,Clark,Nevada
+36287596@N04,Quivero,Coconino,Arizona
+43545301@N03,Maxatawny,Berks,Pennsylvania
+37856083@N04,Lake Wales,Polk,Florida
+60573804@N04,Quail,Rockcastle,Kentucky
+35528040@N04,Marienthal,Wichita,Kansas
+25943342@N00,San Francisco,San Francisco,California
+75846617@N00,San Simeon,San Luis Obispo,California
+63232478@N08,Las Cruces,Dona Ana,New Mexico
+35354298@N00,Kalalau,Kauai,Hawaii
+65930803@N02,Volo,Lake,Illinois
+45717879@N07,Celebration,Osceola,Florida
+10191087@N07,Sausalito,Marin,California
+8008932@N08,Utah
+34104198@N06,Coconino,Arizona
+23655879@N00,New York,Manhattan,New York
+22597539@N03,Dallas,Dallas,Texas
+13667121@N08,Stanford,Santa Clara,California
+69674739@N00,Colorado
+79157474@N06,Wyoming
+60749082@N00,New Orleans,Orleans Parish,Louisiana
+9414486@N03,Morro Bay,San Luis Obispo,California
+23118985@N03,Boston,Suffolk,Massachusetts
+48762421@N00,Lower Brule,Lyman,South Dakota
+10527188@N05,Birmingham,Jefferson,Alabama
+71854985@N00,Philadelphia,Philadelphia,Pennsylvania
+28299660@N08,Niagara Falls,Niagara,New York
+32763208@N04,Tennessee
+29648523@N05,Fort Pickens,Escambia,Florida
+67168825@N00,New York,Manhattan,New York
+22810906@N06,Florida
+55206343@N06,Palm Springs,Riverside,California
+64168338@N05,San Diego,San Diego,California
+65930803@N02,Rolling Meadows,Cook,Illinois
+15884594@N00,Santa Monica,Los Angeles,California
+43721326@N03,Hana,Maui,Hawaii
+61874975@N05,New York,Manhattan,New York
+55898833@N05,Cabin John,Montgomery,Maryland
+58788284@N06,Monterey,Monterey,California
+53324358@N07,Manitou Springs,El Paso,Colorado
+24033507@N04,North Muskegon,Muskegon,Michigan
+25991017@N04,Davis,Yolo,California
+25273938@N03,Green Mountain Falls,El Paso,Colorado
+43721326@N03,Hamoa,Maui,Hawaii
+65632524@N06,San Francisco,San Francisco,California
+10098714@N07,Coos,Oregon
+21625470@N07,Kaau,Hawaii,Hawaii
+47291429@N04,San Francisco,San Francisco,California
+58638057@N08,California
+52014195@N08,Huntsville,Madison,Alabama
+60062743@N03,Long Beach,Los Angeles,California
+48499977@N03,Las Vegas,Clark,Nevada
+58376470@N05,New York,Brooklyn,New York
+39081697@N06,Fort Lee,Bergen,New Jersey
+43545301@N03,Buena Vista,Orange,Florida
+59848996@N08,New York,Manhattan,New York
+69674739@N00,Tennessee
+89589700@N00,Denver,Denver,Colorado
+37657436@N04,Kaneohe,Honolulu,Hawaii
+39925737@N07,Nevada
+53061132@N07,South Portland,Cumberland,Maine
+41005569@N08,Hammond,Tulare,California
+57392159@N05,Shingleton,Alger,Michigan
+25991017@N04,California
+26302808@N07,Granite Falls,Chippewa,Minnesota
+63219576@N08,Lake Placid,Essex,New York
+42139271@N00,Cosby,Cocke,Tennessee
+47997046@N04,Utah
+56140610@N06,Yosemite West,Mariposa,California
+22342425@N03,Cambridge,Middlesex,Massachusetts
+55125704@N08,Glen Canyon,Coconino,Arizona
+25697845@N04,Seattle,King,Washington
+7838598@N06,Cleveland,Cuyahoga,Ohio
+60541269@N07,Las Vegas,Clark,Nevada
+48419453@N07,Los Angeles,Los Angeles,California
+64682727@N03,Page,Coconino,Arizona
+22471754@N04,Juneau,City and Borough of Juneau,Alaska
+26865174@N05,Washington,District of Columbia,District of Columbia
+32107667@N07,Miami,Miami-Dade,Florida
+24555384@N00,New York
+34342668@N00,Jacksonville Beach,Duval,Florida
+62657215@N00,East Marion,Suffolk,New York
+35528040@N04,Alma,Harlan,Nebraska
+37860596@N07,Rehoboth Beach,Sussex,Delaware
+35528040@N04,Colorado
+15147410@N08,Eagleville,Harrison,Missouri
+29606943@N02,New York,Manhattan,New York
+35528040@N04,El Portero,Santa Fe,New Mexico
+36287596@N04,Monument Valley,San Juan,Utah
+64682727@N03,Arizona
+68839091@N00,Manchester,Coffee,Tennessee
+22471754@N04,San Francisco,San Francisco,California
+11630535@N08,New York,New York
+72625049@N05,Chicago,Cook,Illinois
+45010354@N08,Eureka,St. Louis,Missouri
+58628800@N05,Key Biscayne,Miami-Dade,Florida
+25991017@N04,Napa,California
+76006431@N02,Jackson,Carroll,New Hampshire
+52254014@N00,Las Vegas,Clark,Nevada
+64042732@N00,Moravia,Cayuga,New York
+92188509@N00,Stillwater,Washington,Minnesota
+7838598@N06,Ingleside,Mercer,West Virginia
+53061132@N07,Scarborough,Cumberland,Maine
+53061132@N07,Saco,York,Maine
+34321540@N05,New York,New York
+63351451@N06,Muolea,Maui,Hawaii
+10104446@N08,Walnut Grove,Greene,Missouri
+51141147@N02,Rockland,Knox,Maine
+22227558@N08,Ocean Isle Beach,Brunswick,North Carolina
+34342668@N00,Miami,Miami-Dade,Florida
+68313075@N02,San Marino,Los Angeles,California
+42139271@N00,Bakers Crossing,Chatham,Georgia
+64203022@N02,New York,New York
+34398744@N06,New York,New York
+24893739@N00,Chicago,Cook,Illinois
+24781107@N05,Navajo,Arizona
+61659566@N00,Yakima,Washington
+28288950@N00,Panaca,Lincoln,Nevada
+41221502@N05,Boston,Suffolk,Massachusetts
+61322584@N07,Key West,Monroe,Florida
+42270690@N05,Bumble Bee,Coconino,Arizona
+13526149@N04,St. Louis,St. Louis City,Missouri
+9963794@N08,Columbus,Franklin,Ohio
+40472720@N00,Providence,Providence,Rhode Island
+76006431@N02,Sag Harbor,Suffolk,New York
+35528040@N04,Chama,Rio Arriba,New Mexico
+37856083@N04,Intercession City,Osceola,Florida
+65674027@N03,Page,Coconino,Arizona
+29863463@N04,San Francisco,San Francisco,California
+65511698@N05,Segundo,Las Animas,Colorado
+24893739@N00,Shabbona,De Kalb,Illinois
+64724719@N03,Rancho Palos Verdes,Los Angeles,California
+41005569@N08,Oatman,Mohave,Arizona
+61874975@N05,New York,New York
+78214882@N04,New York,New York
+32489584@N05,New York
+42139271@N00,Myrtle Beach,Horry,South Carolina
+65315936@N00,Des Moines,Polk,Iowa
+36287596@N04,Arizona
+56755616@N06,Niu,Honolulu,Hawaii
+62586117@N05,Seligman,Yavapai,Arizona
+79781814@N00,Orlando,Orange,Florida
+68045518@N03,Philadelphia,Philadelphia,Pennsylvania
+43619788@N07,New York,New York
+35528040@N04,Nambe,Santa Fe,New Mexico
+39965652@N05,Big Sur,Monterey,California
+76730958@N07,Las Vegas,Clark,Nevada
+55882150@N04,San Diego,San Diego,California
+42139271@N00,East Marlborough,Chester,Pennsylvania
+99117185@N00,Baltimore,Baltimore City,Maryland
+34104198@N06,Zzyzx,San Bernardino,California
+24735241@N02,San Francisco,San Francisco,California
+41221502@N05,Jersey City,Hudson,New Jersey
+8791152@N04,Jacksonville,Duval,Florida
+7771707@N08,Palo Alto,Santa Clara,California
+23118985@N03,New York,New York
+35528040@N04,Greenland,Douglas,Colorado
+23350550@N03,Captiva,Lee,Florida
+24893739@N00,Wickliffe,Ballard,Kentucky
+30706862@N02,Jacksonville,Duval,Florida
+57453350@N00,Savannah,Chatham,Georgia
+29648523@N05,Ocean City,Okaloosa,Florida
+7798382@N03,Seattle,King,Washington
+35528040@N04,Richfield,Conejos,Colorado
+14436113@N04,Austin,Travis,Texas
+52952366@N07,Niland,Imperial,California
+83229482@N00,Orlando,Orange,Florida
+36287596@N04,Glen Canyon,Coconino,Arizona
+34398744@N06,Lake Mead,Clark,Nevada
+22875671@N04,Atlantique,Suffolk,New York
+8661877@N05,East Brunswick,Middlesex,New Jersey
+9414486@N03,Kansas City,Jackson,Missouri
+24893739@N00,New York,Manhattan,New York
+49025062@N04,Orient,Suffolk,New York
+22886391@N00,Decatur,Dekalb,Georgia
+57392159@N05,Michigan
+64042732@N00,Jupiter,Palm Beach,Florida
+75741777@N08,Calico Basin,Clark,Nevada
+35144236@N07,St. Augustine,St. Johns,Florida
+39157270@N04,San Diego,San Diego,California
+61659566@N00,Toppenish,Yakima,Washington
+42139271@N00,Asheville,Buncombe,North Carolina
+52471377@N05,New York,Manhattan,New York
+54276883@N04,Cape Neddick,York,Maine
+35528040@N04,Torres,Rio Grande,Colorado
+47973856@N00,Anna Maria,Manatee,Florida
+32763208@N04,Silver Springs,Marion,Florida
+45206671@N00,New York,Manhattan,New York
+34433961@N02,Salem,Marion,Oregon
+20801313@N00,Oakhurst,Monmouth,New Jersey
+11160675@N08,Smyrna,Rutherford,Tennessee
+45717879@N07,Virginia Beach,Virginia Beach City,Virginia
+34342668@N00,Fort Lauderdale,Broward,Florida
+29101762@N08,St. George,Washington,Utah
+49025062@N04,Babylon,Suffolk,New York
+71145535@N06,New York,New York
+55122328@N00,Rodeo,Hidalgo,New Mexico
+47089878@N03,Winfield,Dupage,Illinois
+71854985@N00,Bay Lake,Orange,Florida
+25178664@N06,Montana
+35354298@N00,Kilauea,Kauai,Hawaii
+29606943@N02,New York,Brooklyn,New York
+61659566@N00,Washington
+63351451@N06,Hana,Maui,Hawaii
+23312836@N08,Agua Caliente,Sonoma,California
+74551891@N05,New York,New York
+33172921@N07,Arizona
+34325628@N05,Newport,Newport,Rhode Island
+56140610@N06,Utah
+35528040@N04,Walsenburg,Huerfano,Colorado
+37856083@N04,Bay Lake,Orange,Florida
+38726696@N06,New York,New York
+59197096@N03,New York,New York
+63351451@N06,Lahaina,Maui,Hawaii
+25016906@N04,New York,New York
+22181091@N03,Utah
+29451290@N03,Bonaventure,Broward,Florida
+45206671@N00,Galveston,Galveston,Texas
+65034759@N04,New York,New York
+41133295@N04,Utah
+34091728@N03,Malibu,Los Angeles,California
+30872501@N08,San Francisco,San Francisco,California
+47200218@N02,Sonoma,Sonoma,California
+55122328@N00,New York,Brooklyn,New York
+59134168@N07,Anaheim,Orange,California
+71815599@N07,Sapinero,Gunnison,Colorado
+59468408@N04,Portland,Multnomah,Oregon
+48662926@N07,New York,New York
+48762421@N00,Jackson,Teton,Wyoming
+59309690@N03,Carmel Highlands,Monterey,California
+45717879@N07,Richmond,Richmond City,Virginia
+72213316@N00,California
+54769054@N03,Sausalito,Marin,California
+8280384@N03,Hialeah,Miami-Dade,Florida
+29787527@N03,Morocco,Newton,Indiana
+45107040@N00,Seattle,King,Washington
+13667121@N08,Palo Alto,Santa Clara,California
+15739401@N05,New York,New York
+52014195@N08,Dillsboro,Jackson,North Carolina
+52014195@N08,Smokemont,Swain,North Carolina
+57971774@N00,Fort Lauderdale,Broward,Florida
+64406124@N07,South Lake Tahoe,El Dorado,California
+53874388@N00,Rock City,Contra Costa,California
+69674739@N00,Yachats,Lincoln,Oregon
+21104371@N05,Las Vegas,Clark,Nevada
+46255533@N03,San Francisco,San Francisco,California
+36585743@N04,New York,Manhattan,New York
+69654034@N07,New York,Bronx,New York
+59303791@N00,New York,Manhattan,New York
+77925739@N00,Fremont,Idaho
+44161305@N02,Grand,Utah
+30872501@N08,El Granada,San Mateo,California
+61086701@N08,Las Vegas,Clark,Nevada
+29044632@N05,New York,Manhattan,New York
+57971774@N00,Miami,Miami-Dade,Florida
+61945928@N00,San Antonio,Bexar,Texas
+45971977@N03,Stove Pipe Wells,Inyo,California
+35528040@N04,Fort Morgan,Morgan,Colorado
+9436716@N04,Naples,Collier,Florida
+39165631@N00,Red Rock Point,Flathead,Montana
+32352764@N00,New York,New York
+25178664@N06,Ronan,Lake,Montana
+9768528@N05,
+35528040@N04,Nunn,Weld,Colorado
+63202359@N05,Alabama
+45868124@N02,Houston,Harris,Texas
+9414486@N03,Big Sur,Monterey,California
+57105882@N03,New York,Manhattan,New York
+34398744@N06,New York,Manhattan,New York
+33172921@N07,Las Vegas,Clark,Nevada
+43545301@N03,Kissimmee,Osceola,Florida
+42757318@N07,Louisville,Jefferson,Kentucky
+65614966@N04,
+8398907@N02,Park,Wyoming
+44259062@N07,Staffordville,Ocean,New Jersey
+41747162@N00,New York,Manhattan,New York
+95158573@N00,Jenkins Place,Swain,North Carolina
+84254824@N00,Stove Pipe Wells,Inyo,California
+73923439@N00,New York,Manhattan,New York
+9414486@N03,Los Angeles,Los Angeles,California
+24893739@N00,Mesquite,Clark,Nevada
+49025062@N04,Jersey City,Hudson,New Jersey
+24555384@N00,New York,New York
+65997300@N08,New York,New York
+76179919@N03,Watchman Residential Area,Washington,Utah
+25273938@N03,Colorado Springs,El Paso,Colorado
+24419989@N07,New Orleans,Orleans Parish,Louisiana
+35528040@N04,Conejos,Conejos,Colorado
+24939776@N07,Straight Point,Klickitat,Washington
+48762421@N00,New York,Manhattan,New York
+86423215@N00,Lummi Island,Whatcom,Washington
+42139271@N00,Charleston,Charleston,South Carolina
+37856083@N04,Celebration,Osceola,Florida
+41303762@N00,San Francisco,San Francisco,California
+35528040@N04,Jemez Springs,Sandoval,New Mexico
+16948241@N08,Houston,Harris,Texas
+63232478@N08,Mesilla,Dona Ana,New Mexico
+75620444@N06,Charleston,Charleston,South Carolina
+52952366@N07,Bodie,Mono,California
+7359335@N02,Kapalawai,Kauai,Hawaii
+40531740@N08,Nashville,Davidson,Tennessee
+24894289@N07,New York,Queens,New York
+10098714@N07,Coconino,Arizona
+78346079@N06,New York,Manhattan,New York
+21964529@N07,New York,New York
+37856083@N04,Kissimmee,Osceola,Florida
+7838598@N06,Asheville,Buncombe,North Carolina
+75960772@N03,Sausalito,Marin,California
+42295428@N02,Volcano,Hawaii,Hawaii
+58755999@N05,Honolulu,Honolulu,Hawaii
+45905007@N06,San Francisco,San Francisco,California
+62608332@N07,Washington,District of Columbia,District of Columbia
+43261331@N06,San Francisco,San Francisco,California
+47200218@N02,Mcminnville,Yamhill,Oregon
+35528040@N04,La Jara,Conejos,Colorado
+62837186@N06,New York,Manhattan,New York
+20801313@N00,Hutchinson,Reno,Kansas
+91041933@N00,Brooksville,Hernando,Florida
+30706862@N02,Phoenix,Maricopa,Arizona
+57392159@N05,Massachusetts
+35528040@N04,Crestone,Saguache,Colorado
+73361876@N00,San Francisco,San Francisco,California
+56140610@N06,Bryce,Garfield,Utah
+31642340@N00,Oak Harbor,Island,Washington
+47200218@N02,Geyserville,Sonoma,California
+70405019@N00,Manila,Adams,Colorado
+42139271@N00,Sullivans Island,Charleston,South Carolina
+40564350@N03,Fairbanks North Star Borough,Alaska
+37129591@N08,San Diego,San Diego,California
+43545301@N03,Celebration,Osceola,Florida
+47200218@N02,Bellingham,Whatcom,Washington
+44259062@N07,San Diego,San Diego,California
+61563123@N02,San Francisco,San Francisco,California
+17644792@N00,San Carlos,San Mateo,California
+74073406@N00,New York,Manhattan,New York
+63216345@N00,Arizona
+21544428@N04,Tennessee
+43285282@N00,Seattle,King,Washington
+34104198@N06,Los Angeles,Los Angeles,California
+28181728@N07,Lizella,Bibb,Georgia
+31594692@N00,Lake Worth,Palm Beach,Florida
+42139271@N00,Nesquehoning,Carbon,Pennsylvania
+22875671@N04,Government Hill,Gila,Arizona
+36287596@N04,Grand Canyon Village,Coconino,Arizona
+48995606@N04,San Francisco,San Francisco,California
+56140610@N06,Bryce Canyon,Garfield,Utah
+19709871@N00,
+56863399@N03,California
+41133295@N04,Carmel-by-the-Sea,Monterey,California
+35528040@N04,Denver,Denver,Colorado
+78292354@N05,New York,Manhattan,New York
+47200218@N02,St. Helena,Napa,California
+29787527@N03,Key West,Monroe,Florida
+39548242@N03,San Diego,San Diego,California
+78292354@N05,San Francisco,San Francisco,California
+38509881@N08,San Francisco,San Francisco,California
+10336659@N04,Naples,Collier,Florida
+27665354@N03,Wisemans View,Mcdowell,North Carolina
+22810906@N06,Orsino,Brevard,Florida
+35528040@N04,Punta de Agua,Torrance,New Mexico
+30872501@N08,Fairfax,Marin,California
+66945771@N05,Supai,Coconino,Arizona
+52014195@N08,Beechertown,Macon,North Carolina
+35528040@N04,Gardner,Huerfano,Colorado
+22342425@N03,Brookline,Norfolk,Massachusetts
+41133295@N04,Telluride,San Miguel,Colorado
+29863463@N04,Las Vegas,Clark,Nevada
+59011893@N08,San Diego,San Diego,California
+22342425@N03,Boston,Suffolk,Massachusetts
+21158898@N06,Grand,Utah
+21164251@N08,New York,Brooklyn,New York
+14866827@N08,Honolulu,Honolulu,Hawaii
+13911775@N08,Utah
+73923439@N00,New York,Brooklyn,New York
+62657215@N00,Cape May,Cape May,New Jersey
+42139271@N00,Brevard,Florida
+34759859@N04,New York,Manhattan,New York
+29648523@N05,Hendry,Florida
+29381908@N02,Gray,Cumberland,Maine
+41221502@N05,Manhattan Beach,Los Angeles,California
+70974546@N00,Brandywine,Summit,Ohio
+25273938@N03,Oceanville,Atlantic,New Jersey
+47275798@N05,San Francisco,San Francisco,California
+57529517@N00,California
+34398744@N06,San Francisco,San Francisco,California
+28288950@N00,California
+47019063@N00,Philadelphia,Philadelphia,Pennsylvania
+20801313@N00,Carteret,Middlesex,New Jersey
+48762421@N00,Ada,Kent,Michigan
+22260114@N08,New York,Manhattan,New York
+37856083@N04,Siesta Lago,Osceola,Florida
+71854985@N00,Lake Worth,Palm Beach,Florida
+43721326@N03,Kula,Maui,Hawaii
+29500605@N07,Washington,District of Columbia,District of Columbia
+11160675@N08,Memphis,Shelby,Tennessee
+53874388@N00,Los Angeles,Los Angeles,California
+55898833@N05,Great Falls,Montgomery,Maryland
+11269250@N07,New York,New York
+12592344@N04,Flamingo,Monroe,Florida
+43545301@N03,New Smyrna Beach,Volusia,Florida
+9414486@N03,Grand,Utah
+55898833@N05,Silver Spring,Montgomery,Maryland
+53874388@N00,Malibu,Los Angeles,California
+71854985@N00,New York,Manhattan,New York
+29483189@N00,Utah
+52350366@N06,New York,Manhattan,New York
+92424596@N00,California
+62657720@N07,Tacoma,Pierce,Washington
+24893739@N00,Oregonia,Warren,Ohio
+22949278@N06,Philadelphia,Philadelphia,Pennsylvania
+56626682@N05,Anna Maria,Manatee,Florida
+24655146@N08,Albuquerque,Bernalillo,New Mexico
+53875654@N06,Washington
+30628981@N00,New York,Manhattan,New York
+21078769@N00,Greyfield,Camden,Georgia
+7838598@N06,Stone Mountain,Dekalb,Georgia
+39165631@N00,Lake Mcdonald,Flathead,Montana
+37856083@N04,Buena Vista,Orange,Florida
+22810906@N06,Bay Lake,Orange,Florida
+40472720@N00,Philadelphia,Philadelphia,Pennsylvania
+22144954@N04,Fruita,Mesa,Colorado
+52200308@N02,New York,Manhattan,New York
+20801313@N00,New York,Manhattan,New York
+35528040@N04,Como,Park,Colorado
+65632524@N06,New York,New York
+38182293@N08,San Diego,San Diego,California
+88036188@N00,Hana,Maui,Hawaii
+43579348@N02,Beaver Creek,Eagle,Colorado
+52471377@N05,Johnsburg,Warren,New York
+12796946@N00,Lee Vining,Mono,California
+8398907@N02,Hawaii
+68313075@N02,Mount Baldy,San Bernardino,California
+24186340@N03,Palm Beach,Palm Beach,Florida
+41221502@N05,Malibu,Los Angeles,California
+52014195@N08,Swain,North Carolina
+67958110@N00,Las Vegas,Clark,Nevada
+8473389@N03,Philadelphia,Philadelphia,Pennsylvania
+26653963@N00,St. Martinville,St. Martin Parish,Louisiana
+49025062@N04,Kismet,Suffolk,New York
+27112342@N03,San Francisco,San Francisco,California
+75620444@N06,Page,Coconino,Arizona
+39137917@N02,Nevada
+62403760@N02,Roosevelt,Gila,Arizona
+62837186@N06,Malibu,Los Angeles,California
+23655879@N00,Huntington,Suffolk,New York
+38509881@N08,Grand Canyon Village,Coconino,Arizona
+21158898@N06,Tuolumne Meadows,Mariposa,California
+61533954@N00,New York,New York
+24781107@N05,Kihei,Maui,Hawaii
+54031384@N08,Monument Valley,San Juan,Utah
+65182655@N00,New York,Manhattan,New York
+41005569@N08,Holbrook,Navajo,Arizona
+65164261@N06,New York,Manhattan,New York
+21158898@N06,Sausalito,Marin,California
+69135798@N08,Scituate,Plymouth,Massachusetts
+35528040@N04,New York,New York
+21625470@N07,Hawi,Hawaii,Hawaii
+65930803@N02,Prospect Heights,Cook,Illinois
+41221502@N05,Newark International Airport,Essex,New Jersey
+77925739@N00,Beachs Corner,Bonneville,Idaho
+10098714@N07,Bandon,Coos,Oregon
+27665354@N03,Burlington,Racine,Wisconsin
+92605333@N00,St. Helena,Napa,California
+34091728@N03,Key Largo,Monroe,Florida
+49025062@N04,Orient Point,Suffolk,New York
+63216345@N00,Norris,Anderson,Tennessee
+89704926@N00,Celebration,Osceola,Florida
+42139271@N00,Swain,North Carolina
+38825722@N02,New York,New York
+35528040@N04,Sierra de Los Pinos,Sandoval,New Mexico
+35354298@N00,Lawai,Kauai,Hawaii
+41221502@N05,Santa Monica,Los Angeles,California
+59197096@N03,New York,Manhattan,New York
+24781107@N05,New York,Manhattan,New York
+55898833@N05,Washington,District of Columbia,District of Columbia
+39165631@N00,Wyoming
+7838598@N06,Seabrook Island,Charleston,South Carolina
+30628981@N00,Corolla,Currituck,North Carolina
+27112342@N03,San Diego,San Diego,California
+55122328@N00,New York,Manhattan,New York
+10098714@N07,Neskowin,Tillamook,Oregon
+55897421@N08,San Francisco,San Francisco,California
+92188509@N00,Houlton,St. Croix,Wisconsin
+28935188@N00,Mohave,Arizona
+76730958@N07,Miami,Miami-Dade,Florida
+59623316@N02,Boston,Suffolk,Massachusetts
+65315936@N00,Glencoe,Cook,Illinois
+36585743@N04,Emery,Utah
+41273474@N06,Boston,Suffolk,Massachusetts
+9436716@N04,Addison,Dupage,Illinois
+71854985@N00,Freeport,Cumberland,Maine
+45717879@N07,French Hay,Hanover,Virginia
+50547711@N06,New York,New York
+39244634@N02,Rankin,Allegheny,Pennsylvania
+42139271@N00,Orlando,Orange,Florida
+15132846@N00,Long Beach,Los Angeles,California
+55887794@N08,Sanibel,Lee,Florida
+58290544@N02,Fairbanks,Fairbanks North Star Borough,Alaska
+13911775@N08,Wahweap,Coconino,Arizona
+56219364@N05,New York,New York
+79781814@N00,South San Francisco,San Mateo,California
+8008932@N08,Bryce,Garfield,Utah
+31113376@N08,Baldwins Crossing,Yavapai,Arizona
+34104198@N06,Tusayan,Coconino,Arizona
+76556259@N08,Boston,Suffolk,Massachusetts
+55306452@N08,Denver,Denver,Colorado
+25867710@N04,Ball Ground,Cherokee,Georgia
+10098714@N07,Woods,Tillamook,Oregon
+9414486@N03,Amboy,San Bernardino,California
+29120433@N03,California
+10527188@N05,Clarksdale,Coahoma,Mississippi
+28181728@N07,Moss Point,Jackson,Mississippi
+90146022@N00,Rincon,Santa Cruz,California
+24939776@N07,Portland,Multnomah,Oregon
+37856083@N04,Windermere,Orange,Florida
+75620444@N06,Miami Beach,Miami-Dade,Florida
+56140610@N06,Zion Lodge,Washington,Utah
+92429600@N00,Washington,District of Columbia,District of Columbia
+8163660@N03,San Francisco,San Francisco,California
+32763208@N04,Cades Cove,Blount,Tennessee
+36935983@N05,Miami,Miami-Dade,Florida
+71854985@N00,Celebration,Osceola,Florida
+41438968@N08,Nevada
+9963794@N08,Hilliard,Franklin,Ohio
+26302808@N07,South Haven,Van Buren,Michigan
+50510770@N05,Wilmington,Essex,New York
+92605333@N00,Stanford,Santa Clara,California
+42139271@N00,Fort Indiantown Gap,Lebanon,Pennsylvania
+61322584@N07,Miami,Miami-Dade,Florida
+61659566@N00,Hillside Siding,Kittitas,Washington
+30628981@N00,North Carolina
+98204206@N00,Utah
+61086701@N08,Arizona
+55206343@N06,Malibu,Los Angeles,California
+42295428@N02,Captain Cook,Hawaii,Hawaii
+51350151@N06,New York,New York
+11160675@N08,Nashville,Davidson,Tennessee
+35528040@N04,Aurora,Arapahoe,Colorado
+35590752@N02,Bainbridge Island,Kitsap,Washington
+41221502@N05,New York,Brooklyn,New York
+58638057@N08,Los Angeles,Los Angeles,California
+42328548@N00,Hilo,Hawaii,Hawaii
+7298093@N05,Hunting Island,Beaufort,South Carolina
+63387531@N00,New York,Queens,New York
+47291429@N04,Santa Cruz,Santa Cruz,California
+14436113@N04,Enright,Brazos,Texas
+61086701@N08,Monument Valley,San Juan,Utah
+47200218@N02,Schellville,Sonoma,California
+20801313@N00,Ocean Grove,Monmouth,New Jersey
+35528040@N04,Bluewater,Cibola,New Mexico
+27471353@N03,New York,Brooklyn,New York
+92188509@N00,Taylors Falls,Chisago,Minnesota
+54769054@N03,Oakville,Napa,California
+73424305@N00,Dallas,Dallas,Texas
+9414486@N03,Santa Cruz,Santa Cruz,California
+58638057@N08,Wainiha,Kauai,Hawaii
+10697345@N06,Del Mar,San Diego,California
+65034759@N04,New York
+21801897@N04,Fort Lauderdale,Broward,Florida
+32876989@N00,Oregon
+52254014@N00,Windermere,Orange,Florida
+36287596@N04,Bryce,Garfield,Utah
+61788116@N00,Bryce,Garfield,Utah
+98204206@N00,Lake Placid,Essex,New York
+62403760@N02,Arizona
+34325628@N05,New York,Queens,New York
+68839091@N00,New Windsor,Orange,New York
+21625470@N07,Holualoa,Hawaii,Hawaii
+26457986@N06,Arizona
+40941402@N06,Atlanta,Fulton,Georgia
+9436716@N04,Wheaton,Dupage,Illinois
+67352996@N08,Tampa,Hillsborough,Florida
+75202391@N07,Ocean Grove,Monmouth,New Jersey
+52364684@N03,Boston,Suffolk,Massachusetts
+58755999@N05,Kaaawa,Honolulu,Hawaii
+92605333@N00,San Jose,Santa Clara,California
+30628981@N00,Utah
+64251630@N08,New York,Brooklyn,New York
+28181728@N07,Culloden,Monroe,Georgia
+20801313@N00,Old Bridge,Middlesex,New Jersey
+59367690@N00,San Diego,San Diego,California
+22810906@N06,Sanford,Seminole,Florida
+41438968@N08,Arizona
+47200218@N02,La Conner,Skagit,Washington
+52909585@N02,Southern Cross,Deer Lodge,Montana
+29648523@N05,Fort Myers,Lee,Florida
+92605333@N00,Honolulu,Honolulu,Hawaii
+68313075@N02,Utah
+69674739@N00,Alexandria Bay,Jefferson,New York
+34091728@N03,Glen Canyon,Coconino,Arizona
+58628800@N05,Miami,Miami-Dade,Florida
+23516084@N00,Miami-Dade,Florida
+29827727@N07,Long Lake,Hamilton,New York
+54276883@N04,Providence,Providence,Rhode Island
+69905034@N00,Mount Hamilton,Santa Clara,California
+58628800@N05,Miami Beach,Miami-Dade,Florida
+29787527@N03,Adel,Cook,Georgia
+79781814@N00,San Bruno,San Mateo,California
+24517849@N06,Cape Elizabeth,Cumberland,Maine
+35528040@N04,New Mexico
+7838598@N06,Atlanta,Fulton,Georgia
+32876989@N00,Utah
+72213316@N00,Whitney Portal,Inyo,California
+71854985@N00,Beverly Hills,Los Angeles,California
+71854985@N00,Rockland,Knox,Maine
+40472720@N00,Cumberland,Adams,Pennsylvania
+85976052@N00,Arizona
+97981910@N00,Chicago,Cook,Illinois
+34133940@N04,Miami,Miami-Dade,Florida
+31158787@N05,Atlanta,Fulton,Georgia
+20449709@N00,New York,New York
+36287596@N04,Mexican Hat,San Juan,Utah
+34829046@N07,Hana,Maui,Hawaii
+16529608@N08,Santa Monica,Los Angeles,California
+28547269@N00,New York,Manhattan,New York
+80214650@N00,Miami Beach,Miami-Dade,Florida
+21042056@N07,Las Vegas,Clark,Nevada
+8514057@N08,Las Vegas,Clark,Nevada
+21158898@N06,Mono,California
+8398907@N02,San Diego,California
+58788284@N06,San Juan Capistrano,Orange,California
+34104198@N06,Barstow,San Bernardino,California
+51141147@N02,Damariscotta,Lincoln,Maine
+56340588@N07,Fort Lee,Bergen,New Jersey
+32628129@N04,New York,Manhattan,New York
+34433961@N02,Mountain View,Pima,Arizona
+41221502@N05,Culver City,Los Angeles,California
+34091728@N03,Miami Beach,Miami-Dade,Florida
+61181056@N05,Pittsburgh,Allegheny,Pennsylvania
+35528040@N04,Dixon,Rio Arriba,New Mexico
+41668623@N08,Washington,District of Columbia,District of Columbia
+52254014@N00,Triangle,Prince William,Virginia
+25716494@N04,Chicago,Cook,Illinois
+13911775@N08,Monument Valley,San Juan,Utah
+28220564@N07,Coconino,Arizona
+50588200@N08,Llano,Llano,Texas
+43545301@N03,Winter Park,Orange,Florida
+52200308@N02,Union City,Hudson,New Jersey
+68313075@N02,Los Angeles,Los Angeles,California
+40165694@N03,Hanalei,Kauai,Hawaii
+15147410@N08,New Paris,Preble,Ohio
+21144901@N04,Arizona
+71854985@N00,Santa Monica,Los Angeles,California
+34091728@N03,San Diego,San Diego,California
+46144772@N00,San Bruno,San Mateo,California
+99352947@N00,Gilroy,Santa Clara,California
+32352764@N00,San Francisco,San Francisco,California
+40941402@N06,Emory,Dekalb,Georgia
+49573496@N02,Arizona
+30003624@N00,Gifford Pinchot,Skamania,Washington
+59942143@N02,The Woodlands,Montgomery,Texas
+43545301@N03,Windermere,Orange,Florida
+63351451@N06,Kaanapali,Maui,Hawaii
+29120433@N03,Santa Monica,Los Angeles,California
+62586117@N05,Monument Valley,San Juan,Utah
+56194068@N04,Norway,La Salle,Illinois
+25273938@N03,Bullhead City,Mohave,Arizona
+23118985@N03,Chelsea,Suffolk,Massachusetts
+16599781@N00,New York,Manhattan,New York
+23985604@N05,Yarmouth,Cumberland,Maine
+28288950@N00,Utah
+34433961@N02,Arizona
+41273474@N06,Chelsea,Suffolk,Massachusetts
+48995606@N04,Utah
+47200218@N02,Multnomah Falls,Multnomah,Oregon
+55125704@N08,Arizona
+42139271@N00,Cherokee,Swain,North Carolina
+22227558@N08,Statesville,Iredell,North Carolina
+31113376@N08,Sedona,Yavapai,Arizona
+38315898@N07,Seattle,King,Washington
+40632439@N00,Key West,Monroe,Florida
+60708165@N07,Hawaii
+61659566@N00,Dallesport,Klickitat,Washington
+29572786@N08,San Francisco,San Francisco,California
+17357105@N00,Sanibel,Lee,Florida
+34091728@N03,Lake Mead,Clark,Nevada
+48762421@N00,Iowa
+57392159@N05,Nevada
+16948241@N08,Pagosa Springs,Archuleta,Colorado
+29500605@N07,Gettysburg,Adams,Pennsylvania
+52254014@N00,Bay Lake,Orange,Florida
+40408627@N07,Arizona
+24893739@N00,Senior,Warren,Ohio
+67352996@N08,Lakeland,Polk,Florida
+34091728@N03,Newport Beach,Orange,California
+35528040@N04,Albuquerque,Bernalillo,New Mexico
+31353903@N03,Cannon Beach,Clatsop,Oregon
+56219364@N05,New Orleans,Orleans Parish,Louisiana
+47200218@N02,Fish Town,Skagit,Washington
+10809332@N03,Orlando,Orange,Florida
+55122328@N00,Cochise,Arizona
+25273938@N03,Glen Cove,Teller,Colorado
+24893739@N00,San Diego,San Diego,California
+17357105@N00,Las Vegas,Clark,Nevada
+67352996@N08,Osceola,Florida
+43619788@N07,Boston,Suffolk,Massachusetts
+34342668@N00,Jacksonville,Duval,Florida
+40564350@N03,Alaska
+30872501@N08,California
+79781814@N00,Cape Canaveral,Brevard,Florida
+28288950@N00,Honolulu,Honolulu,Hawaii
+71854985@N00,Windermere,Orange,Florida
+61086701@N08,California
+68313075@N02,Washington
+10098714@N07,Crescent City,Del Norte,California
+9436716@N04,Columbus,Bartholomew,Indiana
+31158787@N05,Savannah,Chatham,Georgia
+57392159@N05,San Francisco,San Francisco,California
+72213316@N00,Minnesota
+66370955@N07,Marblehead,Essex,Massachusetts
+37856083@N04,Davenport,Polk,Florida
+11269250@N07,Union City,Hudson,New Jersey
+70405019@N00,Denver,Denver,Colorado
+24893739@N00,Roachester,Warren,Ohio
+43545301@N03,Schofer,Berks,Pennsylvania
+44161305@N02,Utah
+71854985@N00,Las Vegas,Clark,Nevada
+78809437@N03,New York,New York
+65164261@N06,New York,Brooklyn,New York
+8245110@N02,San Diego,San Diego,California
+23985604@N05,Warner,Merrimack,New Hampshire
+34091728@N03,Nevada
+26457986@N06,Lake Itasca,Clearwater,Minnesota
+57640962@N08,Bozeman,Gallatin,Montana
+55206343@N06,Santa Barbara,Santa Barbara,California
+14436113@N04,Texas
+52909585@N02,Idaho
+37740563@N06,Beaver Creek,Teton,Wyoming
+59942143@N02,Texas
+43470063@N08,Clearwater Beach,Pinellas,Florida
+40941402@N06,Decatur,Dekalb,Georgia
+8820084@N02,San Francisco,San Francisco,California
+25867710@N04,Asheville,Buncombe,North Carolina
+25136448@N07,New York,Manhattan,New York
+9414486@N03,Rehoboth,Mckinley,New Mexico
+30003624@N00,Arlington,Arlington,Virginia
+37856083@N04,Polk City,Polk,Florida
+34342668@N00,Marineland,Flagler,Florida
+40564350@N03,Musk Ox,Fairbanks North Star Borough,Alaska
+56863399@N03,Coronado,San Diego,California
+58628800@N05,Fort Lauderdale,Broward,Florida
+92554315@N00,Muir Woods,Marin,California
+14866827@N08,Hana,Maui,Hawaii
+50788039@N07,Austin,Travis,Texas
+91304910@N00,Detroit,Wayne,Michigan
+31158787@N05,Wyoming
+28299660@N08,Lewiston,Niagara,New York
+55898833@N05,Clearwater Beach,Pinellas,Florida
+24735241@N02,Los Angeles,Los Angeles,California
+30872501@N08,Sausalito,Marin,California
+31113376@N08,Verde,Yavapai,Arizona
+8008932@N08,Glen Canyon,Coconino,Arizona
+49025062@N04,Frazer,Chester,Pennsylvania
+35788093@N02,Cornell,Los Angeles,California
+28126540@N02,Hawaii,Hawaii
+50976560@N07,Beatty Junction,Inyo,California
+29120433@N03,San Mateo,San Mateo,California
+48529814@N08,Minnesota
+28181728@N07,Biloxi,Harrison,Mississippi
+10165116@N05,Chicago,Cook,Illinois
+47340201@N03,San Francisco,San Francisco,California
+23890153@N06,Santa Monica,Los Angeles,California
+27287345@N06,Richmond,Richmond City,Virginia
+22144954@N04,Houston,Harris,Texas
+34091728@N03,Las Vegas,Clark,Nevada
+34256839@N08,Hayward,Alameda,California
+58638057@N08,Malibu,Los Angeles,California
+64231136@N04,Franconia,Grafton,New Hampshire
+17644792@N00,Marin,California
+35354298@N00,Poipu,Kauai,Hawaii
+9436716@N04,Chicago,Cook,Illinois
+58376470@N05,New York,New York
+65930803@N02,Cocoa,Brevard,Florida
+48419453@N07,Sedona,Yavapai,Arizona
+28702956@N08,Niagara Falls,Niagara,New York
+58791137@N06,Seattle,King,Washington
+57392159@N05,Fort Taylor,Monroe,Florida
+40531740@N08,Detroit,Wayne,Michigan
+52610389@N07,San Francisco,San Francisco,California
+8061696@N06,California
+60708165@N07,Keauhou,Hawaii,Hawaii
+34484994@N06,Washington
+25363266@N00,New York,Manhattan,New York
+22227558@N08,Winston-Salem,Forsyth,North Carolina
+30003624@N00,Seattle,King,Washington
+28181728@N07,Montgomery,Montgomery,Alabama
+66945771@N05,Mammoth,Park,Wyoming
+56863399@N03,Arizona
+59309690@N03,Foresta,Mariposa,California
+20752076@N04,Miami,Miami-Dade,Florida
+70667315@N07,New York,Manhattan,New York
+43285282@N00,Oklahoma City,Oklahoma,Oklahoma
+48762421@N00,Naples,Collier,Florida
+50510770@N05,Escondido,San Diego,California
+47434210@N08,Houston,Harris,Texas
+11269250@N07,New York,Queens,New York
+35354298@N00,Kawaikini,Kauai,Hawaii
+75846617@N00,San Francisco,San Francisco,California
+36045841@N04,San Francisco,San Francisco,California
+79506329@N00,Wyoming
+29648523@N05,Florida
+55306452@N08,New York,New York
+49047004@N07,Grand Rapids,Kent,Michigan
+72625049@N05,Destin,Okaloosa,Florida
+50053632@N04,San Francisco,San Francisco,California
+55898833@N05,Chester,Delaware,Pennsylvania
+42139271@N00,Garden City,Chatham,Georgia
+26694831@N07,New York,Manhattan,New York
+38864090@N00,Southold,Suffolk,New York
+26895093@N04,Lake Buena Vista,Orange,Florida
+35354298@N00,Kaana,Kauai,Hawaii
+32489584@N05,New York,Brooklyn,New York
+89501502@N00,Daytona Beach,Volusia,Florida
+7194536@N02,Ridgefield Park,Bergen,New Jersey
+8008932@N08,Monument Valley,San Juan,Utah
+43545301@N03,Orlando,Orange,Florida
+34398744@N06,Las Vegas,Clark,Nevada
+19933120@N00,San Francisco,San Francisco,California
+99117185@N00,Triangle,Prince William,Virginia
+10098714@N07,Del Norte,California
+56626682@N05,Clearwater Beach,Pinellas,Florida
+54058221@N03,Gulf Shores,Baldwin,Alabama
+52014195@N08,Bryson City,Swain,North Carolina
+50811161@N05,New York,Manhattan,New York
+29101762@N08,New York,Manhattan,New York
+44534236@N00,Houston,Harris,Texas
+7838598@N06,Greenwood,Greenwood,South Carolina
+54769054@N03,Rutherford,Napa,California
+57971774@N00,Lauderdale Lakes,Broward,Florida
+71854985@N00,Orlando,Orange,Florida
+10227378@N08,Multnomah Falls,Multnomah,Oregon
+39157270@N04,Yountville,Napa,California
+58638057@N08,Lawai,Kauai,Hawaii
+30872501@N08,Sacramento,Sacramento,California
+28249479@N00,Texas
+39335869@N06,Idaho
+72895090@N04,San Francisco,San Francisco,California
+25991017@N04,Ann Arbor,Washtenaw,Michigan
+61086701@N08,Badwater,Inyo,California
+8820084@N02,Rutherford,Napa,California
+78809437@N03,Death Valley,Inyo,California
+21524575@N05,New York,Manhattan,New York
+24186340@N03,Florida
+27882850@N02,San Francisco,San Francisco,California
+42139271@N00,Savannah,Chatham,Georgia
+94331264@N00,Cambridge,Middlesex,Massachusetts
+35528040@N04,Flagler,Kit Carson,Colorado
+28126540@N02,Volcano,Hawaii,Hawaii
+29381908@N02,Portland,Cumberland,Maine
+65930803@N02,Palatine,Cook,Illinois
+23118985@N03,New York,Brooklyn,New York
+24413864@N05,Arizona
+29787527@N03,St. Petersburg,Pinellas,Florida
+22887580@N06,Cambridge,Middlesex,Massachusetts
+48538984@N07,
+70405019@N00,Fort Collins,Larimer,Colorado
+21207838@N00,Rosenberg,Fort Bend,Texas
+42139271@N00,Wymberly on the Marsh,Chatham,Georgia
+49025062@N04,Providence,Providence,Rhode Island
+40165694@N03,Kilauea,Kauai,Hawaii
+8254841@N07,Titusville,Brevard,Florida
+35528040@N04,Briggsdale,Weld,Colorado
+77866983@N02,Washington
+42139271@N00,St. Augustine,St. Johns,Florida
+22260114@N08,Chicago,Cook,Illinois
+30628981@N00,South Carolina
+50449338@N02,Tracy,San Joaquin,California
+17644792@N00,Mill Valley,Marin,California
+36287596@N04,Los Angeles,Los Angeles,California
+32876989@N00,Hood River,Hood River,Oregon
+38825722@N02,Philadelphia,Philadelphia,Pennsylvania
+58638057@N08,Capitan,Santa Barbara,California
+48762421@N00,Alaska
+41221502@N05,New York,Manhattan,New York
+50588200@N08,Chappell Hill,Washington,Texas
+22875671@N04,Washington,District of Columbia,District of Columbia
+7838598@N06,Abbeville,Abbeville,South Carolina
+7838598@N06,Rackettown,Wythe,Virginia
+24186340@N03,Fort Lauderdale,Broward,Florida
+23611979@N00,Seattle,King,Washington
+45206671@N00,Houston,Harris,Texas
+40632439@N00,Annapolis,Anne Arundel,Maryland
+24781107@N05,Kapaa,Kauai,Hawaii
+34703154@N03,San Francisco,San Francisco,California
+28288950@N00,Bullfrog,Nye,Nevada
+64682727@N03,Utah
+54314828@N06,Boston,Suffolk,Massachusetts
+38993937@N05,Philadelphia,Philadelphia,Pennsylvania
+56140610@N06,Death Valley,Inyo,California
+22886391@N00,Atlanta,Fulton,Georgia
+25737157@N00,Los Angeles,Los Angeles,California
+88895358@N00,Atlanta,Fulton,Georgia
+69905034@N00,Yosemite Village,Mariposa,California
+21042056@N07,Los Angeles,Los Angeles,California
+65511698@N05,Maui,Hawaii
+16948241@N08,Colorado
+45971977@N03,San Francisco,San Francisco,California
+49025062@N04,West Babylon,Suffolk,New York
+37657436@N04,Kaaawa,Honolulu,Hawaii
+99117185@N00,Washington,District of Columbia,District of Columbia
+40632439@N00,Triangle,Prince William,Virginia
+68313075@N02,California
+34091728@N03,New York,New York
+66370955@N07,Jefferson,Putnam,Georgia
+8283879@N08,Washington,District of Columbia,District of Columbia
+57529517@N00,La Push,Clallam,Washington
+56755616@N06,Honolulu,Honolulu,Hawaii
+63351451@N06,Nahiku,Maui,Hawaii
+99483935@N00,Colorado
+66618435@N02,Montana
+11269250@N07,New York,Manhattan,New York
+9963794@N08,Arlington,Arlington,Virginia
+90146022@N00,Big Sur,Monterey,California
+45010354@N08,Chicago,Cook,Illinois
+40043985@N05,Washington,District of Columbia,District of Columbia
+54769054@N03,San Francisco,San Francisco,California
+66035580@N00,Imperial,California
+21158898@N06,Mono Mills,Mono,California
+70405019@N00,Leyden,Jefferson,Colorado
+34104198@N06,Las Vegas,Clark,Nevada
+78325942@N03,Old Gilroy,Santa Clara,California
+48762421@N00,Wyoming
+25867710@N04,Raleigh,Wake,North Carolina
+55206343@N06,Foresta,Mariposa,California
+69289466@N07,Hawaii
+51141147@N02,Waldoboro,Lincoln,Maine
+30628981@N00,Bristol,Lincoln,Maine
+28288950@N00,Inyo,California
+48419453@N07,Nevada
+45717879@N07,Little River Crossing,Hanover,Virginia
+35528040@N04,Zia Pueblo,Sandoval,New Mexico
+68313075@N02,Tucson,Pima,Arizona
+73113094@N04,New York,Manhattan,New York
+42139271@N00,North Charleston,Charleston,South Carolina
+39527581@N07,White Water,Riverside,California
+30628981@N00,Hunting Island,Beaufort,South Carolina
+16002075@N08,Minneapolis,Hennepin,Minnesota
+27001758@N07,San Francisco,San Francisco,California
+32806287@N00,New York,New York
+37214999@N08,New York,New York
+7141509@N02,Boston,Suffolk,Massachusetts
+37373154@N08,Hana,Maui,Hawaii
+25273938@N03,Barstow,San Bernardino,California
+40941402@N06,Cupertino,Santa Clara,California
+56340588@N07,Bear Mountain,Rockland,New York
+40261752@N02,Stove Pipe Wells,Inyo,California
+65034759@N04,Washington,District of Columbia,District of Columbia
+90745831@N00,Anchorage,Municipality of Anchorage,Alaska
+46213212@N00,Seattle,King,Washington
+23118985@N03,Washington,District of Columbia,District of Columbia
+10227378@N08,Friday Harbor,San Juan,Washington
+92429600@N00,Baltimore,Baltimore City,Maryland
+57356917@N06,Evanston,Cook,Illinois
+9556629@N07,New York,New York
+63932752@N05,Boston,Suffolk,Massachusetts
+62586117@N05,San Francisco,San Francisco,California
+11160675@N08,Jefferson Springs,Rutherford,Tennessee
+64724719@N03,Lake Havasu City,Mohave,Arizona
+26457986@N06,Tucson,Pima,Arizona
+33172921@N07,Kansas City,Jackson,Missouri
+23118985@N03,New York,Manhattan,New York
+8280384@N03,Florida
+67958110@N00,Cincinnati,Hamilton,Ohio
+34022514@N00,Jersey City,Hudson,New Jersey
+28288950@N00,Bumble Bee,Coconino,Arizona
+7838598@N06,Brownlee Crossroads,Abbeville,South Carolina
+26141740@N07,Seattle,King,Washington
+21986093@N07,Arlington,Arlington,Virginia
+78763499@N00,Honolulu,Honolulu,Hawaii
+77925739@N00,Portland,Multnomah,Oregon
+82017192@N00,New York,Manhattan,New York
+55206343@N06,Ventura,Ventura,California
+7853618@N07,New York
+43545301@N03,Alburtis,Lehigh,Pennsylvania
+71854985@N00,West Palm Beach,Palm Beach,Florida
+59623316@N02,New Haven,New Haven,Connecticut
+36045841@N04,Sausalito,Marin,California
+47200218@N02,Latourell,Multnomah,Oregon
+52254014@N00,Lake Mead,Clark,Nevada
+62657720@N07,Seattle,King,Washington
+89932500@N00,New York,Manhattan,New York
+57392159@N05,Ramal,Sonoma,California
+8778495@N03,Archuleta,Colorado
+28867586@N00,Utah
+48529814@N08,St. Paul,Ramsey,Minnesota
+26457986@N06,Newport,Lincoln,Oregon
+39256474@N00,Las Vegas,Clark,Nevada
+9414486@N03,Bloom,Ford,Kansas
+65674027@N03,Arizona
+27372897@N00,Boston,Suffolk,Massachusetts
+63351451@N06,Honomaele,Maui,Hawaii
+72213316@N00,Ohiopyle,Fayette,Pennsylvania
+34935493@N04,Humboldt,Gibson,Tennessee
+36287596@N04,Las Vegas,Clark,Nevada
+49025062@N04,Oak Beach,Suffolk,New York
+40472720@N00,Truro,Barnstable,Massachusetts
+28149100@N00,Urbana,Champaign,Illinois
+43545301@N03,Tampa,Hillsborough,Florida
+62479879@N02,New York,New York
+9958455@N07,New York,Manhattan,New York
+24939776@N07,Rowena,Wasco,Oregon
+29606943@N02,Chicago,Cook,Illinois
+43721326@N03,Maui,Hawaii
+39165631@N00,Lake,Teton,Wyoming
+62657215@N00,Martin,Florida
+32998163@N00,Columbia,Richland,South Carolina
+45206671@N00,Seattle,King,Washington
+24781107@N05,Hana,Maui,Hawaii
+76006431@N02,Babylon,Suffolk,New York
+30872501@N08,San Quentin,Marin,California
+25273938@N03,Estes Park,Larimer,Colorado
+62363471@N04,Wheaton,Dupage,Illinois
+79233178@N00,Newport Beach,Orange,California
+35528040@N04,Chimayo,Rio Arriba,New Mexico
+45717879@N07,Hanovertown,Hanover,Virginia
+50510770@N05,Keeseville,Clinton,New York
+25273938@N03,Manitou Springs,El Paso,Colorado
+64030452@N06,New York,New York
+60333627@N05,Portland,Multnomah,Oregon
+7396528@N02,Klamath,Oregon
+46963090@N03,Birmingham,Jefferson,Alabama
+25697845@N04,Washington
+7761923@N05,Bishop,Inyo,California
+11160675@N08,Eldorado Acres,Williamson,Tennessee
+49170507@N02,New York,Manhattan,New York
+64746955@N00,New York,Manhattan,New York
+52590380@N02,San Diego,San Diego,California
+23890153@N06,Los Angeles,Los Angeles,California
+55898833@N05,Miami Beach,Miami-Dade,Florida
+43022477@N07,Santa Ynez,Santa Barbara,California
+46337320@N03,New York,New York
+22949278@N06,New York,Brooklyn,New York
+71854985@N00,Stowe,Lamoille,Vermont
+62608332@N07,New York,New York
+46144772@N00,Sacramento,Sacramento,California
+24893739@N00,Fulton,Callaway,Missouri
+40632439@N00,Fort Jefferson,Monroe,Florida
+73753293@N00,Washington
+59942143@N02,Galveston,Galveston,Texas
+36783643@N05,Portsmouth,Rockingham,New Hampshire
+43545301@N03,Daytona Beach Shores,Volusia,Florida
+30872501@N08,Sonoma,Sonoma,California
+75960772@N03,San Francisco,San Francisco,California
+47997046@N04,Arizona
+52254014@N00,Celebration,Osceola,Florida
+22227558@N08,Belmont,Gaston,North Carolina
+71337041@N06,New York,Manhattan,New York
+24939776@N07,Bingen,Klickitat,Washington
+52242069@N04,Transylvania,North Carolina
+62363471@N04,Galena,Jo Daviess,Illinois
+9436716@N04,Indianapolis,Marion,Indiana
+25867710@N04,Baton Rouge,East Baton Rouge Parish,Louisiana
+42006137@N02,San Francisco,San Francisco,California
+30492368@N06,Miami Beach,Miami-Dade,Florida
+29101762@N08,Arizona
+65164261@N06,San Francisco,San Francisco,California
+44161305@N02,Harden Flat,Tuolumne,California
+48419453@N07,Las Vegas,Clark,Nevada
+58376470@N05,New York,Manhattan,New York
+25273938@N03,Cripple Creek,Teller,Colorado
+42139271@N00,Hummelstown,Dauphin,Pennsylvania
+35528040@N04,Almont,Gunnison,Colorado
+60754746@N04,New York,New York
+45868124@N02,Lafayette,Lafayette Parish,Louisiana
+20801313@N00,New York,New York
+89704926@N00,Houston,Harris,Texas
+35528040@N04,Los Alamos,Los Alamos,New Mexico
+61086701@N08,Santa Cruz,Santa Cruz,California
+22597539@N03,San Francisco,San Francisco,California
+67392055@N02,New York,Manhattan,New York
+55206343@N06,Los Angeles,Los Angeles,California
+89932500@N00,Minneapolis,Hennepin,Minnesota
+59309690@N03,Notleys Landing,Monterey,California
+21042056@N07,San Francisco,San Francisco,California
+69674739@N00,Edisto Island,Charleston,South Carolina
+83823161@N00,Washington,District of Columbia,District of Columbia
+29648523@N05,Orlando,Orange,Florida
+98204206@N00,Arizona
+69032336@N00,New York,Manhattan,New York
+35354298@N00,Haena,Kauai,Hawaii
+9414486@N03,Pacific Valley,Monterey,California
+42757318@N07,New Haven,Nelson,Kentucky
+12277003@N00,Lanai City,Maui,Hawaii
+55882150@N04,Los Angeles,Los Angeles,California
+39548242@N03,Arizona
+37856083@N04,Tampa,Hillsborough,Florida
+52014195@N08,Parksville,Polk,Tennessee
+34325628@N05,New York,Brooklyn,New York
+29451290@N03,Koloa,Kauai,Hawaii
+43285282@N00,Oak Creek Residental Area,Washington,Utah
+79781814@N00,Orlando International Airport,Orange,Florida
+43272723@N00,Luray,Page,Virginia
+24781107@N05,Grovont,Teton,Wyoming
+34022514@N00,Dover,Strafford,New Hampshire
+21078769@N00,Florida
+35528040@N04,Larand,Jackson,Colorado
+22886391@N00,New York,Manhattan,New York
+18645975@N08,Menemsha,Dukes,Massachusetts
+43184676@N08,Washington
+48995606@N04,California
+75735438@N07,Pittsburgh,Allegheny,Pennsylvania
+29606943@N02,Washington,District of Columbia,District of Columbia
+73753293@N00,Westport,Grays Harbor,Washington
+7838598@N06,England,Ashland,Ohio
+47200218@N02,Vineburg,Sonoma,California
+28288950@N00,Nevada
+42295428@N02,Hilo,Hawaii,Hawaii
+28618461@N05,New York,Manhattan,New York
+61322584@N07,Key Biscayne,Miami-Dade,Florida
+29781674@N07,New York,Manhattan,New York
+28496367@N03,New York,Manhattan,New York
+8398907@N02,California
+11110471@N07,Utah
+40645967@N06,Sedona,Yavapai,Arizona
+43022477@N07,New York,New York
+70405019@N00,Colorado
+61322584@N07,Bumble Bee,Coconino,Arizona
+56140610@N06,San Francisco,San Francisco,California
+51282775@N06,San Francisco,San Francisco,California
+91399266@N00,New York,Manhattan,New York
+31113376@N08,Hillsboro,Sierra,New Mexico
+10336659@N04,Miami,Miami-Dade,Florida
+36783643@N05,York Corner,York,Maine
+80214650@N00,Miami,Miami-Dade,Florida
+52952366@N07,Glendora,Los Angeles,California
+42139271@N00,Bellwood,Brevard,Florida
+24172284@N05,New York,Manhattan,New York
+65632524@N06,Tuba City,Coconino,Arizona
+20449709@N00,New York,Brooklyn,New York
+24419989@N07,San Francisco,San Francisco,California
+47200218@N02,Kenwood,Sonoma,California
+42139271@N00,Appomattox,Appomattox,Virginia
+35528040@N04,Mosca,Alamosa,Colorado
+79781814@N00,San Francisco,San Francisco,California
+71815599@N07,Montrose,Montrose,Colorado
+63387531@N00,New York,Manhattan,New York
+99352947@N00,Zion Lodge,Washington,Utah
+69654034@N07,New York,Brooklyn,New York
+47291429@N04,Pescadero,San Mateo,California
+61723814@N07,Bar Harbor,Hancock,Maine
+65930803@N02,Chicago,Cook,Illinois
+91041933@N00,Tampa,Hillsborough,Florida
+57392159@N05,Chicago,Cook,Illinois
+58628800@N05,West Palm Beach,Palm Beach,Florida
+49025062@N04,Saint James,Suffolk,New York
+62363471@N04,Chicago,Cook,Illinois
+61659566@N00,Smithville,Klickitat,Washington
+57392159@N05,Key West,Monroe,Florida
+70667315@N07,New York,New York

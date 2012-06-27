@@ -1,0 +1,1301 @@
+79272129@N00,St. Jacob,Madison,Illinois
+53583922@N02,Boone,Watauga,North Carolina
+21655952@N07,Luray,Marshall,Iowa
+21179930@N04,Williamsville,Wayne,Missouri
+38915448@N05,Spring,Perry,Pennsylvania
+9863477@N06,Redgranite,Waushara,Wisconsin
+66955386@N05,Osborne,Clayton,Iowa
+63846678@N04,Woodland,St. Joseph,Indiana
+44382675@N02,Ward,Stevens,Washington
+38956209@N03,Manlius,Onondaga,New York
+45727373@N02,Cumming,Forsyth,Georgia
+35528040@N04,Frankfort,Marshall,Kansas
+7652577@N05,New Hampton,Orange,New York
+75469677@N00,New Windsor,Orange,New York
+30941457@N04,Luray,Page,Virginia
+22563225@N04,Emerson,Wasco,Oregon
+36599815@N02,Jennings Ford,Scott,Virginia
+21655952@N07,Liscomb,Marshall,Iowa
+28739183@N02,Malden,Bureau,Illinois
+36118631@N00,Wisconsin
+83175475@N00,Keysville,Charlotte,Virginia
+35528040@N04,Marysville,Marshall,Kansas
+36623903@N06,Maine
+35528040@N04,La Salle,Weld,Colorado
+35516567@N04,Apple River,Jo Daviess,Illinois
+35528040@N04,Hollenberg,Washington,Kansas
+38915448@N05,Ceresville,Frederick,Maryland
+35528040@N04,Mount Vernon Club Place,Jefferson,Colorado
+31714338@N07,Warwick,Lancaster,Pennsylvania
+33417598@N05,Tennessee
+34525698@N00,Fontana Dam,Graham,North Carolina
+28018306@N08,Junction City,Lane,Oregon
+68924697@N00,Kittery,York,Maine
+36440760@N06,Iowa
+15129457@N02,Alden,Morrill,Nebraska
+24842486@N07,North Strabane,Washington,Pennsylvania
+39791583@N03,Georgia
+36118631@N00,Fox Lake,Dodge,Wisconsin
+53583922@N02,Swainsville,Cleveland,North Carolina
+59660960@N07,Gardens Corner,Beaufort,South Carolina
+85252336@N00,Ray,Macomb,Michigan
+30381418@N06,Fort Sumner,Debaca,New Mexico
+47647316@N06,Red Bank,Hamilton,Tennessee
+34086110@N06,Grand Mound,Clinton,Iowa
+77752876@N06,Beecher,Will,Illinois
+51439771@N04,Tennga,Murray,Georgia
+77032568@N04,Jasper,Newton,Arkansas
+72782081@N00,Varney,Madison,Montana
+10817874@N00,Russell,Kansas
+31714338@N07,Strasburg,Lancaster,Pennsylvania
+57585113@N07,California
+59550935@N06,East Union,Carver,Minnesota
+35528040@N04,Parks,Dundy,Nebraska
+22563225@N04,Westport,Clatsop,Oregon
+77042275@N00,Ohio
+77042275@N00,Indiana
+36623903@N06,Auburn,Androscoggin,Maine
+35528040@N04,Brumley,Lake,Colorado
+43077132@N00,Madison,Lac Qui Parle,Minnesota
+33815192@N08,Pennyville,Accomack,Virginia
+44437572@N00,Norris,Anderson,Tennessee
+7419554@N02,Sevier,Utah
+54679799@N03,Jackson,Madison,Tennessee
+45010354@N08,Hookers Hot Springs,Cochise,Arizona
+38956209@N03,Kirkville,Onondaga,New York
+61569433@N07,Goodrich,Sheridan,North Dakota
+27745058@N05,Odessa,Pasco,Florida
+45727373@N02,Cherokee Hills,Hall,Georgia
+54159370@N08,Norwalk,Warren,Iowa
+34525698@N00,Marshall,Madison,North Carolina
+18589490@N04,Fredonia,Ozaukee,Wisconsin
+30381418@N06,Buda,Hays,Texas
+39108915@N07,Cochrane,Buffalo,Wisconsin
+38956209@N03,Starkey,Yates,New York
+43233826@N02,Lee,Lee,Illinois
+36623903@N06,Mechanic Falls,Androscoggin,Maine
+35528040@N04,Roggen,Weld,Colorado
+39108915@N07,Lakeville,Dakota,Minnesota
+39108915@N07,Frontenac,Goodhue,Minnesota
+79272129@N00,St. Morgan,Madison,Illinois
+35528040@N04,Wiggins,Morgan,Colorado
+64964567@N00,Newfield,Tompkins,New York
+66050290@N06,Colorado
+9863477@N06,Cloverdale,Pine,Minnesota
+94829248@N00,Sidney,Montcalm,Michigan
+83175475@N00,New Windsor,Carroll,Maryland
+35528040@N04,Shroyer,Marshall,Kansas
+24842486@N07,Wharton,Fayette,Pennsylvania
+96102824@N00,Kittitas,Kittitas,Washington
+30381418@N06,Bushland,Potter,Texas
+30097821@N02,Calico Basin,Clark,Nevada
+52789190@N03,Bowman,Pike,Indiana
+71025477@N00,Chester,Crawford,Arkansas
+31714338@N07,Landisville,Lancaster,Pennsylvania
+36623903@N06,Lisbon,Androscoggin,Maine
+62092813@N00,Harts Place,Kern,California
+54679799@N03,Waterloo,Overton,Tennessee
+55362117@N06,Pontotoc,Pontotoc,Mississippi
+22563225@N04,Oregon
+85718330@N00,Rhyolite,Nye,Nevada
+22563225@N04,Goodnoe Hills,Klickitat,Washington
+36440760@N06,Cherokee,Cherokee,Iowa
+29844563@N07,Memphis,Shelby,Tennessee
+72782081@N00,Ennis,Madison,Montana
+35528040@N04,Carden,Marshall,Kansas
+10786632@N02,Tatamy,Northampton,Pennsylvania
+57585113@N07,Brentwood,Williamson,Tennessee
+24842486@N07,Graysville,Greene,Pennsylvania
+59550935@N06,Jackson,Minnesota
+15129457@N02,Potter,Cheyenne,Nebraska
+35528040@N04,Dacono,Weld,Colorado
+66166073@N04,Iowa
+38506525@N04,Baker City,Baker,Oregon
+26352778@N08,Forest,Bedford,Virginia
+38956209@N03,Colosse,Oswego,New York
+24842486@N07,Richmond,Jefferson,Ohio
+7652577@N05,Lordville,Delaware,New York
+35528040@N04,Westmoreland,Pottawatomie,Kansas
+39108915@N07,Empire,Dakota,Minnesota
+10292388@N08,Era,Christian,Kentucky
+24842486@N07,Findlay,Allegheny,Pennsylvania
+35788882@N03,Luther,Boone,Iowa
+35528040@N04,Grand Junction,Mesa,Colorado
+27469854@N03,Chimayo,Rio Arriba,New Mexico
+66955386@N05,Farley,Dubuque,Iowa
+46750321@N05,Underwood,Skamania,Washington
+39108915@N07,Hastings,Dakota,Minnesota
+62092813@N00,Lucerne Valley,San Bernardino,California
+35528040@N04,Beatrice,Gage,Nebraska
+77032568@N04,Fort Smith,Sebastian,Arkansas
+51439771@N04,Fayetteville,Lincoln,Tennessee
+22616393@N04,Nance,Charles City,Virginia
+42977165@N03,Gleason,Lincoln,Wisconsin
+30277015@N00,Jumping Branch,Summers,West Virginia
+75074063@N00,Allenspark,Boulder,Colorado
+66166073@N04,Turtle Lake,Barron,Wisconsin
+75469677@N00,Mendham,Morris,New Jersey
+59681011@N03,Dowagiac,Cass,Michigan
+38956209@N03,Dewitt,Onondaga,New York
+44382675@N02,Des Moines,Polk,Iowa
+29253895@N06,Franklin,Warren,New Jersey
+35528040@N04,Lanham,Washington,Kansas
+36948942@N08,Jackson,Aiken,South Carolina
+90365334@N00,Sonoma,Sonoma,California
+25708357@N03,Boyce,Ellis,Texas
+38956209@N03,Nelson,Madison,New York
+35528040@N04,Gano,Finney,Kansas
+11629603@N04,Rex,Robeson,North Carolina
+36623903@N06,Bridgton,Cumberland,Maine
+30941457@N04,Big Meadows,Madison,Virginia
+71025477@N00,Poteau,Le Flore,Oklahoma
+18471856@N00,Staunton,Staunton City,Virginia
+69753525@N03,Medina,Stutsman,North Dakota
+51439771@N04,Tennessee
+54679799@N03,Crossville,Cumberland,Tennessee
+98806158@N00,Massies Corner,Rappahannock,Virginia
+24842486@N07,Bowerston,Harrison,Ohio
+39108915@N07,Mcconnellsville,Oneida,New York
+39734516@N00,Lena,Oconto,Wisconsin
+76006431@N02,Stony Brook,Suffolk,New York
+30484128@N03,New York,Bronx,New York
+53583922@N02,Johnson City,Washington,Tennessee
+59942143@N02,Topsham,Sagadahoc,Maine
+22563225@N04,Gooseneck,Klickitat,Washington
+40965940@N04,Mingo Junction,Jefferson,Ohio
+15823425@N00,Fresno,Hill,Montana
+66955386@N05,Monticello,Jones,Iowa
+34086110@N06,Sewal,Wayne,Iowa
+10786632@N02,Bloomsbury,Hunterdon,New Jersey
+85718330@N00,Van Horn,Culberson,Texas
+24198800@N03,Almo,Cassia,Idaho
+36118631@N00,East Waupun,Dodge,Wisconsin
+36118631@N00,Danville,Dodge,Wisconsin
+36440760@N06,Dayton,Webster,Iowa
+44382675@N02,Fort Madison,Lee,Iowa
+25820850@N05,Ringoes,Hunterdon,New Jersey
+30484128@N03,New Paltz,Ulster,New York
+22084807@N06,Silverdale,Koochiching,Minnesota
+59681011@N03,Gauley Bridge,Fayette,West Virginia
+64964567@N00,Breakabeen,Schoharie,New York
+63846678@N04,Lakeville,St. Joseph,Indiana
+30484128@N03,Gilead,Oxford,Maine
+29913021@N07,Little Chicago,Rice,Minnesota
+14727556@N07,Clements,Chase,Kansas
+30381418@N06,Groom,Carson,Texas
+38506525@N04,Bowen,Baker,Oregon
+38039613@N08,Wytheville,Wythe,Virginia
+71025477@N00,Moffett,Sequoyah,Oklahoma
+54679799@N03,Red Boiling Springs,Macon,Tennessee
+31714338@N07,Bart,Lancaster,Pennsylvania
+24842486@N07,Magnolia,Stark,Ohio
+35528040@N04,Washington,Washington,Kansas
+12701328@N00,Minnesota
+44181155@N08,Mcconnelsville,Morgan,Ohio
+35528040@N04,Concordia,Cloud,Kansas
+53928360@N00,Roslyn,Kittitas,Washington
+20905078@N04,West Mahanoy,Schuylkill,Pennsylvania
+24842486@N07,Pittsburgh,Allegheny,Pennsylvania
+35528040@N04,Grover,Weld,Colorado
+11968569@N06,Corral,Camas,Idaho
+42682647@N08,Logansport,De Soto Parish,Louisiana
+94829248@N00,Wisconsin
+35629248@N02,Harris,Piatt,Illinois
+35528040@N04,Axtell,Marshall,Kansas
+39108915@N07,Farmington,Dakota,Minnesota
+38956209@N03,Sullivan,Madison,New York
+24842486@N07,Greene,Beaver,Pennsylvania
+53506976@N03,Ada,Mercer,West Virginia
+73753293@N00,Oregon
+38915448@N05,Menallen,Adams,Pennsylvania
+35528040@N04,Kansas
+61391415@N05,Bellevue,Jackson,Iowa
+27745058@N05,Dunnellon,Marion,Florida
+35528040@N04,Ault,Weld,Colorado
+7652577@N05,Wawarsing,Ulster,New York
+24198800@N03,Malad City,Oneida,Idaho
+27745058@N05,Pall Mall,Fentress,Tennessee
+30484128@N03,Dummer,Coos,New Hampshire
+57585113@N07,Hobart,Lake,Indiana
+51459032@N00,Kansas City,Jackson,Missouri
+76006431@N02,Mattituck,Suffolk,New York
+15129457@N02,Point of Rocks,Cheyenne,Nebraska
+35528040@N04,Alma,Harlan,Nebraska
+51439771@N04,Chattanooga,Hamilton,Tennessee
+35528040@N04,Colorado
+9385421@N08,Naperville,Dupage,Illinois
+24198800@N03,Kelly,Teton,Wyoming
+63215679@N00,Salladasburg,Lycoming,Pennsylvania
+71025477@N00,Felkner Town,Franklin,Arkansas
+48453299@N06,Grove,Whitley,Kentucky
+38956209@N03,Rock Stream,Yates,New York
+36599815@N02,Shawanee,Claiborne,Tennessee
+28379086@N00,Blue Valley,Clear Creek,Colorado
+55209231@N08,Wausaukee,Marinette,Wisconsin
+38915448@N05,Leitersburg,Washington,Maryland
+62584290@N03,Minnesota
+55209231@N08,Belleville,Dane,Wisconsin
+50449338@N02,California
+8854840@N07,Morning Star,Garland,Arkansas
+53506976@N03,Guntersville,Marshall,Alabama
+24842486@N07,Peters Twp,Washington,Pennsylvania
+45010354@N08,Eureka,St. Louis,Missouri
+23330370@N04,Missouri
+76006431@N02,Jackson,Carroll,New Hampshire
+31230018@N08,Beallmount,Montgomery,Maryland
+69753525@N03,Jamestown,Stutsman,North Dakota
+14692022@N05,Galilee Mission,Tyrrell,North Carolina
+69753525@N03,Leal,Barnes,North Dakota
+24842486@N07,Prosperity,Washington,Pennsylvania
+10104446@N08,Walnut Grove,Greene,Missouri
+9385421@N08,Indian Lake,Hamilton,New York
+45727373@N02,Lumpkin,Dawson,Georgia
+9385421@N08,Montague,Sussex,New Jersey
+30097821@N02,Gallatin,Montana
+53506976@N03,Tyler,Spokane,Washington
+36118631@N00,Brooklyn,Green,Wisconsin
+36440760@N06,Sandyville,Warren,Iowa
+75074063@N00,Boulder,Boulder,Colorado
+7652577@N05,Fallsburg,Sullivan,New York
+21115034@N04,Wamego,Pottawatomie,Kansas
+48738133@N05,Belknap,Johnson,Illinois
+9385421@N08,Bellevue,Sandusky,Ohio
+9385421@N08,Independence,Buchanan,Iowa
+53506976@N03,Rocky Gap,Bland,Virginia
+57585113@N07,Earl Park,Benton,Indiana
+51459032@N00,Prathersville,Clay,Missouri
+50751138@N02,Sacramento,Sacramento,California
+11629603@N04,Mascot,Lancaster,Pennsylvania
+26208554@N03,Knapp,Dunn,Wisconsin
+32694862@N04,Shelburne,Chittenden,Vermont
+11629603@N04,East Lampeter,Lancaster,Pennsylvania
+53583922@N02,Newland,Avery,North Carolina
+56597497@N06,Girdwood,Municipality of Anchorage,Alaska
+25708357@N03,Texas
+15823425@N00,Loma,Chouteau,Montana
+7707281@N03,Sheffield,Bureau,Illinois
+9385421@N08,Kicking Horse,Lake,Montana
+45727373@N02,Lebanon,Cherokee,Georgia
+43060837@N07,Eagle,Waukesha,Wisconsin
+66050290@N06,Athens,Monroe,Mississippi
+29913021@N07,Clarks Grove,Freeborn,Minnesota
+69753525@N03,North Dakota
+36118631@N00,Randolph,Dodge,Wisconsin
+38956209@N03,Benton,Yates,New York
+55209231@N08,Bessemer,Gogebic,Michigan
+22298021@N06,Peninsula,Summit,Ohio
+40965940@N04,Germano,Harrison,Ohio
+35528040@N04,Greenland,Douglas,Colorado
+10104446@N08,Bentonville,Benton,Arkansas
+59942143@N02,Spring,Harris,Texas
+38915448@N05,Paramount,Washington,Maryland
+40084825@N07,Linville,Burke,North Carolina
+30381418@N06,Lockhart,Caldwell,Texas
+35528040@N04,Leavenworth,Leavenworth,Kansas
+35629248@N02,Rantoul,Champaign,Illinois
+50751138@N02,Vallejo,Solano,California
+57585113@N07,Cooks Corner,Rutherford,Tennessee
+9385421@N08,Clear Lake,Cerro Gordo,Iowa
+68221202@N06,Washington
+48738133@N05,Belleville,St. Clair,Illinois
+27122488@N05,North Dakota
+53583922@N02,Bamboo,Watauga,North Carolina
+61569433@N07,Neche,Pembina,North Dakota
+39734516@N00,Rockfield,Washington,Wisconsin
+18589490@N04,Columbus,Columbia,Wisconsin
+24426481@N04,Vermont
+35528040@N04,Richfield,Conejos,Colorado
+30381418@N06,Wimberley,Hays,Texas
+88294868@N00,Washington
+75074063@N00,Larimer,Colorado
+10817874@N00,Gothenburg,Dawson,Nebraska
+7568929@N03,Cave Springs,Benton,Arkansas
+18199254@N02,Union,Pike,Indiana
+40965940@N04,Shane,Jefferson,Ohio
+11629612@N06,Old Kaskaskia,Randolph,Illinois
+9385421@N08,Clyde,Sandusky,Ohio
+13717541@N04,Granite City,Madison,Illinois
+54679799@N03,Smithville,Dekalb,Tennessee
+34525698@N00,Fuquay-Varina,Wake,North Carolina
+52789190@N03,Duff,Dubois,Indiana
+24842486@N07,Millersburg,Holmes,Ohio
+22513734@N08,Iowa
+61391415@N05,Big Rock,Clinton,Iowa
+38501252@N04,Elkader,Clayton,Iowa
+38506525@N04,Halfway,Baker,Oregon
+33002779@N03,Centerville,Appanoose,Iowa
+66050290@N06,Kiowa,Glacier,Montana
+38915448@N05,Lower Swatara,Dauphin,Pennsylvania
+22513734@N08,Forest City,Hancock,Iowa
+50449338@N02,Tierra Amarilla,Rio Arriba,New Mexico
+35528040@N04,Torres,Rio Grande,Colorado
+21115034@N04,Victoria,Ellis,Kansas
+9863477@N06,Necedah,Juneau,Wisconsin
+67854523@N02,Penvir,Giles,Virginia
+36668800@N00,Suffolk,Suffolk City,Virginia
+9229668@N06,Geigertown,Berks,Pennsylvania
+35528040@N04,Kanbrick,Barton,Kansas
+72782081@N00,Cameron,Madison,Montana
+37258843@N00,Fillmore,Allegany,New York
+37077400@N04,Bullion,Blaine,Idaho
+72782081@N00,Grahams Place,Madison,Montana
+91357526@N00,West Platte,Platte,Missouri
+50449338@N02,Tuolumne,California
+55209231@N08,Hyde,Iowa,Wisconsin
+29913021@N07,Dumfries,Pottawattamie,Iowa
+44382675@N02,Farley,Dubuque,Iowa
+7652577@N05,Clarksville,Albany,New York
+21274934@N00,Coalinga,Fresno,California
+22298021@N06,Richland,Ohio
+34310864@N03,Marcy,Pickaway,Ohio
+39108915@N07,Pepin,Pepin,Wisconsin
+44884897@N03,Cartoogechaye,Macon,North Carolina
+23330370@N04,Bennett Springs,Laclede,Missouri
+15823425@N00,Hill,Montana
+39734516@N00,Lakewood,Oconto,Wisconsin
+44592521@N02,Minnesota
+61569433@N07,Hayden,Gila,Arizona
+57585113@N07,Nashville,Davidson,Tennessee
+8854840@N07,Red Oak,Garland,Arkansas
+27469854@N03,Fredericksburg,Gillespie,Texas
+46339880@N03,Spencer,Marathon,Wisconsin
+44602819@N00,Amboy,San Bernardino,California
+29580368@N03,Wisconsin
+35528040@N04,Morrison,Jefferson,Colorado
+35528040@N04,Reedsville,Marshall,Kansas
+54679799@N03,Mill Creek,Putnam,Tennessee
+54679799@N03,Rickman,Overton,Tennessee
+59942143@N02,Prospect Harbor,Hancock,Maine
+55362117@N06,Endville,Pontotoc,Mississippi
+39296163@N08,Inyo,California
+25334460@N02,Henry,Henry,Tennessee
+33237390@N03,Dunbar,Fayette,Pennsylvania
+50449338@N02,Stanislaus,California
+7892232@N03,Le Claire,Scott,Iowa
+9385421@N08,Rock Rapids,Lyon,Iowa
+88599792@N00,Lancaster,Nebraska
+55209231@N08,Westport,Dane,Wisconsin
+11629603@N04,Fairmont,Robeson,North Carolina
+39734516@N00,Cedarburg,Ozaukee,Wisconsin
+29787527@N03,Morocco,Newton,Indiana
+22875671@N04,Valders,Manitowoc,Wisconsin
+53506976@N03,Ripley,Jackson,West Virginia
+25708357@N03,Decatur,Wise,Texas
+22298021@N06,Hueytown,Jefferson,Alabama
+11629603@N04,Rozier Siding,Robeson,North Carolina
+11629603@N04,Nelson,Tioga,Pennsylvania
+68280878@N08,Ortley,Wasco,Oregon
+69753525@N03,Spiritwood Lake,Stutsman,North Dakota
+55362117@N06,Oxford,Lafayette,Mississippi
+24842486@N07,New Galilee,Beaver,Pennsylvania
+9385421@N08,Blackduck,Beltrami,Minnesota
+11629603@N04,Hope Mills,Cumberland,North Carolina
+55918701@N02,Burns,Dickson,Tennessee
+66050290@N06,Montana
+30381418@N06,Adrian,Oldham,Texas
+22298021@N06,Windsor,Richland,Ohio
+45133879@N04,Anaconda,Deer Lodge,Montana
+38956209@N03,Mexico,Oswego,New York
+24842486@N07,Adena,Jefferson,Ohio
+57585113@N07,Weakley Hills,Rutherford,Tennessee
+53928360@N00,Orting,Pierce,Washington
+98806158@N00,Evergreen Mills,Loudoun,Virginia
+53583922@N02,Wilkesboro,Wilkes,North Carolina
+39734516@N00,Whitefish Bay,Door,Wisconsin
+27592711@N00,Girard,Burke,Georgia
+35528040@N04,Nunn,Weld,Colorado
+39437351@N02,Baker City,Baker,Oregon
+59681011@N03,Canal Fulton,Stark,Ohio
+10786632@N02,Lower Mt Bethel,Northampton,Pennsylvania
+55657002@N00,Palmer,Ellis,Texas
+59550935@N06,Lake Benton,Lincoln,Minnesota
+11629603@N04,Liverpool,Perry,Pennsylvania
+51439771@N04,Benton,Polk,Tennessee
+39108915@N07,Moeville,Pierce,Wisconsin
+36440760@N06,Palmyra,Warren,Iowa
+54679799@N03,Monterey,Putnam,Tennessee
+15823425@N00,White Sulphur Springs,Meagher,Montana
+79272129@N00,O'fallon,St. Clair,Illinois
+50751138@N02,Clarksburg,Yolo,California
+7388762@N03,Arizona
+35528040@N04,Conejos,Conejos,Colorado
+9385421@N08,Woodville,Sandusky,Ohio
+36623903@N06,Turner,Androscoggin,Maine
+27469854@N03,Blumenthal,Gillespie,Texas
+21806880@N00,Powerville,Morris,New Jersey
+39108915@N07,Shakopee,Scott,Minnesota
+55865098@N07,Indiana
+53583922@N02,New Castle,Wilkes,North Carolina
+39108915@N07,Dundas,Rice,Minnesota
+22513734@N08,Michigan
+24842486@N07,Jewett,Harrison,Ohio
+7419554@N02,Grover,Wayne,Utah
+53506976@N03,Gallagher,Kanawha,West Virginia
+45727373@N02,Toccoa Falls,Stephens,Georgia
+31714338@N07,Manheim,Lancaster,Pennsylvania
+42977165@N03,Merrill,Lincoln,Wisconsin
+21655952@N07,Melbourne,Marshall,Iowa
+53583922@N02,Cricket,Wilkes,North Carolina
+43164076@N06,Charlotte Court House,Charlotte,Virginia
+50888533@N06,Idaho
+24842486@N07,Harlem Springs,Carroll,Ohio
+35516567@N04,Beloit,Rock,Wisconsin
+39108915@N07,Lawrence,Scott,Minnesota
+40965940@N04,Delmont,Westmoreland,Pennsylvania
+10676369@N07,Bethel,Sullivan,New York
+46648337@N00,Fort Ashby,Mineral,West Virginia
+35528040@N04,La Jara,Conejos,Colorado
+20905078@N04,Denton,Caroline,Maryland
+18199254@N02,Rockland,Warren,Kentucky
+85252336@N00,Romeo,Macomb,Michigan
+55918701@N02,Belleview,Dickson,Tennessee
+7253290@N05,Newark,New Castle,Delaware
+24198800@N03,Conda,Caribou,Idaho
+66955386@N05,Gilt Edge,Delaware,Iowa
+39108915@N07,Frontenac Station,Goodhue,Minnesota
+57585113@N07,Florence,Rutherford,Tennessee
+33002779@N03,Sunbeam,Mercer,Illinois
+46732441@N06,Lancaster,Garrard,Kentucky
+38956209@N03,Torrey,Yates,New York
+14992506@N03,Birdsboro,Berks,Pennsylvania
+36599815@N02,Rose Hill,Lee,Virginia
+50821237@N03,Oklahoma
+9586470@N05,Buck Creek,Jefferson,Kansas
+38915448@N05,Saville,Perry,Pennsylvania
+36118631@N00,New Miner,Juneau,Wisconsin
+23720661@N08,Cadet Station,El Paso,Colorado
+35528040@N04,Waterville,Marshall,Kansas
+35528040@N04,Hermansberg,Marshall,Kansas
+59660960@N07,Spencer,Rowan,North Carolina
+57585113@N07,La Vergne,Rutherford,Tennessee
+26994236@N08,Merritt,Pennington,South Dakota
+25708357@N03,Thackerville,Love,Oklahoma
+21655952@N07,Boone,Boone,Iowa
+45727373@N02,Coal Mountain,Forsyth,Georgia
+76006431@N02,East Hampton,Suffolk,New York
+35629248@N02,Farmer City,De Witt,Illinois
+24842486@N07,Winesburg,Holmes,Ohio
+57585113@N07,Hooker Hills,Williamson,Tennessee
+62092813@N00,Pioneertown,San Bernardino,California
+38956209@N03,Dresden,Yates,New York
+54679799@N03,Baxter,Putnam,Tennessee
+46339880@N03,Wisconsin
+68280878@N08,Hood River,Hood River,Oregon
+9385421@N08,Spencer,Clay,Iowa
+48453299@N06,Kentucky
+35528040@N04,Plastic,Jefferson,Colorado
+29453188@N00,South Coventry,Chester,Pennsylvania
+35528040@N04,Bella Vista,Benton,Arkansas
+75234441@N00,St. Mary,Marion,Kentucky
+29569996@N00,Ocean Springs,Jackson,Mississippi
+54679799@N03,Clarksville,Montgomery,Tennessee
+34086110@N06,Carthage,Hancock,Illinois
+35528040@N04,White Cloud,Doniphan,Kansas
+30097821@N02,Montana
+44382675@N02,Mills,Natrona,Wyoming
+42441750@N03,Elkhurst,Boone,Missouri
+38501252@N04,Hay Creek,Goodhue,Minnesota
+55362117@N06,Toccopola,Pontotoc,Mississippi
+10104446@N08,Rescue,Lawrence,Missouri
+35528040@N04,Winifred,Marshall,Kansas
+34525698@N00,Kentucky
+33815192@N08,Keller,Accomack,Virginia
+35528040@N04,Thompson,Jefferson,Nebraska
+83175475@N00,Opequon,Frederick,Virginia
+36623903@N06,Byron,Oxford,Maine
+35528040@N04,Salida,Chaffee,Colorado
+99075184@N00,Cedar Grove,Van Buren,Tennessee
+39108915@N07,Cedar Lake,Scott,Minnesota
+15129457@N02,Nebraska
+7448869@N03,Lexington,Greene,New York
+32896706@N05,Huron,Erie,Ohio
+24842486@N07,Wittens,Monroe,Ohio
+66955386@N05,York,Delaware,Iowa
+22298021@N06,Johnsville,Morrow,Ohio
+24842486@N07,Harrisville,Harrison,Ohio
+21115034@N04,Montana
+68924697@N00,Pemaquid,Lincoln,Maine
+38956209@N03,Pompey,Onondaga,New York
+29913021@N07,Folsom,Mills,Iowa
+67631347@N08,Bliss,Washington,Missouri
+16919353@N08,Middlefield,Middlesex,Connecticut
+48762421@N00,Utah
+95711628@N00,Steptoe,Whitman,Washington
+34086110@N06,Wheatland,Clinton,Iowa
+85252336@N00,Campbells Corner,Oakland,Michigan
+36623903@N06,Bailey Island,Cumberland,Maine
+48738133@N05,Cherokee,Swain,North Carolina
+15129457@N02,Ford,Logan,Colorado
+38730945@N04,Archery,Webster,Georgia
+76792851@N07,Cedarview,Dallas,Texas
+23651614@N03,Charlottesville,Hancock,Indiana
+38956209@N03,Ava,Oneida,New York
+50821237@N03,Mesquite,Dallas,Texas
+9385421@N08,Cumberland,Adams,Pennsylvania
+53506976@N03,Fort Branch,Gibson,Indiana
+57585113@N07,Smyrna,Rutherford,Tennessee
+94829248@N00,Fifield,Price,Wisconsin
+31714338@N07,Elwyn Terrace,Lancaster,Pennsylvania
+34086110@N06,Newhall,Benton,Iowa
+39108915@N07,Lydia,Scott,Minnesota
+55209231@N08,Verona,Dane,Wisconsin
+35528040@N04,Boulder,Boulder,Colorado
+18199254@N02,Bowling Green,Warren,Kentucky
+79272129@N00,Loomis,Marinette,Wisconsin
+75234441@N00,Manton,Washington,Kentucky
+30381418@N06,Alanreed,Gray,Texas
+51459032@N00,Kearney,Clay,Missouri
+36948942@N08,Sweetwater,Aiken,South Carolina
+96102824@N00,Kittitas,Washington
+24842486@N07,Hanover,Washington,Pennsylvania
+30381418@N06,Pampa,Gray,Texas
+14551936@N03,Palisades Park,Van Buren,Michigan
+30097821@N02,Wyoming
+50449338@N02,Mexican Hat,San Juan,Utah
+77032568@N04,Windsor,Weld,Colorado
+38915448@N05,Brysonia,Adams,Pennsylvania
+35528040@N04,Leyden,Jefferson,Colorado
+36623903@N06,Scarborough,Cumberland,Maine
+31714338@N07,Cochranville,Chester,Pennsylvania
+25820850@N05,Northfield,Washington,Maine
+24842486@N07,New Harrisburg,Carroll,Ohio
+30484128@N03,New York
+36623903@N06,Windham,Cumberland,Maine
+59681011@N03,Beach City,Stark,Ohio
+45133879@N04,Gardiner,Park,Montana
+51436530@N00,San Lorenzo,Grant,New Mexico
+99075184@N00,Chesterfield,St. Louis,Missouri
+28739183@N02,Hinckley,De Kalb,Illinois
+7388762@N03,Maricopa,Arizona
+44592521@N02,Roseau,Roseau,Minnesota
+11629603@N04,Cogan Station,Lycoming,Pennsylvania
+66166073@N04,Ottman Corners,Pierce,Wisconsin
+67129996@N08,Hill Top,Boone,Arkansas
+54159370@N08,Palmyra,Warren,Iowa
+36668800@N00,Nantucket,Nantucket,Massachusetts
+40084825@N07,Linville Falls,Burke,North Carolina
+50751138@N02,Rescue,El Dorado,California
+36599815@N02,Well Spring,Campbell,Tennessee
+31714338@N07,Nevada
+26653963@N00,St. Martinville,St. Martin Parish,Louisiana
+67729220@N00,Marshfield,Wood,Wisconsin
+14992506@N03,Franklin,Chester,Pennsylvania
+48738133@N05,Naperville,Dupage,Illinois
+7448869@N03,Lincoln City,Lincoln,Oregon
+35528040@N04,Agra,Phillips,Kansas
+59660960@N07,Fredericksburg,Fredericksburg City,Virginia
+95242728@N00,Volland,Wabaunsee,Kansas
+8854840@N07,Lake Hamilton,Garland,Arkansas
+57678152@N00,Ravenwood,Prince William,Virginia
+9385421@N08,Wallace,Shoshone,Idaho
+52037119@N02,Janesville,Rock,Wisconsin
+45727373@N02,Talmo,Jackson,Georgia
+36572589@N06,Pollocksville,Jones,North Carolina
+9385421@N08,Council Bluffs,Pottawattamie,Iowa
+59550935@N06,Watertown,Carver,Minnesota
+30484128@N03,New York,Manhattan,New York
+55362117@N06,Longview,Pontotoc,Mississippi
+14992506@N03,Jackson,Lebanon,Pennsylvania
+45727373@N02,Cool Springs Forest,Hall,Georgia
+24842486@N07,Amity,Washington,Pennsylvania
+52789190@N03,Jasper,Dubois,Indiana
+28739183@N02,Flagg,Ogle,Illinois
+36440760@N06,Albert City,Buena Vista,Iowa
+35629248@N02,Galesville,Piatt,Illinois
+38983646@N06,West Falmouth,Barnstable,Massachusetts
+24842486@N07,Uhrichsville,Tuscarawas,Ohio
+38915448@N05,New Oxford,Adams,Pennsylvania
+48453299@N06,Vox,Laurel,Kentucky
+42977165@N03,Stettin,Marathon,Wisconsin
+84704473@N00,Eagle,Wyoming,New York
+98413048@N00,Mountain Grove,Wright,Missouri
+45133879@N04,Leadore,Lemhi,Idaho
+28379086@N00,Arvada,Jefferson,Colorado
+22563225@N04,Washington
+13717541@N04,St. Louis,St. Louis City,Missouri
+24842486@N07,North Bethlehem,Washington,Pennsylvania
+59942143@N02,Maine
+50449338@N02,Yosemite Village,Mariposa,California
+35528040@N04,Hooper,Alamosa,Colorado
+14576241@N00,Lakeville,Sonoma,California
+36118631@N00,Fairwater,Fond du Lac,Wisconsin
+66955386@N05,Darlington,Lafayette,Wisconsin
+10292388@N08,Mansfield,Parke,Indiana
+43233826@N02,Coffeen,Montgomery,Illinois
+24842486@N07,Franklin,Greene,Pennsylvania
+54159370@N08,Sandyville,Warren,Iowa
+24099986@N00,Alps,Meriwether,Georgia
+62788665@N08,Harlem,Columbia,Georgia
+39108915@N07,Wabasha,Wabasha,Minnesota
+35528040@N04,Bremen,Marshall,Kansas
+39108915@N07,Wisconsin
+72782081@N00,Alpine,Carbon,Montana
+22875671@N04,Dover,Racine,Wisconsin
+68221202@N06,Mill Creek,Snohomish,Washington
+30381418@N06,Clarendon,Donley,Texas
+44181155@N08,Enterprise,Hocking,Ohio
+76792851@N07,Omaha,Morris,Texas
+38983646@N06,East Dummerston,Windham,Vermont
+62137073@N00,Iosco,Livingston,Michigan
+55209231@N08,Primrose,Dane,Wisconsin
+29111659@N03,Craig,Holt,Missouri
+79272129@N00,Troy,Madison,Illinois
+39296163@N08,Death Valley,Inyo,California
+24522557@N07,Britton,Marshall,South Dakota
+32896706@N05,Copley,Summit,Ohio
+24842486@N07,Smithfield,Jefferson,Ohio
+8262787@N07,Lowell,Washington,Ohio
+10292388@N08,Edelstein,Peoria,Illinois
+68280878@N08,Chatfield,Wasco,Oregon
+8180080@N04,Stonefort,Saline,Illinois
+35528040@N04,Wilson,Ellsworth,Kansas
+9385421@N08,Wauseon,Fulton,Ohio
+38915448@N05,Mckinstrys Mill,Carroll,Maryland
+8180080@N04,Santa Ynez,Santa Barbara,California
+24842486@N07,Adams,Butler,Pennsylvania
+40084825@N07,Valdese,Burke,North Carolina
+26352778@N08,Vicker,Montgomery,Virginia
+22563225@N04,Eightmile,Morrow,Oregon
+7652577@N05,Montgomery,Orange,New York
+24842486@N07,Collier,Allegheny,Pennsylvania
+54679799@N03,Jeremiah,Putnam,Tennessee
+36623903@N06,Poland,Androscoggin,Maine
+33815192@N08,Parksley,Accomack,Virginia
+62092813@N00,North Palm Springs,Riverside,California
+76006431@N02,Smithtown,Suffolk,New York
+35034357670@N01,Harrisville,Winnebago,Illinois
+57585113@N07,Michigan City,La Porte,Indiana
+49941487@N05,Gallaway,Mendocino,California
+36623903@N06,New Gloucester,Cumberland,Maine
+25708357@N03,Montague,Montague,Texas
+38956209@N03,Fayetteville,Onondaga,New York
+50888533@N06,Fairview,Sherman,Oregon
+7419554@N02,Garfield,Utah
+38956209@N03,Lamoreaux Landing,Seneca,New York
+7652577@N05,Wallkill,Orange,New York
+35528040@N04,Nebraska
+39791583@N03,Mcdonald,Bradley,Tennessee
+40965940@N04,Hammondsville,Jefferson,Ohio
+53506976@N03,Flag Pond,Unicoi,Tennessee
+23720661@N08,Hochheim,Dodge,Wisconsin
+97981496@N00,Boulder,Boulder,Colorado
+72782081@N00,Montana
+55865098@N07,North Orange,Franklin,Massachusetts
+38956209@N03,Himrod,Yates,New York
+24842486@N07,Wherrys Crossroads,Carroll,Ohio
+42328548@N00,Davis,Yolo,California
+75699446@N00,Lindale,Floyd,Georgia
+9586470@N05,Winfield,Cowley,Kansas
+7200789@N06,Jamestown,Boulder,Colorado
+50449338@N02,Hard Rock,Navajo,Arizona
+46355638@N00,Hall,Nebraska
+24842486@N07,Robinson,Washington,Pennsylvania
+83175475@N00,Delmar,Sussex,Delaware
+54679799@N03,Three Way,Madison,Tennessee
+20905078@N04,Mahanoy City,Schuylkill,Pennsylvania
+7419554@N02,Torrey,Wayne,Utah
+29844563@N07,Montana
+27122488@N05,Langdon,Cavalier,North Dakota
+9385421@N08,Lake Placid,Essex,New York
+38956209@N03,Cazenovia,Madison,New York
+66955386@N05,Worthington,Dubuque,Iowa
+33002779@N03,Atalissa,Muscatine,Iowa
+39108915@N07,Estherville,Emmet,Iowa
+36856579@N06,Arden,Buncombe,North Carolina
+55865098@N07,Wyoming
+8262787@N07,Hopewell,Washington,Pennsylvania
+36623903@N06,Casco,Cumberland,Maine
+33002779@N03,Raritan,Henderson,Illinois
+35528040@N04,Niwot,Boulder,Colorado
+42986213@N02,Woolwine,Patrick,Virginia
+26457986@N06,Arizona
+85252336@N00,Concord,Jackson,Michigan
+35629248@N02,Mansfield,Piatt,Illinois
+45727373@N02,Twin Rivers,Hall,Georgia
+50751138@N02,Ione,Amador,California
+54159370@N08,Iowa
+14652470@N07,Montezuma,Solano,California
+47647316@N06,Fort Oglethorpe,Catoosa,Georgia
+36307144@N08,California
+54679799@N03,Shiloh,Jackson,Tennessee
+30381418@N06,Wildorado,Oldham,Texas
+34525698@N00,Wilmington,New Hanover,North Carolina
+87941120@N00,Davenport,Delaware,New York
+67897864@N00,Bigelow,Nobles,Minnesota
+77339363@N00,California
+75234441@N00,Raywick,Marion,Kentucky
+24198800@N03,Alpine,Lincoln,Wyoming
+8180080@N04,Delwood,Pope,Illinois
+42977165@N03,Aniwa,Shawano,Wisconsin
+36599815@N02,Speers Ferry,Scott,Virginia
+42328548@N00,California
+25235850@N03,Lititz,Lancaster,Pennsylvania
+63846678@N04,New Paris,Elkhart,Indiana
+59550935@N06,Brownton,Mcleod,Minnesota
+22298021@N06,Mansfield,Richland,Ohio
+10786632@N02,Greenwich Twp,Warren,New Jersey
+30097821@N02,White Pass,Yakima,Washington
+24842486@N07,Markleysburg,Fayette,Pennsylvania
+10786632@N02,Forks,Northampton,Pennsylvania
+44382675@N02,Colville,Stevens,Washington
+35528040@N04,New Mexico
+54135606@N05,North Haven,Knox,Maine
+36623903@N06,Falmouth,Cumberland,Maine
+43164076@N06,Drakes Branch,Charlotte,Virginia
+7668206@N03,Stow,Middlesex,Massachusetts
+64964567@N00,Enfield,Tompkins,New York
+10104446@N08,Paris Springs,Lawrence,Missouri
+35034357670@N01,Flag Center,Ogle,Illinois
+44382675@N02,Lowell,Henry,Iowa
+43164076@N06,Castlewood,Russell,Virginia
+57585113@N07,Lanier,Blount,Tennessee
+38915448@N05,South Middleton,Cumberland,Pennsylvania
+55362117@N06,Taylor,Lafayette,Mississippi
+39791583@N03,Aubrey,Bartow,Georgia
+20905078@N04,Girardville,Schuylkill,Pennsylvania
+22616393@N04,Wakefield Corner,Westmoreland,Virginia
+62092813@N00,Johnson Valley,San Bernardino,California
+54679799@N03,Cookeville,Putnam,Tennessee
+9385421@N08,Medimont,Kootenai,Idaho
+21115034@N04,Ellsworth,Ellsworth,Kansas
+28321191@N08,Panhandle,Carson,Texas
+24842486@N07,Amsterdam,Jefferson,Ohio
+35528040@N04,Dixon,Rio Arriba,New Mexico
+9385421@N08,Chicago,Cook,Illinois
+69022505@N02,Woodstock,Mchenry,Illinois
+31714338@N07,Andrews Bridge,Lancaster,Pennsylvania
+39791583@N03,Tails Creek,Gilmer,Georgia
+55811172@N04,Calahaln,Davie,North Carolina
+54679799@N03,Nashville,Davidson,Tennessee
+34525698@N00,Asheboro,Randolph,North Carolina
+55209231@N08,Fitchburg,Dane,Wisconsin
+14727556@N07,Marion,Kansas
+10786632@N02,Plainfield,Northampton,Pennsylvania
+50449338@N02,San Joaquin,California
+8854840@N07,Hot Springs,Garland,Arkansas
+36440760@N06,Valeria,Jasper,Iowa
+28379086@N00,Littleton,Arapahoe,Colorado
+11629603@N04,Autryville,Sampson,North Carolina
+21364899@N00,North Cove,Pacific,Washington
+9385421@N08,South Haven,Van Buren,Michigan
+8262787@N07,Churchtown,Washington,Ohio
+55362117@N06,Furrs,Pontotoc,Mississippi
+38501252@N04,Zumbrota,Goodhue,Minnesota
+35896362@N07,Conger,Freeborn,Minnesota
+29849427@N05,Minden,Webster Parish,Louisiana
+44382675@N02,Durango,Dubuque,Iowa
+44181155@N08,Mount Air,Franklin,Ohio
+21655952@N07,Marshalltown,Marshall,Iowa
+8628862@N05,New Hope,Bucks,Pennsylvania
+23985604@N05,Yarmouth,Cumberland,Maine
+90653608@N00,Evening Star,Searcy,Arkansas
+27745058@N05,Livingston,Overton,Tennessee
+35528040@N04,Monte Vista,Rio Grande,Colorado
+24842486@N07,Zoar,Tuscarawas,Ohio
+15823425@N00,Fort Benton,Chouteau,Montana
+71025477@N00,Hagarville,Johnson,Arkansas
+35528040@N04,Nederland,Boulder,Colorado
+24842486@N07,Charm,Holmes,Ohio
+48453299@N06,London,Laurel,Kentucky
+75234441@N00,Denniston,Menifee,Kentucky
+70619288@N00,Weld,Colorado
+22563225@N04,Forest Grove,Washington,Oregon
+39108915@N07,Pattonsburg,Daviess,Missouri
+62788665@N08,Dearing,Mcduffie,Georgia
+54159370@N08,Pomeroy,Calhoun,Iowa
+68221202@N06,La Conner,Skagit,Washington
+54679799@N03,Bangham,Putnam,Tennessee
+68423128@N02,Hatton,Adams,Washington
+30381418@N06,Briscoe,Texas
+24198800@N03,Henry,Caribou,Idaho
+59550935@N06,Revere,Redwood,Minnesota
+75234441@N00,Brownstown,Jackson,Indiana
+35528040@N04,Kiowa,Elbert,Colorado
+7196943@N07,Savanna,Carroll,Illinois
+39108915@N07,Trimbelle,Pierce,Wisconsin
+21655952@N07,Iowa
+57669468@N00,Saline,Washtenaw,Michigan
+35528040@N04,Evergreen,Jefferson,Colorado
+34310864@N03,Utica,Licking,Ohio
+24842486@N07,Jackson,Greene,Pennsylvania
+27469854@N03,Colorado
+36599815@N02,Elkhorn City,Pike,Kentucky
+67729220@N00,Cubage,Bell,Kentucky
+21655952@N07,Malcom,Poweshiek,Iowa
+42328548@N00,Bucktown,Solano,California
+45727373@N02,Georgia
+55209231@N08,Springdale,Dane,Wisconsin
+22563225@N04,Warwick,Klickitat,Washington
+34525698@N00,Mexican Hat,San Juan,Utah
+20143472@N05,California
+94829248@N00,Park Falls,Price,Wisconsin
+59550935@N06,Delft,Cottonwood,Minnesota
+46732441@N06,Gilbert,Lincoln,Kentucky
+59660960@N07,Easton,Fairfield,Connecticut
+55811172@N04,V Point,Iredell,North Carolina
+50449338@N02,El Portal,Mariposa,California
+39296163@N08,Comer,Lauderdale,Alabama
+36118631@N00,Lost Lake,Dodge,Wisconsin
+23330370@N04,Crow Agency,Big Horn,Montana
+22084807@N06,Minnesota
+7652577@N05,Spring Glen,Ulster,New York
+27469854@N03,Texas
+54435347@N08,Valley Forge,Montgomery,Pennsylvania
+7448869@N03,Prattsville,Greene,New York
+54679799@N03,Livingston,Overton,Tennessee
+36599815@N02,Boulder,Scott,Virginia
+63846678@N04,Indiana
+66050290@N06,Wyoming
+50341165@N03,East Galesburg,Knox,Illinois
+23895610@N04,Wells Tannery,Fulton,Pennsylvania
+22513734@N08,Minnesota
+98806158@N00,Waterford,Loudoun,Virginia
+39108915@N07,Alma,Buffalo,Wisconsin
+25334460@N02,Wisconsin
+45727373@N02,Powers Ferry Vantage,Cobb,Georgia
+38983646@N06,Putney,Windham,Vermont
+20467346@N08,Le Claire,Scott,Iowa
+23720661@N08,Horicon,Dodge,Wisconsin
+57585113@N07,Franklin,Williamson,Tennessee
+38506525@N04,Durkee,Baker,Oregon
+8674409@N02,Hartland,Windsor,Vermont
+35629248@N02,Cades Cove,Blount,Tennessee
+79272129@N00,Chesterville,Douglas,Illinois
+26457986@N06,Lake Itasca,Clearwater,Minnesota
+68280878@N08,Van Horn,Hood River,Oregon
+75074063@N00,Golden,Jefferson,Colorado
+66166073@N04,Snows Corner,Pierce,Wisconsin
+22563225@N04,Hillside,Washington,Oregon
+54679799@N03,Algood,Putnam,Tennessee
+59942143@N02,Texas
+15823425@N00,Cleveland,Blaine,Montana
+47647316@N06,Bryant,Sequatchie,Tennessee
+51436530@N00,Tuolumne Meadows,Mariposa,California
+66050290@N06,Westville,Monroe,Mississippi
+26897917@N02,Pelham,Grundy,Tennessee
+23720661@N08,Vinita,Craig,Oklahoma
+31714338@N07,Intercourse,Lancaster,Pennsylvania
+43233826@N02,Cullom,Livingston,Illinois
+9385421@N08,Kellogg,Shoshone,Idaho
+44382675@N02,Oakland Mills,Henry,Iowa
+14727556@N07,Mcpherson,Kansas
+35528040@N04,Oketo,Marshall,Kansas
+10292388@N08,Buda,Bureau,Illinois
+43233826@N02,Mcgirr,De Kalb,Illinois
+38956209@N03,Turin,Lewis,New York
+24842486@N07,Millers Corners,Holmes,Ohio
+7652577@N05,Berlin,Wayne,Pennsylvania
+28379086@N00,El Rancho,Jefferson,Colorado
+27469854@N03,Fort Worth,Tarrant,Texas
+98806158@N00,Schneider Crossroads,Fairfax,Virginia
+36118631@N00,East Friesland,Columbia,Wisconsin
+32694862@N04,Jericho,Chittenden,Vermont
+63846678@N04,North Liberty,St. Joseph,Indiana
+36856579@N06,Spring Mills,Centre,Pennsylvania
+66050290@N06,Virginia City,Madison,Montana
+44382675@N02,Donnellson,Lee,Iowa
+45010354@N08,Esofea,Vernon,Wisconsin
+51439771@N04,Big Spring,Meigs,Tennessee
+35528040@N04,Rio Grande,Colorado
+71025477@N00,Commerce,Ottawa,Oklahoma
+61391415@N05,Green Island,Jackson,Iowa
+14992506@N03,Mount Gretna,Lebanon,Pennsylvania
+50449338@N02,Castle Butte,Navajo,Arizona
+53506976@N03,Fontana Dam,Graham,North Carolina
+53252088@N06,St. Leon,Dearborn,Indiana
+31714338@N07,Sporting Hill,Lancaster,Pennsylvania
+11629603@N04,Cameron,Moore,North Carolina
+34525698@N00,Marion,Mcdowell,North Carolina
+30381418@N06,Shamrock,Wheeler,Texas
+68280878@N08,Wrentham,Wasco,Oregon
+53583922@N02,North Wilkesboro,Wilkes,North Carolina
+23330370@N04,Marshall,Saline,Missouri
+52789190@N03,Union,Pike,Indiana
+35788882@N03,Carlisle,Warren,Iowa
+75234441@N00,Teddy,Casey,Kentucky
+40084825@N07,North Carolina
+7687126@N06,Elba,Washington,Ohio
+53583922@N02,Apple Ridge,Caldwell,North Carolina
+59942143@N02,Bailey Island,Cumberland,Maine
+51116425@N06,Colorado
+68423128@N02,Steptoe,Whitman,Washington
+66050290@N06,St. Mary,Glacier,Montana
+51116425@N06,Gresham,Smith,Texas
+39108915@N07,Trempealeau,Trempealeau,Wisconsin
+7652577@N05,Highland Lake,Sullivan,New York
+26897917@N02,Smyrna,Rutherford,Tennessee
+11629603@N04,Limestone,Lycoming,Pennsylvania
+51288157@N02,Millwood,Knox,Ohio
+46648337@N00,Shepherdstown,Jefferson,West Virginia
+61569433@N07,Ardoch,Walsh,North Dakota
+37611927@N07,Golden,Jefferson,Colorado
+7419554@N02,Bicknell,Wayne,Utah
+38915448@N05,Loys,Frederick,Maryland
+14992506@N03,Lancaster,Lancaster,Pennsylvania
+44382675@N02,Mount Pleasant,Henry,Iowa
+9502513@N02,Essex,Thurston,Washington
+76442005@N04,California
+14992506@N03,Mascot,Lancaster,Pennsylvania
+21655952@N07,Green Mountain,Marshall,Iowa
+28928157@N02,Cave Spring,Limestone,Alabama
+34525698@N00,Old Fort,Mcdowell,North Carolina
+15129457@N02,Sidney,Cheyenne,Nebraska
+44382675@N02,Burlington,Des Moines,Iowa
+45133879@N04,Walkerville,Silver Bow,Montana
+44592521@N02,Arcola,Washington,Minnesota
+38956209@N03,Solon,Cortland,New York
+35528040@N04,Pawnee City,Pawnee,Nebraska
+72782081@N00,Grayling,Gallatin,Montana
+22084807@N06,Deer River,Itasca,Minnesota
+28018306@N08,Leavenworth,Chelan,Washington
+21274934@N00,Santa Cruz,Santa Cruz,California
+66166073@N04,Buffalo,Wisconsin
+33815192@N08,Virginia
+61569433@N07,North Dakota
+76792851@N07,Glen Rose,Somervell,Texas
+56597497@N06,Nicodemus,Graham,Kansas
+99075184@N00,Compton,Rutherford,Tennessee
+10987538@N03,South Strabane,Washington,Pennsylvania
+25235850@N03,Paradise,Lancaster,Pennsylvania
+24842486@N07,Rogersville,Greene,Pennsylvania
+22563225@N04,Wrentham,Wasco,Oregon
+35528040@N04,Odell,Gage,Nebraska
+34086110@N06,Iowa
+33002779@N03,Rio,Knox,Illinois
+30381418@N06,Friona,Parmer,Texas
+40084825@N07,Wisemans View,Mcdowell,North Carolina
+34525698@N00,Canton,Haywood,North Carolina
+31473530@N02,Carmel,Hamilton,Indiana
+46355638@N00,Denman,Adams,Nebraska
+22298021@N06,West Point,Morrow,Ohio
+38956209@N03,Locke,Cayuga,New York
+22875671@N04,Mount Morris,Waushara,Wisconsin
+30381418@N06,Kaffir,Swisher,Texas
+9586470@N05,Tonganoxie,Leavenworth,Kansas
+35528040@N04,Hanover,Washington,Kansas
+44382675@N02,Primrose,Lee,Iowa
+24842486@N07,Morris,Washington,Pennsylvania
+77032568@N04,Welch,Craig,Oklahoma
+53583922@N02,Minneapolis,Avery,North Carolina
+75234441@N00,Smithfield,Henry,Kentucky
+22563225@N04,Boyd,Wasco,Oregon
+30097821@N02,Parkdale,Fremont,Colorado
+7388762@N03,Roosevelt,Gila,Arizona
+23720661@N08,Cheyenne,Laramie,Wyoming
+24842486@N07,Dillonvale,Jefferson,Ohio
+34086110@N06,Collins,Story,Iowa
+39108915@N07,Fountain City,Buffalo,Wisconsin
+12796946@N00,Illinois
+75074063@N00,Longmont,Boulder,Colorado
+39734516@N00,Wisconsin
+35629248@N02,Charleston,Coles,Illinois
+25334460@N02,Ridgeland,Dunn,Wisconsin
+34086110@N06,Milo,Warren,Iowa
+55865098@N07,Arcadia,Hamilton,Indiana
+35528040@N04,Baldwin,Gunnison,Colorado
+35528040@N04,Gunnison,Gunnison,Colorado
+9385421@N08,Long Lake,Hamilton,New York
+97981496@N00,Ward,Boulder,Colorado
+41401735@N07,Rochester Hills,Oakland,Michigan
+35528040@N04,Flagler,Kit Carson,Colorado
+38956209@N03,Lisbon,St. Lawrence,New York
+71025477@N00,Picher,Ottawa,Oklahoma
+71025477@N00,Natural Dam,Crawford,Arkansas
+28018306@N08,Washington
+56368039@N05,Carolina,Itawamba,Mississippi
+44181155@N08,London,Madison,Ohio
+14992506@N03,Elverson,Chester,Pennsylvania
+51436530@N00,Picuris,Taos,New Mexico
+10786632@N02,Readington,Hunterdon,New Jersey
+14992506@N03,Leola,Lancaster,Pennsylvania
+68221202@N06,Steptoe,Whitman,Washington
+9385421@N08,Celina,St. Louis,Minnesota
+36599815@N02,Thompson Mill,Hancock,Tennessee
+75234441@N00,Spencer,Kentucky
+35629248@N02,Prairie Grove,Washington,Arkansas
+45010354@N08,Hampshire,Kane,Illinois
+44382675@N02,Boundary,Stevens,Washington
+42986213@N02,Callaway,Franklin,Virginia
+52037119@N02,Wisconsin
+95242728@N00,Carneiro,Ellsworth,Kansas
+35528040@N04,Wilber,Saline,Nebraska
+35528040@N04,Briggsdale,Weld,Colorado
+44181155@N08,Chrisman,Madison,Ohio
+28739183@N02,Maple Park,Kane,Illinois
+53583922@N02,Mount Airy,Surry,North Carolina
+34525698@N00,Havelock,Craven,North Carolina
+36856579@N06,South Carolina
+95242728@N00,Rice,Cloud,Kansas
+54159370@N08,Westfield,Plymouth,Iowa
+24198800@N03,Dingle,Bear Lake,Idaho
+28710912@N07,Delray,Hampshire,West Virginia
+22298021@N06,Brandywine,Summit,Ohio
+22563225@N04,Grass Valley,Sherman,Oregon
+57788838@N02,Swan Lake,Lake,Montana
+50449338@N02,Bodie,Mono,California
+11629603@N04,Lawrenceville,Tioga,Pennsylvania
+22563225@N04,Scio,Linn,Oregon
+69022505@N02,Marengo,Mchenry,Illinois
+33815192@N08,Bayside,Accomack,Virginia
+14992506@N03,Creswell,Lancaster,Pennsylvania
+25708357@N03,Crisp,Ellis,Texas
+57585113@N07,Linwood,Wilson,Tennessee
+33002779@N03,Illinois
+20467346@N08,Fulton,Whiteside,Illinois
+63846678@N04,Nappanee,Elkhart,Indiana
+75234441@N00,Medora,Jackson,Indiana
+36623903@N06,Naples,Cumberland,Maine
+48738133@N05,New Baden,Clinton,Illinois
+61012761@N07,Nevada
+31714338@N07,East Petersburg,Lancaster,Pennsylvania
+55209231@N08,Wisconsin
+42977165@N03,Wausau,Marathon,Wisconsin
+7388762@N03,Sunflower,Maricopa,Arizona
+7668206@N03,East Corinth,Penobscot,Maine
+66166073@N04,Minnesota
+95711628@N00,Howard,Centre,Pennsylvania
+79272129@N00,Pierron,Bond,Illinois
+15129457@N02,Gurley,Cheyenne,Nebraska
+50449338@N02,Bethany,San Joaquin,California
+54679799@N03,Hamptons Crossroads,White,Tennessee
+56368039@N05,Evergreen,Itawamba,Mississippi
+22563225@N04,Moody,Wasco,Oregon
+8262787@N07,Locust Fork,Washington,Ohio
+31230018@N08,Seneca,Montgomery,Maryland
+15974631@N00,Chalco,Sarpy,Nebraska
+24842486@N07,Loyalhanna,Westmoreland,Pennsylvania
+7568929@N03,Picher,Ottawa,Oklahoma
+59942143@N02,Bowdoin,Sagadahoc,Maine
+28710912@N07,Loom,Hampshire,West Virginia
+46732441@N06,Buckeye,Garrard,Kentucky
+53583922@N02,Cranberry,Avery,North Carolina
+46339880@N03,Riplinger,Clark,Wisconsin
+47647316@N06,Miller River,King,Washington
+26653963@N00,Highland,Doniphan,Kansas
+14992506@N03,Churchtown,Lancaster,Pennsylvania
+22563225@N04,Tygh Valley,Wasco,Oregon
+76006431@N02,New Hampshire
+57585113@N07,Sewanee,Franklin,Tennessee
+7652577@N05,Mamakating,Sullivan,New York
+7568929@N03,Middletown,Lake,California
+9385421@N08,Raquette Lake,Hamilton,New York
+20905078@N04,Fairmount,Luzerne,Pennsylvania
+9385421@N08,Ronan,Lake,Montana
+35516567@N04,Shirland,Winnebago,Illinois
+9385421@N08,Buffalo,Johnson,Wyoming
+30381418@N06,Lark,Carson,Texas
+51288157@N02,Hartford,Licking,Ohio
+57788838@N02,Olney,Flathead,Montana
+57585113@N07,Smyrna Airport,Rutherford,Tennessee
+27592711@N00,Manningtown,Wayne,Georgia
+57585113@N07,Amsworth,Lake,Indiana
+59660960@N07,Bulls Gap,Hawkins,Tennessee
+7419554@N02,Teasdale,Wayne,Utah
+52789190@N03,Huntingburg,Dubois,Indiana
+54679799@N03,Murfreesboro,Rutherford,Tennessee
+50821237@N03,Gilmer,Upshur,Texas
+57585113@N07,Union Cross,Henderson,Tennessee
+36118631@N00,Rio,Columbia,Wisconsin
+10786632@N02,Washington,Warren,New Jersey
+54679799@N03,Sulphur,Overton,Tennessee
+45133879@N04,Woodside,Ravalli,Montana
+26457986@N06,Tucson,Pima,Arizona
+54679799@N03,Shepherdsville,Bullitt,Kentucky
+51116425@N06,Cambridge,Chittenden,Vermont
+10292388@N08,Mount Carroll,Carroll,Illinois
+40084825@N07,Tablerock,Burke,North Carolina
+44592521@N02,New Rome,Sibley,Minnesota
+23330370@N04,Garryowen,Big Horn,Montana
+72782081@N00,Cliff Lake,Madison,Montana
+54679799@N03,Post Oak,Putnam,Tennessee
+33815192@N08,Craddockville,Accomack,Virginia
+38915448@N05,Woodsboro,Frederick,Maryland
+7419554@N02,Wayne,Utah
+48738133@N05,Perks,Pulaski,Illinois
+66166073@N04,Wisconsin
+27592711@N00,Register,Bulloch,Georgia
+39108915@N07,Minnesota
+15823425@N00,Meagher,Montana
+14727556@N07,Cedar Point,Chase,Kansas
+35560475@N07,Charlottesville,Charlottesville City,Virginia
+26352778@N08,Virginia
+7419554@N02,Utah
+25925270@N04,Sheridan,Grant,Arkansas
+57585113@N07,St. John,Lake,Indiana
+30381418@N06,Ropesville,Hockley,Texas
+82642944@N00,Buckhead,Morgan,Georgia
+51187791@N03,Gervais,Marion,Oregon
+51436530@N00,Chiricahua,Cochise,Arizona
+99075184@N00,Lake Drive,Lake,Tennessee
+13717541@N04,East St. Louis,St. Clair,Illinois
+27469854@N03,Erath,Texas
+50449338@N02,Junction Overlook,Apache,Arizona
+29253895@N06,Asbury,Warren,New Jersey
+9385421@N08,Milan,Erie,Ohio
+26994236@N08,North Dakota
+15129457@N02,Jacinto,Kimball,Nebraska
+68423128@N02,Vantage,Kittitas,Washington
+62576274@N05,Piedmont,Calhoun,Alabama
+47647316@N06,Walden,Hamilton,Tennessee
+9863477@N06,Pine,Minnesota
+48738133@N05,Lenzburg,St. Clair,Illinois
+68423128@N02,Washington
+7652577@N05,Colchester,Delaware,New York
+11629603@N04,Floral College,Robeson,North Carolina
+36440760@N06,Aurelia,Cherokee,Iowa
+34525698@N00,Hamlet,Richmond,North Carolina
+85252336@N00,Rochester Hills,Oakland,Michigan
+34310864@N03,Jimtown,Vinton,Ohio
+28018306@N08,Tulsa,Linn,Oregon
+36856579@N06,Pelzer,Anderson,South Carolina
+79272129@N00,Fairview Heights,St. Clair,Illinois
+39108915@N07,Oak Center,Wabasha,Minnesota
+68221202@N06,Montana
+45923298@N00,Champaign,Champaign,Illinois
+30277015@N00,Verona,Dane,Wisconsin
+68924697@N00,Hampton Beach,Rockingham,New Hampshire
+35528040@N04,Baileyville,Nemaha,Kansas
+38956209@N03,Hector,Schuyler,New York
+91218927@N00,Crystal Lake,Mchenry,Illinois
+7652577@N05,Goshen,Orange,New York
+79272129@N00,New Baden,Clinton,Illinois
+61078272@N02,Minnesota
+38513275@N03,Mercer,Mclean,North Dakota
+35528040@N04,Keenesburg,Weld,Colorado
+34525698@N00,Hidetown,Graham,North Carolina
+59681011@N03,Lowellville,Mahoning,Ohio
+53583922@N02,Deep Gap,Watauga,North Carolina
+76006431@N02,Babylon,Suffolk,New York
+29913021@N07,Omaha,Douglas,Nebraska
+39303296@N07,Bentonville,Fayette,Indiana
+92829833@N00,North Bend,Clinton,Pennsylvania
+22563225@N04,Welches,Clackamas,Oregon
+39108915@N07,Hamburg,Carver,Minnesota
+68221202@N06,La Push,Clallam,Washington
+38915448@N05,Waterfall Lake,Roanoke,Virginia
+24842486@N07,Carmichaels,Greene,Pennsylvania
+38039613@N08,Greene,Chenango,New York
+29253895@N06,Harmony,Warren,New Jersey
+34525698@N00,Osborne,Richmond,North Carolina
+30097821@N02,Lake Mead,Clark,Nevada
+48738133@N05,Cades Cove,Blount,Tennessee
+57585113@N07,Rocky Fork,Rutherford,Tennessee
+15129457@N02,Lodgepole,Cheyenne,Nebraska
+62092813@N00,Pearsonville,Inyo,California
+39108915@N07,Le Sueur,Le Sueur,Minnesota
+16919353@N08,Durham,Middlesex,Connecticut
+30381418@N06,Tulia,Swisher,Texas
+44181155@N08,Flint,Franklin,Ohio
+45482104@N00,Newport,Louisa,Iowa
+23330370@N04,Boonville,Cooper,Missouri
+59942143@N02,Galveston,Galveston,Texas
+42986213@N02,Haycock,Floyd,Virginia
+28928157@N02,Springfield,Hampshire,West Virginia
+24198800@N03,Paris,Bear Lake,Idaho
+9385421@N08,Kalispell,Flathead,Montana
+22563225@N04,Locust Grove,Sherman,Oregon
+51995223@N08,Wisemans View,Mcdowell,North Carolina
+55362117@N06,Pannell,Pontotoc,Mississippi
+24842486@N07,Weems,Jefferson,Ohio
+82339538@N00,Slippery Rock,Lawrence,Pennsylvania
+35528040@N04,Lone Elm,Marshall,Kansas
+22513734@N08,Fish Creek,Door,Wisconsin
+53583922@N02,Shelby,Cleveland,North Carolina
+22084807@N06,Togo,Itasca,Minnesota
+68924697@N00,New Harbor,Lincoln,Maine
+62363471@N04,Galena,Jo Daviess,Illinois
+59660960@N07,North Carolina
+35528040@N04,Oneida,Kearney,Nebraska
+34310864@N03,Newville,Richland,Ohio
+36599815@N02,Hagan,Lee,Virginia
+28379086@N00,Archer,Douglas,Colorado
+36623903@N06,Gray,Cumberland,Maine
+72782081@N00,Wyoming
+24842486@N07,Morgan,Greene,Pennsylvania
+24842486@N07,West Middletown,Washington,Pennsylvania
+61012761@N07,California
+95711628@N00,Washington,Wyoming,Pennsylvania
+7200789@N06,Longmont,Boulder,Colorado
+35528040@N04,Riverton,Franklin,Nebraska
+35528040@N04,Mineral Hot Springs,Saguache,Colorado
+61391415@N05,Sabula,Jackson,Iowa
+8180080@N04,Columbia,Boone,Missouri
+45727373@N02,Dougherty,Dawson,Georgia
+24842486@N07,Mount Pleasant,Jefferson,Ohio
+76006431@N02,North Conway,Carroll,New Hampshire
+27966314@N05,Atkins,Benton,Iowa
+36623903@N06,Greenwood,Oxford,Maine
+85252336@N00,Goodison,Oakland,Michigan
+77339363@N00,Tres Pinos,San Benito,California
+87941120@N00,Bovina,Delaware,New York
+53583922@N02,Banner Elk,Avery,North Carolina
+45727373@N02,Juno,Dawson,Georgia
+25334460@N02,Eau Galle,Dunn,Wisconsin
+39734516@N00,Toeterville,Mitchell,Iowa
+11629603@N04,Bastress,Lycoming,Pennsylvania
+68423128@N02,Thorp,Kittitas,Washington
+25925270@N04,Lost Creek,Breathitt,Kentucky
+9385421@N08,Wisconsin Dells,Columbia,Wisconsin
+45740461@N03,Knoebels Grove,Northumberland,Pennsylvania
+14692022@N05,Cherry,Washington,North Carolina
+51116425@N06,Stowe,Lamoille,Vermont
+47647316@N06,Chattanooga,Hamilton,Tennessee
+25334460@N02,Chetek,Barron,Wisconsin
+36440760@N06,Shipley,Story,Iowa
+42441750@N03,Jefferson City,Cole,Missouri
+14937687@N08,Cato,Crawford,Kansas
+35528040@N04,Naponee,Franklin,Nebraska
+30484128@N03,Berlin,Coos,New Hampshire
+9863477@N06,Ripon,Fond du Lac,Wisconsin
+68423128@N02,Quincy,Grant,Washington
+36118631@N00,Nekoosa,Wood,Wisconsin
+95711628@N00,Washington
+44382675@N02,Kettle Falls,Stevens,Washington
+7419554@N02,Hillsdale,Garfield,Utah
+31714338@N07,Pine Swamp,Chester,Pennsylvania
+34525698@N00,Danville,Danville City,Virginia
+11629603@N04,Heshbon Park,Lycoming,Pennsylvania
+36345371@N07,Rochester,Strafford,New Hampshire
+39734516@N00,Hickory Corners,Oconto,Wisconsin
+24842486@N07,Slippery Rock,Lawrence,Pennsylvania
+9385421@N08,North Windham,Windham,Connecticut
+40368377@N04,Pilot Mound,Boone,Iowa
+30484128@N03,Illinois
+71025477@N00,Marble City,Sequoyah,Oklahoma
+66955386@N05,Motor,Clayton,Iowa
+50821237@N03,Texas
+59513968@N03,Brinnon,Jefferson,Washington
+14992506@N03,Upper Leacock,Lancaster,Pennsylvania
+9482198@N03,Arcadia,Hamilton,Indiana
+50449338@N02,San Juan,Utah
+45133879@N04,Corvallis,Ravalli,Montana
+20905078@N04,Watts,Perry,Pennsylvania
+24842486@N07,Trail,Holmes,Ohio
+96739609@N00,Oneida,Eaton,Michigan
+24842486@N07,Amwell,Washington,Pennsylvania
+15603060@N00,Michigan
+28928157@N02,Toney,Madison,Alabama
+54679799@N03,Brotherton,Putnam,Tennessee
+20905078@N04,Dalmatia,Northumberland,Pennsylvania
+30381418@N06,Washburn,Armstrong,Texas
+39296163@N08,Smyrna,Rutherford,Tennessee
+50449338@N02,Tuolumne Meadows,Mariposa,California
+24198800@N03,Chesterfield,Caribou,Idaho
+27469854@N03,Picuris,Taos,New Mexico
+98019953@N00,Shell Rock,Butler,Iowa
+18199254@N02,Guy,Warren,Kentucky
+35528040@N04,Cedar Point,Elbert,Colorado
+35528040@N04,Mosca,Alamosa,Colorado
+34525698@N00,Colorado
+24842486@N07,Bergholz,Jefferson,Ohio
+85252336@N00,Montague,Muskegon,Michigan
+66955386@N05,Rockville,Delaware,Iowa
+55209231@N08,Madison,Dane,Wisconsin
+25304431@N02,Rugby,Morgan,Tennessee
+42986213@N02,Hemlock,Floyd,Virginia
+70619288@N00,Crawford,Dawes,Nebraska
+31714338@N07,Lower Oxford,Chester,Pennsylvania
+35528040@N04,Vliets,Marshall,Kansas
+30381418@N06,Canyon,Randall,Texas
+34525698@N00,New Hill,Wake,North Carolina
+26056610@N06,Steptoe,Whitman,Washington

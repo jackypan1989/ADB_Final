@@ -57,8 +57,8 @@ public class DataCollector {
 	private AuthInterface auth_interface;
 	private MembersInterface member_interface;
 	
-	public static final String apiKey = "5d9aae492ab57f9e11f92bf165eb02ab";
-	public static final String sharedSecret = "0312771298811d3f";	
+	public static final String apiKey = "02d10d4832e2965fdc96f191c6697530";
+	public static final String sharedSecret = "0ad9f9a6213fbd75";	
 	public static Transport transport;
 	public static final String METHOD_GET_INFO = "flickr.photos.getInfo";
 	
@@ -369,12 +369,12 @@ public class DataCollector {
 	}
 
 	
-	public Set<String> findLocationSet(String woe_id,int tid,int t_total) {
+	public Set<String> findLocationSet(String woe_id,String group_id,int tid,int t_total) {
 		SearchParameters search_parameters = new SearchParameters();
 		search_parameters.setWoeId(woe_id);
 
 		//search_parameters.setText("travel");
-		search_parameters.setGroupId("39889516@N00");
+		search_parameters.setGroupId(group_id);
 
 		
 		Set<String> set = new HashSet<String>();
