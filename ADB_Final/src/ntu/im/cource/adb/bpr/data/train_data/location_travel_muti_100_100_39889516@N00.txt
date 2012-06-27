@@ -1,0 +1,1363 @@
+51703707@N03,Headquarters,Navajo,Arizona
+71815599@N07,Colorado
+26890852@N07,Promontory,Box Elder,Utah
+66344885@N00,Colorado
+75113838@N08,Sol Duc Hot Springs,Clallam,Washington
+60178236@N00,Hoh,Jefferson,Washington
+30041070@N00,Idaho
+61574088@N07,Kill Devil Hills,Dare,North Carolina
+26056610@N06,Moran,Teton,Wyoming
+9189676@N06,New York,Manhattan,New York
+36728476@N00,Inyo,California
+29648523@N05,Fort Walton Beach,Okaloosa,Florida
+30771466@N05,East St. Louis,St. Clair,Illinois
+56626682@N05,Florida
+56574591@N04,Grand,Utah
+37706881@N02,Wyoming
+7419554@N02,Oak Creek Residental Area,Washington,Utah
+72216068@N00,Audubon,Montgomery,Pennsylvania
+78655047@N07,Texas
+75113838@N08,Ashford,Pierce,Washington
+93518241@N00,Keei,Hawaii,Hawaii
+20911185@N07,Colorado
+53336750@N06,Swallows Nest,Montezuma,Colorado
+60280790@N06,
+38083714@N07,Montana
+40337715@N08,Michigan
+64829674@N04,Riverside,California
+62153623@N05,Swiftcurrent,Glacier,Montana
+7298460@N03,Arizona
+78169958@N00,Washington,District of Columbia,District of Columbia
+33564585@N02,Riverside,California
+50519685@N00,Utah
+41665856@N05,Volcano,Hawaii,Hawaii
+28393492@N06,
+69251246@N08,Grand Canyon Village,Coconino,Arizona
+67729220@N00,Gatlinburg,Sevier,Tennessee
+53935574@N00,San Francisco,San Francisco,California
+81389833@N00,Harpers Ferry,Jefferson,West Virginia
+54751840@N02,Blackberry Inn,Buncombe,North Carolina
+69275268@N00,St. Augustine,St. Johns,Florida
+28066877@N00,Utah
+54683012@N04,Desert View,Coconino,Arizona
+15225262@N07,Cumberland Gap,Claiborne,Tennessee
+64829674@N04,Capitol Reef,Wayne,Utah
+24206407@N07,Montana
+39444179@N00,Mill Valley,Marin,California
+9753378@N02,Wayne,Utah
+46162734@N04,Oklahoma City,Oklahoma,Oklahoma
+12651709@N00,El Portal,Mariposa,California
+29021614@N05,Utah
+35869018@N03,Idaho
+39548242@N03,Canyon Junction,Park,Wyoming
+56140610@N06,Oak Creek Residental Area,Washington,Utah
+35869018@N03,Old Faithful,Teton,Wyoming
+9611843@N04,Foresta,Mariposa,California
+62482476@N00,Zion Lodge,Washington,Utah
+56863399@N03,Nevada
+33564585@N02,Tuolumne,California
+94028658@N00,Jenny Lake,Teton,Wyoming
+54932558@N00,Foresta,Mariposa,California
+76482139@N04,Coconino,Arizona
+67729220@N00,Swain,North Carolina
+24198800@N03,Moab,Grand,Utah
+7563116@N07,Tremont,Hancock,Maine
+75796297@N00,Grand,Utah
+37511037@N02,Texas
+20911185@N07,Chester,Morris,New Jersey
+28066877@N00,Rubys Inn,Garfield,Utah
+9430178@N08,California
+25478999@N00,Old Fort Bent,Otero,Colorado
+72099637@N00,St. Mary,Glacier,Montana
+19794744@N05,Teton,Wyoming
+52947971@N00,Cincinnati,Hamilton,Ohio
+64337236@N00,Colorado
+88294868@N00,Grand,Colorado
+31528881@N05,Washington,District of Columbia,District of Columbia
+36935983@N05,Moab,Grand,Utah
+89592618@N00,North Carolina
+35527853@N06,Towson,Baltimore,Maryland
+65674027@N03,Beatty Junction,Inyo,California
+10098714@N07,Kane,Utah
+64829674@N04,San Bernardino,California
+26104563@N00,Bryce,Garfield,Utah
+60280790@N06,Bryce,Garfield,Utah
+51485528@N02,Mammoth Hot Springs,Park,Wyoming
+76843175@N05,Crystal Ford,Flathead,Montana
+52254014@N00,Washington,District of Columbia,District of Columbia
+24893739@N00,El Morro,Cibola,New Mexico
+76476320@N02,Rising Sun,Glacier,Montana
+22462942@N05,Appomattox,Appomattox,Virginia
+38662055@N07,Moose,Teton,Wyoming
+42435911@N04,
+25845174@N08,Washington,District of Columbia,District of Columbia
+62153623@N05,Cassidy Curve,Glacier,Montana
+38662055@N07,Desert View,Coconino,Arizona
+45206671@N00,Nevada
+98806158@N00,Big Meadows,Madison,Virginia
+66491457@N05,Gatlinburg,Sevier,Tennessee
+38779837@N05,Hume,Fresno,California
+8398907@N02,Mariposa,California
+7705637@N03,Crater Lake,Klamath,Oregon
+23939795@N04,Tower Junction,Park,Wyoming
+53020444@N06,Utah
+47009573@N04,Ochopee,Collier,Florida
+55331976@N06,Olema,Marin,California
+76903524@N04,Grand,Utah
+23939795@N04,California
+40217799@N04,Stove Pipe Wells,Inyo,California
+7687866@N07,
+7419554@N02,Watchman Residential Area,Washington,Utah
+19794744@N05,Gatlinburg,Sevier,Tennessee
+45841595@N05,West Virginia
+57097080@N08,Bryce,Garfield,Utah
+36249460@N00,Nisqually,Thurston,Washington
+69703769@N05,Utah
+52254014@N00,Oak Creek Residental Area,Washington,Utah
+10336659@N04,Chatham,Monroe,Florida
+45920725@N05,Sharpsburg,Washington,Maryland
+67129996@N08,Ponca,Newton,Arkansas
+60319481@N02,Hiouchi,Del Norte,California
+46986851@N02,Nevada
+22609308@N00,Elkmont,Sevier,Tennessee
+8565602@N03,Gettysburg,Adams,Pennsylvania
+51207472@N04,Coconino,Arizona
+22772978@N08,Michigan City,La Porte,Indiana
+64022943@N03,Hermits Rest,Coconino,Arizona
+15570864@N08,California
+31385447@N07,Utah
+28374189@N06,San Juan,Utah
+99117185@N00,Panorama,Rappahannock,Virginia
+36338453@N03,Grand,Utah
+59489404@N03,Bolar,Highland,Virginia
+75376247@N05,Tuolumne Meadows,Mariposa,California
+42217354@N07,Colorado
+48995606@N04,Bryce Canyon,Garfield,Utah
+35869018@N03,Montana
+25845174@N08,Harpers Ferry,Jefferson,West Virginia
+28374189@N06,Grand,Utah
+45406624@N06,Utah
+65501556@N04,Arizona
+10098714@N07,Bumble Bee,Coconino,Arizona
+46645318@N02,Arizona
+11122699@N05,Swiftcurrent,Glacier,Montana
+62241059@N07,Erbie,Newton,Arkansas
+47009573@N04,Naples,Collier,Florida
+35711403@N02,California
+28255188@N03,New Mexico
+90055788@N00,Flamingo,Monroe,Florida
+38358789@N07,Portland,Northampton,Pennsylvania
+36146175@N07,
+64427723@N00,Colter Bay,Teton,Wyoming
+65490390@N08,Pecos,San Miguel,New Mexico
+23939795@N04,Wyoming
+8816609@N05,Oil City,Jefferson,Washington
+45406624@N06,Old Faithful,Teton,Wyoming
+64393488@N05,Arizona
+24198800@N03,Grovont,Teton,Wyoming
+23947842@N07,Utah
+43523010@N02,La Push,Clallam,Washington
+8109406@N08,Mammoth,Park,Wyoming
+45693831@N00,Fort Pickens,Escambia,Florida
+7687866@N07,Colorado
+59989559@N03,Riverside,Gallatin,Montana
+36728476@N00,San Bernardino,California
+8230519@N05,San Antonio,Bexar,Texas
+40349901@N02,Jersey City,Hudson,New Jersey
+25659368@N03,Paradise Inn,Pierce,Washington
+36668800@N00,California
+64393488@N05,Bryce,Garfield,Utah
+32763208@N04,Tennessee
+69241355@N00,
+28374189@N06,Grand Junction,Mesa,Colorado
+59015561@N04,Barstow,San Bernardino,California
+60011613@N08,Big Pine,Inyo,California
+52816750@N00,Dyersville,Summit,Colorado
+22216536@N07,Miami-Dade,Florida
+65808366@N05,Capitol Reef,Wayne,Utah
+40243520@N02,Corinth,Alcorn,Mississippi
+53336750@N06,Colorado
+32218942@N05,Arizona
+13446545@N00,Washington,District of Columbia,District of Columbia
+66733752@N00,Lowell,Middlesex,Massachusetts
+45406624@N06,Mammoth Hot Springs,Park,Wyoming
+51485528@N02,Gallatin,Montana
+48838566@N05,Zion Lodge,Washington,Utah
+46645318@N02,Badwater,Inyo,California
+8230519@N05,Fort Oglethorpe,Catoosa,Georgia
+47009573@N04,Lone Pine,Inyo,California
+8432336@N08,Fort Screven,Chatham,Georgia
+65808366@N05,Utah
+25007351@N05,Buena Vista,Bexar,Texas
+62153623@N05,West Glacier,Flathead,Montana
+75861672@N00,Port Angeles,Clallam,Washington
+27412365@N00,Riverside,California
+22216536@N07,Monroe,Florida
+57015693@N04,Wyoming
+10139039@N04,Tohopeka,Tallapoosa,Alabama
+56214635@N02,California
+40107744@N04,Shenandoah Homesteads Project,Rappahannock,Virginia
+10535124@N00,Utah
+30628981@N00,Bryce Canyon,Garfield,Utah
+38779837@N05,Haiku,Maui,Hawaii
+65808366@N05,Bryce,Garfield,Utah
+40325239@N06,Seattle,King,Washington
+46195191@N00,Watchman Residential Area,Washington,Utah
+56140610@N06,Yosemite West,Mariposa,California
+28066877@N00,Sausalito,Marin,California
+51298252@N04,Stove Pipe Wells,Inyo,California
+59424469@N08,Washington,District of Columbia,District of Columbia
+65674027@N03,Monument Valley,San Juan,Utah
+65338884@N08,Culberson,Texas
+55980525@N02,Arizona
+27412365@N00,Pinto Wye,Riverside,California
+31061582@N08,Arizona
+88294868@N00,Buffalo Ford,Park,Wyoming
+26865174@N05,Washington,District of Columbia,District of Columbia
+64427723@N00,Upper Pocosin,Greene,Virginia
+65695237@N03,
+17373776@N00,Utah
+13151086@N00,Concord,Middlesex,Massachusetts
+36045841@N04,Foresta,Mariposa,California
+31385447@N07,Virginia
+11581147@N06,St. Louis,St. Louis City,Missouri
+64682727@N03,Arizona
+51485528@N02,Old Faithful,Teton,Wyoming
+52931120@N05,San Francisco,San Francisco,California
+14489732@N00,Pinewood Camp,Tulare,California
+47996991@N04,West Glacier,Flathead,Montana
+56574591@N04,Wyoming
+76476320@N02,Riverside,Gallatin,Montana
+12175608@N00,California
+46837558@N07,Yosemite Village,Mariposa,California
+45406624@N06,Hermits Rest,Coconino,Arizona
+8180080@N04,Old Tucson,Pima,Arizona
+39444179@N00,Arlington,Arlington,Virginia
+46409915@N05,Tuolumne Meadows,Mariposa,California
+47547185@N02,Old Faithful,Teton,Wyoming
+65501556@N04,Utah
+65808366@N05,Mammoth Hot Springs,Park,Wyoming
+47171375@N05,Colorado
+53782060@N06,Cades Cove,Blount,Tennessee
+21924651@N08,Washington,District of Columbia,District of Columbia
+65490390@N08,New Mexico
+39527232@N08,Washington,District of Columbia,District of Columbia
+38083714@N07,St. Mary,Glacier,Montana
+24781107@N05,Navajo,Arizona
+10098714@N07,Hermits Rest,Coconino,Arizona
+31050763@N06,Colorado
+28066877@N00,Watchman Residential Area,Washington,Utah
+82538566@N00,Plains,Sumter,Georgia
+16915209@N08,Colorado
+29099219@N08,Wyoming
+48512944@N04,Utah
+40349901@N02,Lake George,Warren,New York
+42270690@N05,Bumble Bee,Coconino,Arizona
+21109241@N00,Grand Marais,Alger,Michigan
+17373776@N00,Arizona
+56608874@N02,Old Faithful,Teton,Wyoming
+22750875@N05,Bumble Bee,Coconino,Arizona
+13307692@N00,California
+9557567@N07,Washington,Utah
+79815930@N00,Yosemite Village,Mariposa,California
+28857060@N08,Kane,Utah
+43016292@N07,Foresta,Mariposa,California
+46645318@N02,Stove Pipe Wells,Inyo,California
+24893739@N00,Griffin,Christian,Missouri
+27822997@N02,Petersburg,Petersburg City,Virginia
+61874975@N05,New York,New York
+43313685@N06,New York,New York
+12034472@N05,California
+38118039@N05,Hawaii,Hawaii
+40913330@N06,California
+51485528@N02,Fishing Bridge,Teton,Wyoming
+44912860@N05,California
+33564585@N02,Badwater,Inyo,California
+68005051@N00,Bridal Veil,Multnomah,Oregon
+47009573@N04,California
+78809437@N03,Everglades,Collier,Florida
+24893739@N00,Pine Springs,Culberson,Texas
+26927551@N03,Florissant,Teller,Colorado
+17373776@N00,Washington
+48980448@N05,Tuolumne Meadows,Tuolumne,California
+24419989@N07,Apache,Arizona
+22143109@N03,California
+8230519@N05,New Hope,Hardin,Tennessee
+29021614@N05,Wyoming
+13446545@N00,San Juan,Utah
+11325185@N02,San Francisco,San Francisco,California
+28066877@N00,Springdale,Washington,Utah
+56574591@N04,Teton,Wyoming
+36728476@N00,Kelso,San Bernardino,California
+7396528@N02,Crater Lake,Klamath,Oregon
+17373776@N00,New Mexico
+38083714@N07,Zion Lodge,Washington,Utah
+40349901@N02,Stamford,Fairfield,Connecticut
+54751840@N02,Colorado
+51485528@N02,Flamingo,Monroe,Florida
+28706216@N04,South Dakota
+35170601@N06,Sharpsburg,Washington,Maryland
+52931120@N05,Sausalito,Marin,California
+38779837@N05,Old Faithful,Teton,Wyoming
+19287989@N08,Cochise,Arizona
+78574043@N07,Badwater,Inyo,California
+85976052@N00,Sullivans Island,Charleston,South Carolina
+66727626@N00,Overton Beach,Clark,Nevada
+34698905@N00,San Juan,New Mexico
+7202153@N03,Cochise,Arizona
+90648023@N00,Bartlett Cove,Hoonah-Angoon Census Area,Alaska
+66752285@N08,Riverside,California
+67129996@N08,Pea Ridge,Benton,Arkansas
+55132698@N04,Hana,Maui,Hawaii
+7202153@N03,Clarkdale,Yavapai,Arizona
+10725258@N00,Shasta,California
+31154073@N05,Sponge Rocks,Miami-Dade,Florida
+7563116@N07,Bass Harbor,Hancock,Maine
+17357663@N00,San Francisco,San Francisco,California
+50291399@N05,Utah
+26890852@N07,Grand,Utah
+53018678@N05,Jamestown,Cherokee,Alabama
+34695134@N00,Larimer,Colorado
+21467315@N00,Tennessee
+71565143@N00,Old Faithful,Teton,Wyoming
+64337236@N00,Utah
+75376247@N05,Bumble Bee,Coconino,Arizona
+24781107@N05,Volcano,Hawaii,Hawaii
+60280790@N06,Inyo,California
+43016292@N07,Mariposa,California
+36668800@N00,Capulin,Union,New Mexico
+11325185@N02,Grand,Utah
+64682727@N03,
+64022943@N03,Desert View,Coconino,Arizona
+51703707@N03,Arizona
+20478828@N08,Fort Jefferson,Monroe,Florida
+26928526@N07,Carnestown,Collier,Florida
+28430544@N04,Chinle,Apache,Arizona
+76476320@N02,Billings,North Dakota
+54807333@N03,Saratoga Springs,Utah,Utah
+7202153@N03,North Rim,Coconino,Arizona
+35213698@N08,Foresta,Mariposa,California
+76843175@N05,Devils Tower,Crook,Wyoming
+72216068@N00,Warwick,Chester,Pennsylvania
+10334169@N07,Bedford,Middlesex,Massachusetts
+36045841@N04,Tuolumne Meadows,Mariposa,California
+46837385@N03,Monroe,Florida
+7630637@N02,San Francisco,San Francisco,California
+25002297@N03,Desert View,Coconino,Arizona
+51207472@N04,Tuolumne Meadows,Tuolumne,California
+10139039@N04,Atlanta,Fulton,Georgia
+40325239@N06,Mammoth Hot Springs,Park,Wyoming
+24600982@N08,Bernardo,Socorro,New Mexico
+29255497@N05,Stove Pipe Wells,Inyo,California
+51207472@N04,Tuolumne Meadows,Mariposa,California
+69631462@N07,Furnace Creek,Inyo,California
+32077994@N04,Death Valley,Inyo,California
+66801522@N00,California
+43016292@N07,Inyo,California
+45923298@N00,San Antonio,Bexar,Texas
+19794744@N05,Del Norte,California
+28857060@N08,Bumble Bee,Coconino,Arizona
+52261767@N00,Yosemite Village,Mariposa,California
+64436752@N04,California
+54291532@N03,Arizona
+56140610@N06,Utah
+64436752@N04,North Wawona,Mariposa,California
+40337715@N08,Munising,Alger,Michigan
+22701343@N03,Greensboro,Guilford,North Carolina
+78496977@N00,Little Rock,Pulaski,Arkansas
+53782060@N06,Tennessee
+27263572@N05,Badwater,Inyo,California
+64427723@N00,Moran,Teton,Wyoming
+69449428@N07,Utah
+14261072@N08,
+24600982@N08,California
+40349901@N02,Orlando,Orange,Florida
+45406624@N06,Bryce Canyon,Garfield,Utah
+40243520@N02,Forest Home Farms,Williamson,Tennessee
+71815599@N07,Sapinero,Gunnison,Colorado
+33564585@N02,Mariposa,California
+40913330@N06,Foresta,Mariposa,California
+40264695@N02,Yosemite West,Mariposa,California
+38779837@N05,Arizona
+53624362@N04,Yosemite Village,Mariposa,California
+66733752@N00,Orick,Humboldt,California
+73955226@N00,Grovont,Teton,Wyoming
+72213316@N00,California
+25478999@N00,Grand Junction,Mesa,Colorado
+75963423@N04,Grand Canyon Village,Coconino,Arizona
+72099637@N00,Glacier,Montana
+31983034@N05,Texas
+28432176@N00,North Carolina
+33596789@N06,California
+71025477@N00,North Carolina
+71565143@N00,Florida
+35765244@N03,Gatlinburg,Sevier,Tennessee
+7563116@N07,Maine
+11325185@N02,Foresta,Mariposa,California
+65545813@N05,Prairie City,Jasper,Iowa
+26927551@N03,Wyoming
+43016292@N07,Oak Creek Residental Area,Washington,Utah
+59303791@N00,New York,Manhattan,New York
+45389964@N06,Emerald Bay,El Dorado,California
+21467315@N00,Line Spring,Sevier,Tennessee
+52816750@N00,Swallows Nest,Montezuma,Colorado
+12834179@N08,Utah
+35869018@N03,Wyoming
+69098894@N00,Sharpsburg,Washington,Maryland
+64427723@N00,Teton,Wyoming
+75376247@N05,Bryce,Garfield,Utah
+66752285@N08,Desert View,Riverside,California
+65808366@N05,Fruita,Wayne,Utah
+50473412@N00,Moose,Teton,Wyoming
+56709190@N08,Stove Pipe Wells,Inyo,California
+58711154@N00,Teton,Wyoming
+40913330@N06,Desert View,Coconino,Arizona
+46195191@N00,Oil City,Jefferson,Washington
+14489732@N00,Foresta,Mariposa,California
+49255479@N08,
+19346743@N00,Washington,District of Columbia,District of Columbia
+48302493@N00,Elkmont,Sevier,Tennessee
+37726231@N00,Oak Creek Residental Area,Washington,Utah
+25273938@N03,Larimer,Colorado
+37706881@N02,Idaho
+54779840@N02,Ward Cove,Ketchikan Gateway Borough,Alaska
+60962275@N04,Denali,Denali Borough,Alaska
+54697454@N08,Yosemite Village,Mariposa,California
+50380928@N02,Berry Glenn,Humboldt,California
+28066877@N00,Death Valley,Inyo,California
+8432336@N08,Cumberland,Adams,Pennsylvania
+59989559@N03,West Yellowstone,Gallatin,Montana
+25374964@N00,Nevada
+19916358@N00,Peacock,Fairfax,Virginia
+64436752@N04,Washington,District of Columbia,District of Columbia
+9611843@N04,Jenny Lake,Teton,Wyoming
+35917634@N05,Richmond,Contra Costa,California
+11122699@N05,Grovont,Teton,Wyoming
+98806158@N00,Harpers Ferry,Jefferson,West Virginia
+44594674@N06,California
+54932558@N00,Tuolumne Meadows,Mariposa,California
+31385447@N07,Wildrose,Inyo,California
+98806158@N00,Washington,District of Columbia,District of Columbia
+41303762@N00,San Francisco,San Francisco,California
+28312009@N03,Potomac Vista,Prince George's,Maryland
+98806158@N00,Panorama,Rappahannock,Virginia
+42201852@N05,Watchman Residential Area,Washington,Utah
+54291532@N03,Bar Harbor,Hancock,Maine
+58457330@N05,Desert View,Coconino,Arizona
+38662055@N07,Colorado
+24124457@N00,South Dakota
+64393488@N05,Bumble Bee,Coconino,Arizona
+46837385@N03,Swain,North Carolina
+43016292@N07,Tuolumne Meadows,Mariposa,California
+10098714@N07,Coconino,Arizona
+12175608@N00,Twentynine Palms,San Bernardino,California
+52276725@N03,Whitmore Hot Springs,Mono,California
+46837385@N03,Ola,Haywood,North Carolina
+51485528@N02,Kane,Utah
+56574591@N04,Colorado
+23947842@N07,Cades Cove,Blount,Tennessee
+77056186@N00,Weston,Richland,South Carolina
+46282176@N00,Michigan
+7202153@N03,Yavapai,Arizona
+54259492@N00,Zzyzx,San Bernardino,California
+11325185@N02,Marin,California
+41504167@N07,Carlsbad Caverns,Eddy,New Mexico
+36520408@N02,Captain Cook,Hawaii,Hawaii
+96879769@N00,Grand,Utah
+8432336@N08,Gettysburg,Adams,Pennsylvania
+28288950@N00,Hawaii,Hawaii
+22216536@N07,Flamingo,Monroe,Florida
+33564585@N02,Stove Pipe Wells,Inyo,California
+48623792@N00,Tumacacori,Santa Cruz,Arizona
+29255497@N05,Volcano,Hawaii,Hawaii
+22131576@N04,Foresta,Mariposa,California
+25925270@N04,Kenai Peninsula Borough,Alaska
+35869018@N03,Rising Sun,Glacier,Montana
+20235301@N00,Clarkdale,Yavapai,Arizona
+22701343@N03,Wyoming
+74346935@N02,
+59424469@N08,
+29172927@N08,Grand,Utah
+10449543@N05,El Portal,Mariposa,California
+55337377@N03,Devils Tower,Crook,Wyoming
+9521616@N08,Larimer,Colorado
+68610266@N04,Hawaii
+19794744@N05,Tuolumne Meadows,Tuolumne,California
+35213698@N08,Tuolumne Meadows,Mariposa,California
+10535124@N00,Badwater,Inyo,California
+40775084@N05,Utah
+72442527@N00,Gardiner,Park,Montana
+73955226@N00,Moose,Teton,Wyoming
+37706881@N02,Watchman Residential Area,Washington,Utah
+71815599@N07,Montrose,Colorado
+24600982@N08,Socorro,Socorro,New Mexico
+76903524@N04,Sausalito,Marin,California
+38125259@N06,Colorado
+38662055@N07,Castleton,Grand,Utah
+64436752@N04,Yosemite Village,Mariposa,California
+28757758@N02,Nevada
+53624362@N04,South Wawona,Mariposa,California
+48995606@N04,San Francisco,San Francisco,California
+58457330@N05,California
+11325185@N02,Blakes Landing,Marin,California
+45920725@N05,Harpers Ferry,Jefferson,West Virginia
+56140610@N06,Bryce Canyon,Garfield,Utah
+56863399@N03,California
+82489799@N00,Bumble Bee,Coconino,Arizona
+65674027@N03,Yosemite Village,Mariposa,California
+32631884@N03,Utah
+39548242@N03,Death Valley,Inyo,California
+38662055@N07,Spanish Valley,San Juan,Utah
+38662055@N07,Arizona
+29184698@N08,Atlanta,Fulton,Georgia
+62241059@N07,Ponca,Newton,Arkansas
+16086466@N03,Death Valley,Inyo,California
+70940023@N07,Canyon Junction,Park,Wyoming
+48980448@N05,Lee Vining,Mono,California
+50597648@N07,Bayfield,Bayfield,Wisconsin
+76009658@N05,Desert View,Riverside,California
+48512944@N04,Arizona
+78169958@N00,Tuolumne Meadows,Tuolumne,California
+13446545@N00,New Mexico
+9611843@N04,South Wawona,Mariposa,California
+60333627@N05,Vancouver,Clark,Washington
+51207472@N04,Mariposa,California
+52816750@N00,Colorado
+38662055@N07,Dewey,Grand,Utah
+67729220@N00,Cumberland Gap,Claiborne,Tennessee
+26927551@N03,Alaska
+48596554@N00,Denali,Denali Borough,Alaska
+11122699@N05,Teton,Wyoming
+21158898@N06,Grand,Utah
+28374189@N06,Washington,District of Columbia,District of Columbia
+12157792@N06,Utah
+39548242@N03,Wyoming
+35610348@N02,Washington,District of Columbia,District of Columbia
+68280878@N08,Desert View,Coconino,Arizona
+12308893@N07,Bryce,Garfield,Utah
+10535124@N00,Stove Pipe Wells,Inyo,California
+25925270@N04,Denali Borough,Alaska
+39444179@N00,St. Louis,St. Louis City,Missouri
+36728476@N00,Zzyzx,San Bernardino,California
+51485528@N02,Mammoth,Park,Wyoming
+47051377@N00,Bumble Bee,Coconino,Arizona
+9352369@N08,Tropic,Garfield,Utah
+30628981@N00,Arizona
+11512979@N07,Utah
+40217799@N04,Inyo,California
+31050763@N06,Los Angeles,Los Angeles,California
+38720898@N07,Park,Wyoming
+47547185@N02,La Push,Clallam,Washington
+38662055@N07,Natural Bridges,San Juan,Utah
+64829674@N04,Tuolumne Meadows,Mariposa,California
+28727453@N05,Kane,Utah
+39548242@N03,Old Faithful,Teton,Wyoming
+10336659@N04,Florida
+28288950@N00,California
+10449543@N05,Beatty Junction,Inyo,California
+17373776@N00,Colorado
+68610266@N04,Kula,Maui,Hawaii
+19346743@N00,Chantilly,Fairfax,Virginia
+59424469@N08,Waatch,Clallam,Washington
+43848485@N04,Teton,Wyoming
+26056610@N06,Rising Sun,Glacier,Montana
+64022943@N03,Utah
+22462942@N05,Gettysburg,Adams,Pennsylvania
+53782060@N06,Kyrock,Edmonson,Kentucky
+12592344@N04,Flamingo,Monroe,Florida
+7202153@N03,Hilltop,Cochise,Arizona
+35170601@N06,Harpers Ferry,Jefferson,West Virginia
+75113838@N08,Washington,District of Columbia,District of Columbia
+76843175@N05,Montrose,Colorado
+74104052@N00,Utah
+8750391@N06,California
+35170601@N06,Antietam,Washington,Maryland
+48558684@N07,Florida
+56405053@N00,Canyon Junction,Park,Wyoming
+38083714@N07,Rising Sun,Glacier,Montana
+40243520@N02,Shiloh,Hardin,Tennessee
+35869018@N03,Canyon Junction,Park,Wyoming
+40264695@N02,California
+21870353@N04,California
+43523010@N02,Forks,Clallam,Washington
+16086466@N03,Badwater,Inyo,California
+76730958@N07,Inyo,California
+7831498@N08,San Francisco,San Francisco,California
+53336750@N06,Arizona
+26806420@N03,San Antonio,Bexar,Texas
+76476320@N02,Teton,Wyoming
+48713761@N07,Upper Pocosin,Greene,Virginia
+54683012@N04,Colorado
+11334344@N00,North View,Iron,Utah
+31061582@N08,Goldfield,Pinal,Arizona
+44151253@N02,California
+52261767@N00,Volcano,Hawaii,Hawaii
+11653752@N00,Teton,Wyoming
+8012735@N05,Page,Coconino,Arizona
+46986851@N02,Foresta,Mariposa,California
+60141519@N07,Utah
+82489799@N00,Uintah,Utah
+70772633@N00,Monroe,Monroe,Michigan
+37574474@N06,Utah
+8432336@N08,Nickel Creek Station,Culberson,Texas
+21506908@N07,Montezuma,Colorado
+13341934@N05,Wells,York,Maine
+23170612@N05,Atlantic Beach,Carteret,North Carolina
+69631462@N07,Tuolumne Meadows,Tuolumne,California
+26806420@N03,Syria,Madison,Virginia
+46531613@N00,Bryce Canyon,Garfield,Utah
+57181440@N06,Foresta,Mariposa,California
+79466760@N00,Arizona
+34310864@N03,Interior,Jackson,South Dakota
+39137917@N02,Nevada
+77684332@N00,
+21158898@N06,Tuolumne Meadows,Mariposa,California
+54751840@N02,Cades Cove,Blount,Tennessee
+49164599@N00,California
+20478828@N08,Coopertown,Miami-Dade,Florida
+23939795@N04,Colorado
+48512944@N04,North Rim,Coconino,Arizona
+75113838@N08,Gardiner,Park,Montana
+17024488@N00,Utah
+40243520@N02,Chattanooga,Hamilton,Tennessee
+66491457@N05,Tennessee
+72216068@N00,San Francisco,San Francisco,California
+23947842@N07,California
+31385447@N07,Arizona
+8230519@N05,Cumberland,Adams,Pennsylvania
+47096398@N08,Chokoloskee,Collier,Florida
+43016292@N07,Bumble Bee,Coconino,Arizona
+75113838@N08,Old Faithful,Teton,Wyoming
+77856872@N08,Fort Jefferson,Monroe,Florida
+9611843@N04,Wyoming
+48965291@N03,Yosemite Village,Mariposa,California
+78513226@N00,Olympus Heights,Larimer,Colorado
+60319481@N02,Phillipsville,Humboldt,California
+19794744@N05,Bumble Bee,Coconino,Arizona
+56709190@N08,Badwater,Inyo,California
+40913330@N06,Buena Vista,Mariposa,California
+69703769@N05,Grants Village,Teton,Wyoming
+34004192@N05,Yosemite Village,Mariposa,California
+10725258@N00,Hannchen,Modoc,California
+62487754@N00,Paradise Inn,Pierce,Washington
+52276725@N03,California
+65354164@N02,Page,Coconino,Arizona
+67568354@N07,Glen Echo,Warren,Virginia
+60027837@N00,Nevada
+49255479@N08,Utah
+32255194@N07,Stove Pipe Wells,Inyo,California
+68610266@N04,Alaska
+25895994@N04,Mccarthy,Valdez-Cordova Census Area,Alaska
+56608874@N02,Teton,Wyoming
+70940023@N07,Havasupai Indian Reservation,Coconino,Arizona
+38662055@N07,Beaver Creek,Teton,Wyoming
+52816750@N00,Colter Bay,Teton,Wyoming
+11325185@N02,Wayne,Utah
+68222877@N00,Arizona
+28976518@N08,Big Meadows,Madison,Virginia
+43016292@N07,Mono,California
+22216536@N07,Larimer,Colorado
+64337236@N00,New Mexico
+29232178@N03,Birmingham,Jefferson,Alabama
+64393488@N05,New Mexico
+26310678@N02,Grand,Utah
+8432336@N08,Agate,Sioux,Nebraska
+57244421@N00,Wyoming
+46955276@N08,Bryce Canyon,Garfield,Utah
+48980448@N05,Sausalito,Marin,California
+35758004@N00,Washington,District of Columbia,District of Columbia
+11325185@N02,Sacramento Landing,Marin,California
+11122699@N05,Panorama,Rappahannock,Virginia
+9352369@N08,Bryce,Garfield,Utah
+65490390@N08,Colorado
+46955276@N08,Tuolumne Meadows,Mariposa,California
+25895994@N04,Jefferson,Washington
+12175608@N00,Riverside,California
+34645594@N07,Grand Canyon Village,Coconino,Arizona
+35158528@N04,Oil City,Jefferson,Washington
+25478999@N00,Headquarters,Navajo,Arizona
+53624362@N04,El Portal,Mariposa,California
+24781107@N05,Teton,Wyoming
+38720898@N07,Desert View,Coconino,Arizona
+78655047@N07,California
+29219917@N05,California
+10725258@N00,La Push,Clallam,Washington
+46436300@N02,Montana
+22701343@N03,Moose,Teton,Wyoming
+10725258@N00,Jefferson,Washington
+83413148@N00,San Francisco,San Francisco,California
+31061582@N08,Sedona,Yavapai,Arizona
+56140610@N06,Zion Lodge,Washington,Utah
+39527232@N08,San Antonio,Bexar,Texas
+54259492@N00,California
+32733014@N00,Mariposa,California
+76903524@N04,Washington,District of Columbia,District of Columbia
+65490390@N08,Grand Junction,Mesa,Colorado
+24198800@N03,Bryce,Garfield,Utah
+16086466@N03,Buena Vista,Mariposa,California
+40775084@N05,Colorado
+52816750@N00,Natural Bridges,San Juan,Utah
+28857060@N08,Hillsdale,Garfield,Utah
+25659368@N03,Snoqualmie Pass,Kittitas,Washington
+7563116@N07,Arlington,Arlington,Virginia
+25558001@N07,New Mexico
+91852742@N00,Washington,Utah
+19794744@N05,Southwest Harbor,Hancock,Maine
+8816609@N05,Grand,Utah
+43016292@N07,Badwater,Inyo,California
+23249071@N08,Gettysburg,Adams,Pennsylvania
+76476320@N02,Park,Wyoming
+42836099@N07,Washington,District of Columbia,District of Columbia
+57530931@N04,Utah
+75113838@N08,Alaska
+62241059@N07,Pruitt,Newton,Arkansas
+37854997@N02,Grand,Utah
+24304852@N07,Argyle,San Juan,Washington
+73955226@N00,Montana
+36668800@N00,Riverside,California
+7202153@N03,Coconino,Arizona
+65808366@N05,Page,Coconino,Arizona
+42218330@N03,Manassas,Manassas City,Virginia
+44594674@N06,Arizona
+26532442@N05,Ilwaco,Pacific,Washington
+25922525@N02,
+10336659@N04,Paolita Station,Collier,Florida
+7419554@N02,Torrey,Wayne,Utah
+28255188@N03,Oregon
+46195191@N00,Canyon Junction,Park,Wyoming
+48980448@N05,
+70589252@N00,California
+75579867@N07,Marina,Monterey,California
+56709190@N08,Furnace Creek,Inyo,California
+60027837@N00,Tuolumne Meadows,Mariposa,California
+22216536@N07,Grand,Colorado
+38662055@N07,Monument Valley,San Juan,Utah
+62487754@N00,Nisqually Vista,Pierce,Washington
+36728476@N00,Stove Pipe Wells,Inyo,California
+8230519@N05,Corinth,Alcorn,Mississippi
+30319320@N03,Wahweap,Coconino,Arizona
+31385447@N07,Texas
+56031824@N07,Yosemite Village,Mariposa,California
+26104563@N00,Oak Creek Residental Area,Washington,Utah
+40761412@N00,Fairhaven,Bristol,Massachusetts
+84767053@N00,California
+15102029@N00,Frederick Junction,Frederick,Maryland
+40349901@N02,Perth Amboy,Middlesex,New Jersey
+36935983@N05,Monument Valley,San Juan,Utah
+46645318@N02,Pinto Wye,Riverside,California
+69251246@N08,Goulding,San Juan,Utah
+46837385@N03,Fort Harry,Sevier,Tennessee
+12175608@N00,Stove Pipe Wells,Inyo,California
+76665921@N02,
+40349901@N02,New York,Manhattan,New York
+54751840@N02,Blount,Tennessee
+38125259@N06,Chimney Rock,Archuleta,Colorado
+63179229@N00,Colorado
+33596789@N06,Badwater,Inyo,California
+64393488@N05,Glen Canyon,Coconino,Arizona
+40277536@N04,Foresta,Mariposa,California
+19346743@N00,Havre de Grace,Harford,Maryland
+68313075@N02,Utah
+28430544@N04,Rare Metals,Coconino,Arizona
+50519685@N00,Bryce Canyon,Garfield,Utah
+58711154@N00,Pahaska Tepee,Park,Wyoming
+16086466@N03,Tuolumne Meadows,Tuolumne,California
+39548242@N03,Utah
+26890852@N07,Canyon Junction,Park,Wyoming
+9557567@N07,Kane,Utah
+10098714@N07,Notom,Wayne,Utah
+7419554@N02,Fruita,Wayne,Utah
+15402404@N00,Redfish Lake,Custer,Idaho
+68424959@N08,Wyoming
+27047646@N00,Manila,Humboldt,California
+64022943@N03,Grand Canyon Village,Coconino,Arizona
+33564585@N02,Beveridge,Inyo,California
+52507897@N04,California
+72216068@N00,Chesterbrook,Chester,Pennsylvania
+11122699@N05,Great Falls,Fairfax,Virginia
+62153623@N05,St. Mary,Glacier,Montana
+72213316@N00,Whitney Portal,Inyo,California
+7705637@N03,California
+7563116@N07,Assateague Island National Seashore,Worcester,Maryland
+85976052@N00,Arizona
+37984381@N04,Arizona
+36668800@N00,Frijoles,Sandoval,New Mexico
+39444179@N00,Desert View,Coconino,Arizona
+30458297@N00,Idaho
+67129996@N08,Cades Cove,Blount,Tennessee
+8599745@N08,Pecos,San Miguel,New Mexico
+30041070@N00,Utah
+29440978@N06,Michigan
+28288950@N00,Point of Sands,Otero,New Mexico
+21158898@N06,Mono,California
+59848996@N08,Lake Powell,San Juan,Utah
+21467315@N00,Springdale,Washington,Utah
+71565143@N00,Wyoming
+84767053@N00,San Bernardino,California
+13467208@N02,Windigo,Keweenaw,Michigan
+9753378@N02,Moran,Teton,Wyoming
+36304408@N08,Grand,Utah
+37564545@N04,Hume,Fresno,California
+8230519@N05,Chattanooga,Hamilton,Tennessee
+93518241@N00,Calico Basin,Clark,Nevada
+72216068@N00,King of Prussia,Montgomery,Pennsylvania
+69631462@N07,Utah
+10098714@N07,Grand,Utah
+35527853@N06,Frederick Junction,Frederick,Maryland
+54314828@N06,Haiku,Maui,Hawaii
+70940023@N07,Wyoming
+51298252@N04,California
+11325185@N02,Tuolumne Meadows,Mariposa,California
+28976518@N08,Mauck,Page,Virginia
+46611873@N04,San Juan,New Mexico
+14489732@N00,Tuolumne Meadows,Mariposa,California
+39548242@N03,Mammoth,Park,Wyoming
+37564545@N04,Cedar Grove,Fresno,California
+54985458@N04,Idaho
+29255497@N05,Bumble Bee,Coconino,Arizona
+52816750@N00,Oak Creek Residental Area,Washington,Utah
+56863399@N03,Tuolumne Meadows,Mariposa,California
+10334169@N07,Lexington,Middlesex,Massachusetts
+75579867@N07,Seaside,Monterey,California
+46837385@N03,Park,Wyoming
+27933584@N04,Fort Jefferson,Monroe,Florida
+9875439@N08,Paradise Inn,Pierce,Washington
+88294868@N00,Utah
+38083714@N07,Lake Mcdonald,Flathead,Montana
+34293451@N03,Fruita,Wayne,Utah
+28288950@N00,Utah
+70940023@N07,Smugglers Notch,Lamoille,Vermont
+69449428@N07,San Juan,Utah
+30041070@N00,Gallatin,Montana
+9557567@N07,Watchman Residential Area,Washington,Utah
+48995606@N04,Utah
+16086466@N03,Furnace Creek,Inyo,California
+31547604@N02,Monterey,Monterey,California
+28312009@N03,Great Falls,Fairfax,Virginia
+28278900@N02,Fruita,Mesa,Colorado
+36728476@N00,Riverside,California
+24600982@N08,Point of Sands,Otero,New Mexico
+10725258@N00,Gran Quivira,Torrance,New Mexico
+24893739@N00,Headquarters,Navajo,Arizona
+35527853@N06,Araby View,Frederick,Maryland
+54683012@N04,Fruita,Wayne,Utah
+34695815@N04,Walden,Jackson,Colorado
+19794744@N05,Pennington,South Dakota
+65338884@N08,Terlingua Abaja,Brewster,Texas
+10725258@N00,White Pine,Nevada
+10334169@N07,Concord,Middlesex,Massachusetts
+16086466@N03,California
+22507164@N08,Arizona
+52261767@N00,Tuolumne Meadows,Mariposa,California
+36728476@N00,Muir Woods,Marin,California
+76009658@N05,California
+54683012@N04,Arizona
+26532442@N05,Midway,Clallam,Washington
+75966733@N03,Mechanicsville,Hanover,Virginia
+72442527@N00,Blakes Landing,Marin,California
+27803637@N02,California
+36668800@N00,Sandoval,New Mexico
+65545813@N05,Texas
+67729220@N00,Cubage,Bell,Kentucky
+54259492@N00,Kelso,San Bernardino,California
+28857060@N08,Henrieville,Garfield,Utah
+60011613@N08,Monument Valley,San Juan,Utah
+53302966@N06,El Portal,Mariposa,California
+65808366@N05,Wyoming
+57530931@N04,Bryce Canyon,Garfield,Utah
+46821873@N04,Florida
+28727453@N05,Coconino,Arizona
+8230519@N05,Lytle,Walker,Georgia
+8599745@N08,Mammoth Cave,Edmonson,Kentucky
+31385447@N07,Lake Mead,Clark,Nevada
+29219917@N05,Santa Barbara,Santa Barbara,California
+41678548@N03,Utah
+65808366@N05,Monument Valley,San Juan,Utah
+27263572@N05,Bryce,Garfield,Utah
+37512492@N03,Bumble Bee,Coconino,Arizona
+26056610@N06,Tucson,Pima,Arizona
+67129996@N08,Cataloochee,Haywood,North Carolina
+52816750@N00,Arizona
+60280790@N06,Monument Valley,San Juan,Utah
+49164599@N00,Utah
+27723551@N08,Arlington,Arlington,Virginia
+42435911@N04,Nevada
+36935983@N05,Wyoming
+23249071@N08,Cumberland,Adams,Pennsylvania
+9753378@N02,Fruita,Wayne,Utah
+40913330@N06,Yosemite Village,Mariposa,California
+38358789@N07,Pahaquarry,Warren,New Jersey
+31061582@N08,Bumble Bee,Coconino,Arizona
+19916358@N00,Fairview,Fairfax,Virginia
+22461382@N00,Pinnacles,San Benito,California
+68313075@N02,Washington
+8180080@N04,Tucson,Pima,Arizona
+21552630@N07,Utah
+28976518@N08,Great Falls,Fairfax,Virginia
+31050763@N06,Big Bear Lake,San Bernardino,California
+35527853@N06,Sharpsburg,Washington,Maryland
+27263572@N05,Grand Canyon Village,Coconino,Arizona
+65808366@N05,Arizona
+19916358@N00,Alexandria,Alexandria City,Virginia
+53782060@N06,Ollie,Edmonson,Kentucky
+8575813@N05,Fruita,Wayne,Utah
+30149154@N08,Interior,Jackson,South Dakota
+25845174@N08,Greene Twp,Franklin,Pennsylvania
+8230519@N05,Vicksburg,Warren,Mississippi
+68089733@N00,Tuolumne Meadows,Mariposa,California
+47335729@N03,Middlesboro,Bell,Kentucky
+48965291@N03,Tuolumne Meadows,Mariposa,California
+76843175@N05,Keystone,Pennington,South Dakota
+46837385@N03,Colter Bay,Teton,Wyoming
+16086466@N03,Tuolumne Meadows,Mariposa,California
+51794880@N07,Shiloh,Hardin,Tennessee
+35213698@N08,Badwater,Inyo,California
+40775084@N05,Arizona
+48838566@N05,Hana,Maui,Hawaii
+51298252@N04,Michigan
+55393370@N04,Sausalito,Marin,California
+38083714@N07,West Glacier,Flathead,Montana
+31050763@N06,Manhattan Beach,Los Angeles,California
+25304431@N02,Shiloh,Hardin,Tennessee
+31385447@N07,Death Valley,Inyo,California
+11122699@N05,Moose,Teton,Wyoming
+51436530@N00,Tuolumne Meadows,Mariposa,California
+8820084@N02,San Francisco,San Francisco,California
+34514009@N07,Wayne,Utah
+11388208@N04,Page,Coconino,Arizona
+21467315@N00,The Keyhole,Miami-Dade,Florida
+9638267@N03,Baltimore,Baltimore City,Maryland
+46837558@N07,Foresta,Mariposa,California
+30895601@N07,North Rim,Coconino,Arizona
+35158528@N04,La Push,Clallam,Washington
+88294868@N00,Colorado
+51485528@N02,Grand,Utah
+50473412@N00,Wyoming
+9430178@N08,Yosemite Village,Mariposa,California
+50473412@N00,Utah
+97814430@N00,Coconino,Arizona
+36728476@N00,Victory Palms,Riverside,California
+10725258@N00,Point of Sands,Otero,New Mexico
+8432336@N08,Gering,Scotts Bluff,Nebraska
+38779837@N05,Washington
+42836099@N07,Mill Valley,Marin,California
+12308893@N07,Utah
+69251246@N08,Bumble Bee,Coconino,Arizona
+42201852@N05,Stove Pipe Wells,Inyo,California
+74104660@N00,Skyland,Page,Virginia
+54807333@N03,Springdale,Washington,Utah
+72216068@N00,Wayne,Delaware,Pennsylvania
+10535124@N00,California
+38083714@N07,Swiftcurrent,Glacier,Montana
+35527853@N06,Country Side,Frederick,Maryland
+70246166@N04,Jackson,Teton,Wyoming
+22216536@N07,Key Largo,Monroe,Florida
+8230519@N05,Murfreesboro,Rutherford,Tennessee
+25895994@N04,Washington
+97814430@N00,California
+53247049@N07,Virginia
+18345999@N00,Red Rock Point,Flathead,Montana
+57015693@N04,Old Faithful,Teton,Wyoming
+46611873@N04,San Antonio,Bexar,Texas
+76903524@N04,Estelle,Jefferson Parish,Louisiana
+8816609@N05,Rising Sun,Glacier,Montana
+8820084@N02,San Antonio,Bexar,Texas
+8201461@N03,San Francisco,San Francisco,California
+12834179@N08,Badwater,Inyo,California
+50473412@N00,Texas
+58826762@N05,West Branch,Cedar,Iowa
+39548242@N03,Stove Pipe Wells,Inyo,California
+7419554@N02,Springdale,Washington,Utah
+24893739@N00,Nevada
+51485528@N02,Wyoming
+10725258@N00,Siskiyou,California
+21158898@N06,San Juan,Utah
+21109241@N00,Sausalito,Marin,California
+35610348@N02,Arlington,Arlington,Virginia
+47835116@N03,Colorado
+82538566@N00,Atlanta,Fulton,Georgia
+59424469@N08,Great Falls,Montgomery,Maryland
+26056610@N06,Wyoming
+48713761@N07,Great Falls,Fairfax,Virginia
+7633518@N08,Chincoteague,Accomack,Virginia
+47799205@N00,California
+26310678@N02,Bryce,Garfield,Utah
+55337377@N03,Montana
+8061696@N06,California
+99117185@N00,Big Meadows,Madison,Virginia
+28066877@N00,California
+54996333@N04,Grand,Utah
+82489799@N00,Colorado
+72442527@N00,Buffalo Ford,Park,Wyoming
+47009573@N04,Death Valley,Inyo,California
+38779837@N05,Nevada
+7913306@N03,Towson,Baltimore,Maryland
+88294868@N00,Alamosa,Colorado
+17031989@N00,Point of Sands,Otero,New Mexico
+46955276@N08,Utah
+22772978@N08,Porter,Porter,Indiana
+64337236@N00,Arizona
+21158898@N06,Glen Canyon,Coconino,Arizona
+96879769@N00,Tuolumne Meadows,Mariposa,California
+76476320@N02,West Thumb,Teton,Wyoming
+40349901@N02,Pebble Beach,Monterey,California
+56031824@N07,Sequoia,Tuolumne,California
+28278900@N02,Washington,District of Columbia,District of Columbia
+36668800@N00,Pinto Wye,Riverside,California
+37706881@N02,Canyon Junction,Park,Wyoming
+38779837@N05,Siyeh Bend,Glacier,Montana
+39548242@N03,Mammoth Hot Springs,Park,Wyoming
+64393488@N05,Chair Crossing,Coconino,Arizona
+13341934@N05,Plum Island,Essex,Massachusetts
+83261600@N00,Tuolumne Meadows,Mariposa,California
+25895994@N04,California
+46645318@N02,Tuolumne Meadows,Mariposa,California
+48980448@N05,Berne,Custer,South Dakota
+23939795@N04,Foresta,Mariposa,California
+76730958@N07,Colorado
+39548242@N03,Yosemite Village,Mariposa,California
+57181440@N06,Nevada
+8432336@N08,Stafford,Camden,Georgia
+8750391@N06,Yosemite Village,Mariposa,California
+90214320@N00,San Francisco,San Francisco,California
+62153623@N05,Montana
+82129626@N00,Coconino,Arizona
+92957050@N00,Washington,District of Columbia,District of Columbia
+88294868@N00,Montrose,Colorado
+46802316@N02,Nisqually Vista,Pierce,Washington
+76843175@N05,Alamosa,Colorado
+59989559@N03,Wyoming
+90214320@N00,Blakes Landing,Marin,California
+71025477@N00,Gatlinburg,Sevier,Tennessee
+46955276@N08,Bryce,Garfield,Utah
+75365443@N04,Cades Cove,Blount,Tennessee
+21870353@N04,Riverside,California
+9557567@N07,Tuolumne Meadows,Mariposa,California
+51485528@N02,Teton,Wyoming
+42201852@N05,Badwater,Inyo,California
+19794744@N05,Foresta,Mariposa,California
+69418470@N00,Utah
+69251246@N08,Bodie,Mono,California
+31050763@N06,San Francisco,San Francisco,California
+64393488@N05,Gila Hot Springs,Grant,New Mexico
+48980448@N05,Oregon
+21109241@N00,Alger,Michigan
+8282740@N04,Old Faithful,Teton,Wyoming
+9557567@N07,Rubys Inn,Garfield,Utah
+46436300@N02,Fossil Forest,Park,Wyoming
+50473412@N00,Mammoth,Park,Wyoming
+45406624@N06,Grand Canyon Village,Coconino,Arizona
+46837385@N03,Idaho
+17357663@N00,Sausalito,Marin,California
+24893739@N00,Mountainair,Torrance,New Mexico
+59989559@N03,Mammoth Hot Springs,Park,Wyoming
+43016292@N07,Bryce,Garfield,Utah
+64427723@N00,Gatlinburg,Sevier,Tennessee
+72216068@N00,Pine Swamp,Chester,Pennsylvania
+55132698@N04,Washington,District of Columbia,District of Columbia
+42201852@N05,Bryce,Garfield,Utah
+78655047@N07,Yosemite Village,Mariposa,California
+65545813@N05,Old Faithful,Teton,Wyoming
+56574591@N04,San Juan,Utah
+35917634@N05,San Francisco,San Francisco,California
+13177913@N08,Texas
+37574474@N06,Arizona
+45206671@N00,Utah
+12834179@N08,Yosemite Village,Mariposa,California
+36668800@N00,Sands,San Bernardino,California
+78169958@N00,California
+46611873@N04,New Mexico
+17357663@N00,Badwater,Inyo,California
+26890852@N07,Teton,Wyoming
+51485528@N02,Washington,Utah
+29255497@N05,Leilani Estates,Hawaii,Hawaii
+75113838@N08,Great Falls,Fairfax,Virginia
+38745062@N02,Old Faithful,Teton,Wyoming
+22131576@N04,Tuolumne Meadows,Mariposa,California
+7202181@N05,Tuolumne Meadows,Tuolumne,California
+34622166@N04,Hana,Maui,Hawaii
+50446746@N02,California
+97814430@N00,Utah
+45584603@N00,California
+36728476@N00,Wildrose,Inyo,California
+52485578@N02,Arizona
+46837385@N03,Line Spring,Sevier,Tennessee
+54779840@N02,Alaska
+43016292@N07,Clark,Nevada
+65808366@N05,Hermits Rest,Coconino,Arizona
+26865174@N05,Jersey City,Hudson,New Jersey
+7831498@N08,Richmond,Contra Costa,California
+8230519@N05,Bethany,Lee,Mississippi
+32733014@N00,Tuolumne Meadows,Mariposa,California
+28066877@N00,Tuolumne Meadows,Mariposa,California
+61659566@N00,Paradise,Pierce,Washington
+21919055@N07,Florida
+28374189@N06,La Sal Junction,San Juan,Utah
+42955034@N00,Skyland,Page,Virginia
+64829674@N04,Bumble Bee,Coconino,Arizona
+36520408@N02,Roosevelt Lake Gardens East,Gila,Arizona
+56140610@N06,Death Valley,Inyo,California
+11122699@N05,Colter Bay,Teton,Wyoming
+10264954@N02,Sausalito,Marin,California
+11122699@N05,Rising Sun,Glacier,Montana
+42028698@N05,Mill Valley,Marin,California
+48713761@N07,Washington,District of Columbia,District of Columbia
+36668800@N00,Twentynine Palms,San Bernardino,California
+69905034@N00,Yosemite Village,Mariposa,California
+45389964@N06,Nevada
+28857060@N08,Watchman Residential Area,Washington,Utah
+10725258@N00,Tehama,California
+12765764@N08,Scranton,Lackawanna,Pennsylvania
+54697454@N08,Foresta,Mariposa,California
+7687866@N07,Utah
+68313075@N02,California
+62482476@N00,Utah
+76476320@N02,North Dakota
+43292422@N03,Grovont,Teton,Wyoming
+75376247@N05,Utah
+29255497@N05,Hana,Maui,Hawaii
+38720898@N07,Otero,New Mexico
+82489799@N00,Coconino,Arizona
+31385447@N07,Sausalito,Marin,California
+21031140@N08,Bar Harbor,Hancock,Maine
+68824346@N02,Wyoming
+69703769@N05,Monument Valley,San Juan,Utah
+9753378@N02,Grand Canyon Village,Coconino,Arizona
+19794744@N05,West Thumb,Teton,Wyoming
+42201852@N05,Bryce Canyon,Garfield,Utah
+73955226@N00,Wyoming
+8230519@N05,Shiloh,Hardin,Tennessee
+21158898@N06,Mono Mills,Mono,California
+13050545@N03,Gettysburg,Adams,Pennsylvania
+38662055@N07,Glen Canyon,Coconino,Arizona
+9753378@N02,Emery,Utah
+52931120@N05,San Simeon,San Luis Obispo,California
+53624362@N04,Colter Bay,Teton,Wyoming
+40775084@N05,Monument Valley,San Juan,Utah
+72216068@N00,Valley Forge,Montgomery,Pennsylvania
+7419554@N02,Rockville,Washington,Utah
+65501556@N04,Grand Canyon Village,Coconino,Arizona
+68824346@N02,New Mexico
+28288950@N00,Inyo,California
+43292422@N03,Moose,Teton,Wyoming
+76903524@N04,San Francisco,San Francisco,California
+71565143@N00,St. Marks,Wakulla,Florida
+68313075@N02,Tucson,Pima,Arizona
+59015561@N04,Bumble Bee,Coconino,Arizona
+42986213@N02,Harpers Ferry,Jefferson,West Virginia
+52276725@N03,Tuolumne Meadows,Mariposa,California
+10264954@N02,Mono Mills,Mono,California
+70772633@N00,Hill Top,Mccreary,Kentucky
+42435911@N04,Death Valley,Inyo,California
+24893739@N00,Arizona
+25925270@N04,Otero,New Mexico
+47996991@N04,Montana
+40349901@N02,Florida
+10725258@N00,Manzanita Lake,Shasta,California
+59848996@N08,Monument Valley,San Juan,Utah
+26104563@N00,Utah
+68222877@N00,Watchman Residential Area,Washington,Utah
+50473412@N00,Fishing Bridge,Teton,Wyoming
+52947971@N00,Weston,Richland,South Carolina
+40107744@N04,Harpers Ferry,Jefferson,West Virginia
+38083714@N07,Red Rock Point,Flathead,Montana
+34825263@N00,Vista Encantada,Coconino,Arizona
+9557567@N07,Riverside,California
+74346935@N02,Tuolumne Meadows,Mariposa,California
+30895601@N07,Grand Canyon Village,Coconino,Arizona
+69769882@N06,Interior,Jackson,South Dakota
+64829674@N04,Badwater,Inyo,California
+88294868@N00,Indian Grove,Cassia,Idaho
+35053748@N00,Shasta,California
+26457986@N06,Tucson,Pima,Arizona
+38301288@N07,Henrieville,Garfield,Utah
+38662055@N07,Utah
+38988487@N06,Colorado
+24198800@N03,Utah
+45242227@N08,Foresta,Mariposa,California
+46195191@N00,Arizona
+7419554@N02,Washington,Utah
+66336347@N08,Wyoming
+50473412@N00,San Antonio,Bexar,Texas
+69769882@N06,South Dakota
+73955226@N00,Old Faithful,Teton,Wyoming
+51242779@N02,Desert View,Coconino,Arizona
+21158898@N06,Kane,Utah
+54683012@N04,Utah
+60056884@N07,New York,Manhattan,New York
+70772633@N00,Lancing,Morgan,Tennessee
+23939795@N04,Yosemite Village,Mariposa,California
+62241059@N07,Marble Falls,Newton,Arkansas
+19794744@N05,Truro,Barnstable,Massachusetts
+7419554@N02,Utah
+46645318@N02,Death Valley,Inyo,California
+36668800@N00,San Bernardino,California
+36304408@N08,Utah
+46837385@N03,Kentucky
+28867586@N00,Utah
+47335729@N03,Cumberland Gap,Claiborne,Tennessee
+36935983@N05,Mammoth Hot Springs,Park,Wyoming
+45389964@N06,
+65354164@N02,Grand Canyon Village,Coconino,Arizona
+12651709@N00,Tuolumne Meadows,Mariposa,California
+46837385@N03,Cherokee,Swain,North Carolina
+65674027@N03,Arizona
+29827727@N07,Allenspark,Boulder,Colorado
+38118039@N05,Moa Heiau,Hawaii,Hawaii
+10259875@N03,Muir Woods,Marin,California
+40107744@N04,Townsend,Blount,Tennessee
+30041070@N00,San Juan,Utah
+65695237@N03,Glen Canyon,Coconino,Arizona
+46162734@N04,
+26111567@N00,Williamsburg,Williamsburg City,Virginia
+36520408@N02,Aiea,Honolulu,Hawaii
+60280790@N06,Colorado
+53018678@N05,Blanche,Cherokee,Alabama
+11325185@N02,Washington,District of Columbia,District of Columbia
+26806420@N03,Big Meadows,Madison,Virginia
+65490390@N08,Utah
+15402404@N00,Washington
+40243520@N02,Montague,Jackson,Alabama
+62153623@N05,Glacier,Montana
+11414092@N06,San Simeon,San Luis Obispo,California
+26806420@N03,Spring Branch,Comal,Texas
+26743988@N06,Idaho
+28288950@N00,Saguache,Colorado
+35053748@N00,San Bernardino,California
+64427723@N00,Cherokee,Swain,North Carolina
+31547604@N02,Sausalito,Marin,California
+42836099@N07,Tiburon,Marin,California
+73955226@N00,Moran,Teton,Wyoming
+10725258@N00,Otero,New Mexico
+24781107@N05,Hana,Maui,Hawaii
+28066877@N00,Bryce,Garfield,Utah
+10336659@N04,Trailtown,Collier,Florida
+38779837@N05,Moran,Teton,Wyoming
+52261767@N00,California
+40325239@N06,Wyoming
+51485528@N02,Oak Creek Residental Area,Washington,Utah
+16086466@N03,Inyo,California
+64436752@N04,Tuolumne Meadows,Tuolumne,California
+43016292@N07,Washington,Utah
+74104052@N00,New Mexico
+51794880@N07,Speck,Scott,Tennessee
+10098714@N07,Desert View,Coconino,Arizona
+66035580@N00,Clallam,Washington
+75861672@N00,Oil City,Jefferson,Washington
+64427723@N00,Big Meadows,Madison,Virginia
+52822882@N07,Yosemite Village,Mariposa,California
+8230519@N05,Wildwood,Dade,Georgia
+54985458@N04,Foresta,Mariposa,California
+8230519@N05,West Shiloh,Mcnairy,Tennessee
+48512944@N04,Crater Lake,Klamath,Oregon
+57529957@N00,Yosemite Village,Mariposa,California
+35869018@N03,Bannock Ford,Park,Wyoming
+52966955@N00,Bryce Canyon,Garfield,Utah
+62968320@N06,Fort Matanzas,St. Johns,Florida
+25007351@N05,San Antonio,Bexar,Texas
+58711154@N00,Devils Tower,Crook,Wyoming
+29798823@N04,Assateague Island National Seashore,Worcester,Maryland
+55011269@N00,Gettysburg,Adams,Pennsylvania
+64829674@N04,Stove Pipe Wells,Inyo,California
+28857060@N08,Navajo,Arizona
+69703769@N05,Moab,Grand,Utah
+65545813@N05,Utah
+64393488@N05,Utah
+56031824@N07,Tuolumne Meadows,Mariposa,California
+28430544@N04,Willow Springs,Coconino,Arizona
+82489799@N00,Bryce,Garfield,Utah
+23939795@N04,Arizona
+76476320@N02,Lake,Teton,Wyoming
+26104563@N00,Zion Lodge,Washington,Utah
+68313075@N02,Arizona
+33569626@N08,Utah
+62487754@N00,Clallam,Washington
+53020444@N06,Grand Canyon Village,Coconino,Arizona
+29219917@N05,Goleta,Santa Barbara,California
+60141519@N07,Moose,Teton,Wyoming
+30041070@N00,Devils Den,Park,Wyoming
+70940023@N07,Old Faithful,Teton,Wyoming
+31050763@N06,Sacramento,Sacramento,California
+19794744@N05,Delaware,Pike,Pennsylvania
+26865174@N05,New York,Manhattan,New York
+37564545@N04,Denali Borough,Alaska
+17373776@N00,Bumble Bee,Coconino,Arizona
+10725258@N00,Mason,Washington
+33564585@N02,Inyo,California
+38083714@N07,Arizona
+50380928@N02,Bryce Canyon,Garfield,Utah
+46031394@N00,Tulare,California
+10299779@N03,Washington,District of Columbia,District of Columbia
+28976518@N08,Oldrag,Madison,Virginia
+7202153@N03,Bumble Bee,Coconino,Arizona
+59989559@N03,Old Faithful,Teton,Wyoming
+76476320@N02,Old Faithful,Teton,Wyoming
+79924635@N00,Oregon
+45406624@N06,Wyoming
+76730958@N07,Navajo,Arizona
+57530931@N04,Death Valley,Inyo,California
+99117185@N00,Great Falls,Fairfax,Virginia
+75113838@N08,Devils Tower,Crook,Wyoming
+51485528@N02,Watchman Residential Area,Washington,Utah
+39719547@N03,
+48290128@N08,Death Valley,Inyo,California
+13675635@N08,Montana
+50473412@N00,Beaver Creek,Teton,Wyoming
+30041070@N00,Park,Wyoming
+13467208@N02,Uintah,Utah
+59424469@N08,Great Falls,Fairfax,Virginia
+42204057@N00,Coconino,Arizona
+32631884@N03,Mammoth Hot Springs,Park,Wyoming
+55594805@N04,Yosemite Village,Mariposa,California
+10334169@N07,Frederick Junction,Frederick,Maryland
+44912860@N05,Stove Pipe Wells,Inyo,California
+34695815@N04,Rapid City,Pennington,South Dakota
+34645594@N07,Arizona
+24781107@N05,Grovont,Teton,Wyoming
+20207630@N04,
+24206407@N07,Cassidy Curve,Glacier,Montana
+55980525@N02,Wyoming
+46195191@N00,Bryce,Garfield,Utah
+59424469@N08,Potomac,Montgomery,Maryland
+48995606@N04,California
+53712040@N06,Washington,District of Columbia,District of Columbia
+82129626@N00,Page,Coconino,Arizona
+79924635@N00,Utah
+46645318@N02,Nevada
+59777149@N02,Bryce,Garfield,Utah
+8230519@N05,Savannah,Hardin,Tennessee
+90055788@N00,Florida
+48980448@N05,Idaho
+25478999@N00,Arizona
+11122699@N05,Jenny Lake,Teton,Wyoming
+47009573@N04,Stove Pipe Wells,Inyo,California
+12856235@N03,Morro Bay,San Luis Obispo,California
+8816609@N05,Kalaloch,Jefferson,Washington
+36668800@N00,Amboy,San Bernardino,California
+9611843@N04,Old Faithful,Teton,Wyoming
+29099219@N08,Old Faithful,Teton,Wyoming
+56140610@N06,San Francisco,San Francisco,California
+9753378@N02,Bryce Canyon,Garfield,Utah
+59989559@N03,Mammoth,Park,Wyoming
+8816609@N05,White Pine,Nevada
+76730958@N07,Tuolumne Meadows,Mariposa,California
+21752789@N02,California
+51298252@N04,Badwater,Inyo,California
+21109241@N00,Hume,Fresno,California
+24893739@N00,Texas
+47009573@N04,Lee Vining,Mono,California
+28430544@N04,Tuba City,Coconino,Arizona
+60463117@N02,Jersey City,Hudson,New Jersey
+9753378@N02,San Juan,Utah
+56574591@N04,Grovont,Teton,Wyoming
+31682839@N08,New York,New York
+79815930@N00,California
+43016292@N07,Stove Pipe Wells,Inyo,California
+42139271@N00,Appomattox,Appomattox,Virginia
+75963423@N04,Oak Creek Residental Area,Washington,Utah
+10098714@N07,Bryce,Garfield,Utah
+48995032@N04,Wyoming
+11422178@N00,Arizona
+54779840@N02,Ketchikan,Ketchikan Gateway Borough,Alaska
+11357234@N06,Moran,Teton,Wyoming
+31547604@N02,Richmond,Contra Costa,California
